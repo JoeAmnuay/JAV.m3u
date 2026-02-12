@@ -1,4 +1,4 @@
-#EXTM3U url="https://raw.githubusercontent.com/JoeAmnuay/Test.m3u/refs/heads/main/Test.m3u"
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png"group-title="DIGITAL TV",3HD
 https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png"group-title="DIGITAL TV",CH5
