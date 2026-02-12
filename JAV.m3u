@@ -102,6 +102,9 @@ https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX7.m3u8
 #EXTINF:-1 tvg-name="MONOMAX8" tvg-logo="https://i.postimg.cc/x8HvNyJ5/Screenshot-2569-0208-154054.png" group-title="MONOMAX",MONOMAX8
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX8.m3u8
+#EXTINF:-1 tvg-name="MONOMAX2" tvg-logo="https://i.postimg.cc/x8HvNyJ5/Screenshot-2569-0208-154054.png" group-title="MONO MAX",MONOMAX2
+#EXTVLCOPT:http-referrer=https://github.com/
+https://ww.dooballfree.vip/live/monomax-2/playlist.m3u8
 #EXTINF:-1 tvg-name="TrueSportHD" tvg-logo="https://i.postimg.cc/Vs4Srxcb/Screenshot-2569-0213-012229.png" group-title="Sports",TrueSportHD
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/truesport1.m3u8
