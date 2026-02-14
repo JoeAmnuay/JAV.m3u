@@ -55,30 +55,33 @@ https://www.pptvhd36.com/live
 http://news1.live14.com/stream/news1_hi.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fbzNzJSG/IMG-2597.png"group-title="DIGITAL TV",PoliceTV
 https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
-#EXTINF:-1 tvg-name="1" tvg-logo="https://i.postimg.cc/8zjTDyqs/kk-Nkj-ZJo-Hbynd9JDPq-F2.webp" group-title="THAI LEAGUE",1
+
+
+#EXTINF:-1 tvg-name="1" tvg-logo="https://i.postimg.cc/CLR7Y5JT/kk-Nkj-ZJo-Hbynd9JDPq-F2-removebg-preview.png" group-title="THAI LEAGUE",1
 #EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com/
 https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL001/HLS/TL001.m3u8
-#EXTINF:-1 tvg-name="2" tvg-logo="https://i.postimg.cc/8zjTDyqs/kk-Nkj-ZJo-Hbynd9JDPq-F2.webp" group-title="THAI LEAGUE",2
+#EXTINF:-1 tvg-name="2" tvg-logo="https://i.postimg.cc/CLR7Y5JT/kk-Nkj-ZJo-Hbynd9JDPq-F2-removebg-preview.png" group-title="THAI LEAGUE",2
 #EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com/
 https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL002/HLS/TL002.m3u8
-#EXTINF:-1 tvg-name="3" tvg-logo="https://i.postimg.cc/8zjTDyqs/kk-Nkj-ZJo-Hbynd9JDPq-F2.webp" group-title="THAI LEAGUE",3
+#EXTINF:-1 tvg-name="3" tvg-log="https://i.postimg.cc/CLR7Y5JT/kk-Nkj-ZJo-Hbynd9JDPq-F2-removebg-preview.png" group-title="THAI LEAGUE",3
 #EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com/
 https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL003/HLS/TL003.m3u8
-#EXTINF:-1 tvg-name="4" tvg-logo="https://i.postimg.cc/8zjTDyqs/kk-Nkj-ZJo-Hbynd9JDPq-F2.webp" group-title="THAI LEAGUE",4
+#EXTINF:-1 tvg-name="4" tvg-logo="https://i.postimg.cc/CLR7Y5JT/kk-Nkj-ZJo-Hbynd9JDPq-F2-removebg-preview.png" group-title="THAI LEAGUE",4
 #EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com/
 https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL004/HLS/TL004.m3u8
-#EXTINF:-1 tvg-name="5" tvg-logo="https://i.postimg.cc/8zjTDyqs/kk-Nkj-ZJo-Hbynd9JDPq-F2.webp" group-title="THAI LEAGUE",5
+#EXTINF:-1 tvg-name="5" tvg-logo="https://i.postimg.cc/CLR7Y5JT/kk-Nkj-ZJo-Hbynd9JDPq-F2-removebg-preview.png" group-title="THAI LEAGUE",5
 #EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com/
 https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL005/HLS/TL005.m3u8
-#EXTINF:-1 tvg-name="6" tvg-logo="https://i.postimg.cc/8zjTDyqs/kk-Nkj-ZJo-Hbynd9JDPq-F2.webp" group-title="THAI LEAGUE",6
+#EXTINF:-1 tvg-name="6" tvg-logo="https://i.postimg.cc/CLR7Y5JT/kk-Nkj-ZJo-Hbynd9JDPq-F2-removebg-preview.png" group-title="THAI LEAGUE",6
 #EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com/
 https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL006/HLS/TL006.m3u8
-#EXTINF:-1 tvg-name="7" tvg-logo="https://i.postimg.cc/8zjTDyqs/kk-Nkj-ZJo-Hbynd9JDPq-F2.webp" group-title="THAI LEAGUE",7
+#EXTINF:-1 tvg-name="7" tvg-logo="https://i.postimg.cc/CLR7Y5JT/kk-Nkj-ZJo-Hbynd9JDPq-F2-removebg-preview.png" group-title="THAI LEAGUE",7
 #EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com/
 https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL007/HLS/TL007.m3u8
-#EXTINF:-1 tvg-name="8" tvg-logo="https://i.postimg.cc/8zjTDyqs/kk-Nkj-ZJo-Hbynd9JDPq-F2.webp" group-title="THAI LEAGUE",8
+#EXTINF:-1 tvg-name="8" tvg-logo="https://i.postimg.cc/CLR7Y5JT/kk-Nkj-ZJo-Hbynd9JDPq-F2-removebg-preview.png" group-title="THAI LEAGUE",8
 #EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com/
 https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL008/HLS/TL008.m3u8
+
 
 #EXTINF:-1 tvg-name="MONOMAX1" tvg-logo="https://i.postimg.cc/x8HvNyJ5/Screenshot-2569-0208-154054.png" group-title="MONOMAX",MONOMAX1
 #EXTVLCOPT:http-referrer=https://github.com
