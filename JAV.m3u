@@ -105,6 +105,10 @@ https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX8.m3u8
 #EXTINF:-1 tvg-name="MONOMAX2" tvg-logo="https://i.postimg.cc/x8HvNyJ5/Screenshot-2569-0208-154054.png" group-title="MONOMAX",MONOMAX2
 #EXTVLCOPT:http-referrer=https://github.com/
 https://ww.dooballfree.vip/live/monomax-2/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Vs4Srxcb/Screenshot-2569-0213-012229.png",TRUE Football 3
+https://ww.dooballfree.vip/live/tpf3/playlist.m3u8
 #EXTINF:-1 tvg-name="TrueSportHD" tvg-logo="https://i.postimg.cc/Vs4Srxcb/Screenshot-2569-0213-012229.png" group-title="Sports",TrueSportHD
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/truesport1.m3u8
@@ -6758,10 +6762,151 @@ https://ezycdn.com/playlist-3n3m65o-FHD.m3u8
 
 #EXTINF:-1 group-title="--------" tvg-logo="https://pics.dmm.co.jp/digital/video/ebwh00253/ebwh00253pl.jpg",EBWH-253 เผลอใจให้โรคจิต ชีวิตติดโซเดมาคอม
 https://ezycdn.com/playlist-2vuei8o-FHD.m3u8
+#EXTINF:-1 group-title="--------" tvg-logo="https://image.mgstage.com/images/prestige/dlv/005/pb_e_dlv-005.jpg",DLV-005 แฟนเช่าหน้าใส จัดให้ถึงที่
+https://ezycdn.com/playlist-fvth85o-FHD.m3u8
 
+#EXTINF:-1 group-title="--------" tvg-logo="https://pics.dmm.co.jp/digital/video/dass00045/dass00045pl.jpg",DASS-045 เปิดเกมล่าท้าลอง สองพี่น้องจ้องกลืนกิน
+https://ezycdn.com/playlist-ft2ut3g-FHD.m3u8
 
+#EXTINF:-1 group-title="--------" tvg-logo="https://pics.dmm.co.jp/digital/video/oksn00184/oksn00184pl.jpg",OKSN-184 แว่นซดเกลี้ยง แม่เลี้ยงอร่อยจัด
+https://ezycdn.com/playlist-3psblvg-FHD.m3u8
 
+#EXTINF:-1 group-title="--------" tvg-logo="https://pics.dmm.co.jp/digital/video/nsps00715/nsps00715pl.jpg",NSPS-715 เมียแผนผิด ภารกิจเอ็นทีอาร์
+https://ezycdn.com/playlist-3va4utg-FHD.m3u8
 
+#EXTINF:-1 group-title="--------" tvg-logo="https://pics.dmm.co.jp/digital/video/atid00530/atid00530pl.jpg",ATID-530 เส้นทางฝัน บัลลังก์ไอดอล
+https://ezycdn.com/playlist-fbrc1uo-FHD.m3u8
+
+#EXTINF:-1 group-title="--------" tvg-logo="https://pics.dmm.co.jp/digital/video/adn00629/adn00629pl.jpg",ADN-629 สะใภ้ใจแตก แหกกฎศีลธรรม
+https://ezycdn.com/playlist-f92blgo-FHD.m3u8
+
+#EXTINF:-1 group-title="--------" tvg-logo="https://image.mgstage.com/images/prestige/abf/259/pb_e_abf-259.jpg",ABF-259 หวนคืนงานเลี้ยงรุ่น อุ่นไอรักเพื่อนเก่า
+https://ezycdn.com/playlist-f5i98s0-FHD.m3u8
+
+#EXTINF:-1 group-title="--------" tvg-logo="https://pics.dmm.co.jp/digital/video/ebwh00246/ebwh00246pl.jpg",EBWH-246 เขางอกบอกตัวตน แม่บ้านมนต์ดำ
+https://ezycdn.com/playlist-g422188-FHD.m3u8
+
+#EXTINF:-1 group-title="--------" tvg-logo="https://pics.dmm.co.jp/digital/video/eyan00204/eyan00204pl.jpg",EYAN-204 เพลิงสวาทแม่บ้าน สะท้านเต้าเขย่าควย
+https://ezycdn.com/playlist-g79ktdo-FHD.m3u8
+
+#EXTINF:-1 group-title="--------" tvg-logo="https://pics.dmm.co.jp/digital/video/royd00260/royd00260pl.jpg",ROYD-260 เมินหนุ่มออฟฟิศ ไปฟิตกับน้องหมี
+https://ezycdn.com/playlist-ga2n0ho-FHD.m3u8
+#EXTINF:-1 group-title="--------" tvg-logo="https://pics.dmm.co.jp/digital/video/adn00601/adn00601pl.jpg",ADN-601 พ่อผัวสวมรอย
+https://ezycdn.com/playlist-g1968u8-FHD.m3u8
+
+#EXTINF:-1 group-title="--------" tvg-logo="https://pics.dmm.co.jp/digital/video/same00013/same00013pl.jpg",SAME-013 นักสืบสาวล่าแค้น ต้องแหกแดนเดนนรก
+https://ezycdn.com/playlist-furshog-FHD.m3u8
+
+#EXTINF:-1 group-title="--------" tvg-logo="https://pics.dmm.co.jp/digital/video/roe00070/roe00070pl.jpg",ROE-070 ลูกแน่วแน่ อีแม่รอหย่า
+https://ezycdn.com/playlist-mu65na0-FHD.m3u8
+
+#EXTINF:-1 group-title="--------" tvg-logo="https://pics.dmm.co.jp/digital/video/hmn00730/hmn00730pl.jpg",HMN-730 พนักงานใจแตก แจกรักผู้จัดการ
+https://ezycdn.com/playlist-po4vlco-FHD.m3u8
+
+#EXTINF:-1 group-title="--------" tvg-logo="https://pics.dmm.co.jp/digital/video/jur00323/jur00323pl.jpg",JUR-323 อดีตตัวท็อปปิดจ๊อบที่รุ่นลูก
+https://ezycdn.com/playlist-pih5hq8-FHD.m3u8
+
+#EXTINF:-1 group-title="--------" tvg-logo="https://pics.dmm.co.jp/digital/video/hmn00728/hmn00728pl.jpg",HMN-728 เชื่อใจช่างภาพ จนโดนคาบไปนอนแผ่
+https://ezycdn.com/playlist-pl5mnv0-FHD.m3u8
+
+#EXTINF:-1 group-title="--------" tvg-logo="https://pics.dmm.co.jp/digital/video/hmn00726/hmn00726pl.jpg",HMN-726 เธอยังเป็นน้องน้อย แต่สิ่งที่ห้อย มันไม่น้อยเหมือนเดิม
+https://ezycdn.com/playlist-phtv3eg-FHD.m3u8
+
+#EXTINF:-1 group-title="--------" tvg-logo="https://pics.dmm.co.jp/digital/video/hmn00723/hmn00723pl.jpg",HMN-723 จรรยาบรรณ สั่นตัณหา
+https://ezycdn.com/playlist-pf46jh0-FHD.m3u8
+
+#EXTINF:-1 group-title="--------" tvg-logo="https://pics.dmm.co.jp/digital/video/gvh00769/gvh00769pl.jpg",GVH-769 ไอดอลบ้านนา ตัณหาคุณปู่
+https://ezycdn.com/playlist-p8mrf58-FHD.m3u8
+
+#EXTINF:-1 group-title="--------" tvg-logo="https://pics.dmm.co.jp/digital/video/fpre00194/fpre00194pl.jpg",FPRE-194 ปฏิบัติเยี่ยงทาส ปรามาสเยี่ยงสิ่งของ
+https://ezycdn.com/playlist-p4sc65g-FHD.m3u8
+
+#EXTINF:-1 group-title="--------" tvg-logo="https://pics.dmm.co.jp/digital/video/fpre00189/fpre00189pl.jpg",FPRE-189 ร้านเหล้าเคล้าลมปราณ บริการอมควย
+https://ezycdn.com/playlist-p1o5loo-FHD.m3u8
+#EXTINF:-1 group-title="--------" tvg-logo="https://pics.dmm.co.jp/digital/video/hmn00731/hmn00731pl.jpg",HMN-731 บทเรียนรักใต้สระลึก
+https://ezycdn.com/playlist-4n49jpo-FHD.m3u8
+
+#EXTINF:-1 group-title="--------" tvg-logo="https://pics.dmm.co.jp/digital/video/hublk00039/hublk00039pl.jpg",HUBLK-039 โรงงานนรก สกปรกตัณหา 
+https://ezycdn.com/playlist-4jioh0g-FHD.m3u8
+
+#EXTINF:-1 group-title="--------" tvg-logo="https://pics.dmm.co.jp/digital/video/hublk00055/hublk00055pl.jpg",HUBLK-055 สันดานวิปลาส ในคราบครอบครัว
+https://ezycdn.com/playlist-4h2uq8g-FHD.m3u8
+
+#EXTINF:-1 group-title="--------" tvg-logo="https://pics.dmm.co.jp/digital/video/huntc00433/huntc00433pl.jpg",HUNTC-433 เกมกาม ท้า ใครเสร็จช้า ชนะ
+https://ezycdn.com/playlist-gi2f24o-FHD.m3u8
+
+#EXTINF:-1 group-title="--------" tvg-logo="https://pics.dmm.co.jp/digital/video/1iesp00692/1iesp00692pl.jpg",IESP-692 หนีพ่อผัวตัวร้าย มาซบกายชายชรา
+https://ezycdn.com/playlist-gf87ll8-FHD.m3u8
+
+#EXTINF:-1 group-title="--------" tvg-logo="https://fourhoi.com/kbr-030/cover-n.jpg",KBR-030 รสสวาทผิดผัว ยิ่งชั่วยิ่งเสียว
+https://ezycdn.com/playlist-gbe9t70-FHD.m3u8
+
+#EXTINF:-1 group-title="--------" tvg-logo="https://pics.dmm.co.jp/digital/video/mfyd00012/mfyd00012pl.jpg",MFYD-012 กลางวันขยัน กลางคืนขย่ม
+https://ezycdn.com/playlist-g8n1eq8-FHD.m3u8
+
+#EXTINF:-1 group-title="--------" tvg-logo="https://pics.dmm.co.jp/digital/video/mfyd00031/mfyd00031pl.jpg",MFYD-031 หนุ่มส่งของ ลองรักแม่ม่าย
+https://ezycdn.com/playlist-g5q7ep0-FHD.m3u8
+
+#EXTINF:-1 group-title="--------" tvg-logo="https://pics.dmm.co.jp/digital/video/mfyd00032/mfyd00032pl.jpg",MFYD-032 เรียวกังบำบัดใจ ใคร่รักคุณนายหญิง
+https://ezycdn.com/playlist-g36i20o-FHD.m3u8
+#EXTINF:-1 group-title="--------" tvg-logo="https://pics.dmm.co.jp/digital/video/mfyd00034/mfyd00034pl.jpg",MFYD-034 ตัณหาเมีย เคลียร์คิวให้ชู้
+https://ezycdn.com/playlist-1j8rfq0-FHD.m3u8
+
+#EXTINF:-1 group-title="--------" tvg-logo="https://pics.dmm.co.jp/digital/video/mfyd00035/mfyd00035pl.jpg",MFYD-035 แม่ม่ายคืนรัง ร่านพลังรักเกินร้อย
+https://ezycdn.com/playlist-1gateeg-FHD.m3u8
+
+#EXTINF:-1 group-title="--------" tvg-logo="https://pics.dmm.co.jp/digital/video/mfyd00036/mfyd00036pl.jpg",MFYD-036 ปรารถนาเร้นซ่อน ป้อนรักไอดอล
+https://ezycdn.com/playlist-1cjhqt8-FHD.m3u8
+
+#EXTINF:-1 group-title="--------" tvg-logo="https://pics.dmm.co.jp/digital/video/nsfs00121/nsfs00121pl.jpg",NSFS-121 ขายบ้านหนี สุขขีกับมารดา
+https://ezycdn.com/playlist-g1eumi8-FHD.m3u8
+
+#EXTINF:-1 group-title="--------" tvg-logo="https://pics.dmm.co.jp/digital/video/mida00239/mida00239pl.jpg",MIDA-239 รู้ว่าเขามีเจ้าของ แต่ใจมันเรียกร้องให้ลองเย็ด
+https://ezycdn.com/playlist-19mtp9o-FHD.m3u8
+
+#EXTINF:-1 group-title="--------" tvg-logo="https://pics.dmm.co.jp/digital/video/mida00278/mida00278pl.jpg",MIDA-278 อยากเป็นดาว เจอเรื่องคาวในกองถ่าย
+https://ezycdn.com/playlist-165qui8-FHD.m3u8
+
+#EXTINF:-1 group-title="--------" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1fsdss926/1fsdss926pl.jpg",FSDSS-926 เผลอใจรัก พลีกายภักดิ์เมียนาย
+https://ezycdn.com/playlist-13gikt0-FHD.m3u8
+
+#EXTINF:-1 group-title="--------" tvg-logo="https://pics.dmm.co.jp/digital/video/mikr00031/mikr00031pl.jpg",MIKR-031 ตักตวงสุขตรงหน้า ทรยศค่าความรัก
+https://ezycdn.com/playlist-ltkk0u0-FHD.m3u8
+
+#EXTINF:-1 group-title="--------" tvg-logo="https://pics.dmm.co.jp/digital/video/mikr00036/mikr00036pl.jpg",MIKR-036 ราชินีคาอ่าง ล้างแล้วขย่มต่อ
+https://ezycdn.com/playlist-lqr7rhg-FHD.m3u8
+
+#EXTINF:-1 group-title="--------" tvg-logo="https://pics.dmm.co.jp/digital/video/mngs00008/mngs00008pl.jpg",MNGS-008 แรดร้อนซ่อนพิษ กรีดมิตรให้มอดม้วย
+https://ezycdn.com/playlist-lo413qo-FHD.m3u8
+#EXTINF:-1 group-title="--------" tvg-logo="https://pics.dmm.co.jp/digital/video/ndra00067/ndra00067pl.jpg",NDRA-067 เสียงครางข้างฝา น้ำตาสามี
+https://ezycdn.com/playlist-lljsff8-FHD.m3u8
+
+#EXTINF:-1 group-title="--------" tvg-logo="https://pics.dmm.co.jp/digital/video/mida00282/mida00282pl.jpg",MIDA-282 ลับหลังแม่ พ่อแท้ๆ คือซาตาน
+https://ezycdn.com/playlist-f3up54o-FHD.m3u8
+
+#EXTINF:-1 group-title="--------" tvg-logo="https://pics.dmm.co.jp/digital/video/mida00288/mida00288pl.jpg",MIDA-288 กลิ่นเหม็นข้างห้อง ต้องลองของลุง
+https://ezycdn.com/playlist-evre8uo-FHD.m3u8
+
+#EXTINF:-1 group-title="--------" tvg-logo="https://pics.dmm.co.jp/digital/video/mida00296/mida00296pl.jpg",MIDA-296 เปิดซิงแตกใน ใส่ใจทุกหยด
+https://ezycdn.com/playlist-et0ju10-FHD.m3u8
+
+#EXTINF:-1 group-title="--------" tvg-logo="https://pics.dmm.co.jp/digital/video/mngs00021/mngs00021pl.jpg",MNGS-021 ลูกน้องอ้อนรัก ขอจัดหนักอดีตนาย
+https://ezycdn.com/playlist-eqljpb0-FHD.m3u8
+
+#EXTINF:-1 group-title="--------" tvg-logo="https://pics.dmm.co.jp/digital/video/mida00311/mida00311pl.jpg",MIDA-311 ยืมอ่างบ้านพี่เขย เลยโดนเสยจนน้ำแตก
+https://ezycdn.com/playlist-r173uo8-FHD.m3u8
+
+#EXTINF:-1 group-title="--------" tvg-logo="https://pics.dmm.co.jp/digital/video/mida00326/mida00326pl.jpg",MIDA-326 บทเรียนรัก นักเรียนร่าน
+https://ezycdn.com/playlist-qukhc88-FHD.m3u8
+
+#EXTINF:-1 group-title="--------" tvg-logo="https://pics.dmm.co.jp/digital/video/pred00794/pred00794pl.jpg",PRED-794 จัดฉากล่าข่าว สาวถูกล่าขย้ำ
+https://ezycdn.com/playlist-f6keqhg-FHD.m3u8
+
+#EXTINF:-1 group-title="--------" tvg-logo="https://pics.dmm.co.jp/digital/video/pred00795/pred00795pl.jpg",PRED-795 ชู้รักนักดีไซน์ ออกแบบรักนอกใจผัวชาวบ้าน
+https://ezycdn.com/playlist-frtrnfg-FHD.m3u8
+
+#EXTINF:-1 group-title="--------" tvg-logo="https://pics.dmm.co.jp/digital/video/pred00796/pred00796pl.jpg",PRED-796 นายหญิงใจร้าว เรื่องฉาวในโรงเตี๊ยม
+https://ezycdn.com/playlist-fnvrvrg-FHD.m3u8
 
 #EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00595/ssis00595pl.jpg",SSIS-595 เธชเธเธฒเธเนเธญเธเธเธฅเธฒเธข เธชเธเธฒเธขเธเนเธงเธเธฅเนเธฒเธ
 https://ezycdn.com/playlist-d8sdh4q1-FHD.m3u8
