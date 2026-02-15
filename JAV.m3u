@@ -23,7 +23,7 @@ https://cdn-edge.iiptvcdn.com/live_event/smil:98ff-027d-46aa-1a6a-8480.smil/chun
 https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/chunklist_w1951329913_b3128000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5a/Thai_PBS_logo.png"group-title="DIGITAL TV",Thai PBS
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Thairath_TV32.svg/2560px-Thairath_TV32.svg.png"group-title="DIGITAL TV",Thairath TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FHskWtw1/Thairath-TV32-svg.png"group-title="DIGITAL TV",Thairath TV
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XvRPB9Sp/IMG-2542.png"group-title="DIGITAL TV",PPTV
 https://tv.trueid.net/th-th/embed/pptv-hd?autoplay=yes&nopageview=yes
