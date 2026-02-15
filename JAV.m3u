@@ -53,6 +53,10 @@ https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 https://www.pptvhd36.com/live
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CdyT1DN4/IMG-2411.png"group-title="DIGITAL TV",NEWS 1
 http://news1.live14.com/stream/news1_hi.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/t4vQNs2p/IMG-1852.png",Cable 37
+http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/F8j5vaSEZFxgS0uTQl14JpNq0it64JmH9JmVq9yy8TA2hqPWIkngxc1rod8or-timxdb6g8SEzk3hyF8xbvMfUVYhncIqL3m5V_QRUAi04M-xfkiKjJUgHLcefodoRTIDrx350_WRq2pKqX8hwHcJmgkntiyNU5GZWv-cHvObw",Channel8thailand
+https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w238145399.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fbzNzJSG/IMG-2597.png"group-title="DIGITAL TV",PoliceTV
 https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
 
