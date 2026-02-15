@@ -46,7 +46,7 @@ https://aisplay.ais.co.th/portal/live?vid=59671d1cd817de1df19711a6
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Nationtv.png"group-title="DIGITAL TV",Nation
 https://edge2a.v2h-cdn.com/nation_1/nation_1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kGvp2ySq/IMG-2563.png"group-title="DIGITAL TV",True4U
-https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8
+https://iptv36.vercel.app/api/true.m3u8?channel=true4u
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/bAQTpAuPtQA/maxresdefault.jpg"group-title="DIGITAL TV",ALTV4
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XvRPB9Sp/IMG-2542.png"group-title="DIGITAL TV",PPTV (Web)
