@@ -1872,6 +1872,13 @@ https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL007/HLS/
 #EXTINF:-1 tvg-name="8" tvg-logo="https://i.postimg.cc/CLR7Y5JT/kk-Nkj-ZJo-Hbynd9JDPq-F2-removebg-preview.png" group-title="THAI LEAGUE",Channel8
 #EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com/
 https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL008/HLS/TL008.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-name="MONOMAX1" tvg-logo="https://i.postimg.cc/kgXjVCxZ/Screenshot-2569-0208-154054-removebg-preview.png" group-title="MONOMAX",MONOMAX1
 #EXTVLCOPT:http-referrer=https://github.com
 https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX1.m3u8
@@ -1899,6 +1906,15 @@ https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX8.m3u8
 #EXTINF:-1 tvg-name="MONOMAX2" tvg-logo="https://i.postimg.cc/kgXjVCxZ/Screenshot-2569-0208-154054-removebg-preview.png" group-title="MONOMAX",MONOMAX2
 #EXTVLCOPT:http-referrer=https://github.com/
 https://ww.dooballfree.vip/live/monomax-2/playlist.m3u8
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-name="TruePremierFootball3" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png" group-title="Sports",True Premier Football 3
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/truepremierfootball3.m3u8
@@ -2067,6 +2083,24 @@ https://fl1.moveonjoy.com/FOX_SPORTS_2/index.m3u8
 http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/554
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Fox Sports 2-3
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=11148&extension=ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png" group-title="Sports",ESPN 1
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22002.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png" group-title="Sports",ESPN 2
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22005.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png" group-title="Sports",ESPN 3
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22008.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png" group-title="Sports",ESPN 4
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22011.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png" group-title="Sports",ESPN 5
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22014.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png" group-title="Sports",ESPN 6
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22016.ts
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",ESPN1-1
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:B6:5E:9B&stream=174655&extension=ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",ESPN1-2
