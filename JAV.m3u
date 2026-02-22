@@ -12,7 +12,7 @@ https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_exam
 
 
 #EXTINF:-1 tvg-chno="36" tvg-id="iptv36.pptv" group-title="DIGITAL TV" tvg-logo="https://iptv36.vercel.app/logo/pptv.png",PPTV FHD
-https://pptv36-9h0yba.cdn.byteark.com/bamm-csai/playlist.m3u8?x_ark_access_id=fleet-2966&x_ark_auth_type=ark-v2&x_ark_expires=1771739401&x_ark_path_prefix=%2Fbamm-csai%2F&x_ark_signature=D_eb4WnxJIqVmrBoiF-MiQ
+https://love.watipej760.workers.dev/lx-origin/hd-pptv_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png"group-title="DIGITAL TV",3HD
 https://love.rocosi3780.workers.dev/lx-origin/hd-ch3_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png"group-title="DIGITAL TV",CH5
