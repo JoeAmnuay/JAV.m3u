@@ -58,9 +58,9 @@ https://global-media.sooplive.com/live/workpoint/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8z5sMgBf/IMG-2395.png"group-title="DIGITAL TV",CH8
 https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Njsz7k39/IMG-1845.png"group-title="DIGITAL TV",TNN16
-https://aisplay.ais.co.th/portal/live?vid=59671d1cd817de1df19711a6
+https://love.watipej760.workers.dev/lx-origin/sd-tnn24_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Nationtv.png"group-title="DIGITAL TV",Nation
-https://edge2a.v2h-cdn.com/nation_1/nation_1.stream/playlist.m3u8
+https://love.rotafi5271.workers.dev/lx-origin/sd-nation_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kGvp2ySq/IMG-2563.png"group-title="DIGITAL TV",True4U
 https://iptv36.vercel.app/api/true.m3u8?channel=true4u
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/bAQTpAuPtQA/maxresdefault.jpg"group-title="DIGITAL TV",ALTV4
