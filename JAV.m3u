@@ -57,6 +57,8 @@ https://live.topnews.co.th/hls/topnews_a_720.m3u8
 https://global-media.sooplive.com/live/workpoint/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8z5sMgBf/IMG-2395.png"group-title="DIGITAL TV",CH8
 https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://i.postimg.cc/sDjf9MqT/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69-webp-original.png",T-Sports7
+https://love.xvcr48mipn.workers.dev/lx-origin/sd-tsports_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Njsz7k39/IMG-1845.png"group-title="DIGITAL TV",TNN16
 https://love.watipej760.workers.dev/lx-origin/sd-tnn24_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Nationtv.png"group-title="DIGITAL TV",Nation
