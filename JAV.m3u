@@ -25,6 +25,8 @@ https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/pla
 https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
 #EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://mono29.com/app/themes/mono29-2017/assets/images/tumb_mono29.png",Mono29
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://i.postimg.cc/sXCVdDmy/images-11-removebg-preview.png",MONO29+
+https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/truepremierfootball3.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3Npsb1kD/152-1522651-true-logo-png-removebg-preview.png"group-title="DIGITAL TV", TRUE Thai Film
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/truethaifilm.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png"group-title="DIGITAL TV",NBT
@@ -8659,8 +8661,38 @@ https://surrit.com/76603fb9-c95e-4d0c-a701-4181e6d32f57/1080p/video.m3u8
 https://surrit.com/80ec7737-57c9-4e67-842d-99ee3d8e86d0/1080p/video.m3u8
 #EXTINF:-1 group-title="HEYZO JAV" tvg-logo="https://en.heyzo.com/contents/3000/3720/images/player_thumbnail_en.jpg",HEYZO-3720
 https://surrit.com/601f6b66-52e9-4125-8ff3-640b40f64db5/1080p/video.m3u8
-
-
+#EXTINF:-1 group-title="HEYZO JAV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTKfLzflj0iCc0OkY0BXPKXkcsFbpDkVGhTloqTCPi7g&s=10",HEYZO-3671
+https://surrit.com/354c6ac7-a920-4dbb-99ec-c55d0dc393c7/1080p/video.m3u8
+#EXTINF:-1 group-title="HEYZO JAV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnzgZCp2me9hc64B8l6pl2rgSoDDdw_nDhhk3i6bghaA&s=10",HEYZO-3670
+https://surrit.com/4bdffebf-9cae-4c53-adf2-74d76b62ed12/1080p/video.m3u8
+#EXTINF:-1 group-title="HEYZO JAV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi67LRdUdKtmLaRDgJbAQntxOLimnJpTggKA-WzSjrC5gt0KdyIPNKVm_b&s=10",HEYZO-3669
+https://surrit.com/bbf0ed26-e129-4f19-ba6e-c402fb17e98c/1080p/video.m3u8
+#EXTINF:-1 group-title="HEYZO JAV" tvg-logo="https://file.tkcdns.com/contents/videos_screenshots/342000/342928/preview_720p.mp4.jpg",HEYZO-3697
+https://surrit.com/622b4d63-455c-403f-8a51-bc46f0c0fae4/1080p/video.m3u8
+#EXTINF:-1 group-title="HEYZO JAV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc1H89wyG7vhQQC2h_6klvm0BPz8Ntq_kKQqUdxNWCuQ&s=10",HEYZO-3667
+https://surrit.com/a7fe3b8e-4671-406c-af8d-afda6d033ce9/1080p/video.m3u8
+#EXTINF:-1 group-title="HEYZO JAV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREhZycMqIFlRmSo3sRlBI5cSYDR2iPG3NFgrJTuKMSIykYsuDfq8CuGKVu&s=10",HEYZO-3663
+https://surrit.com/3fcd97ec-7723-490b-9de4-60d55cbfbe5b/1080p/video.m3u8
+#EXTINF:-1 group-title="HEYZO JAV" tvg-logo="https://en.heyzo.com/contents/3000/3662/images/player_thumbnail_en.jpg",HEYZO-3662
+https://surrit.com/dbaa005a-b860-4aa2-b7b1-21b1fa9cf190/1080p/video.m3u8
+#EXTINF:-1 group-title="HEYZO JAV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1JlnDCPkO3hj-H7xPyQ42FdgLo7TMwUojwxYBZ9JjJ5MmW3gQzTZLtkQ&s=10",HEYZO-3664
+https://surrit.com/2d4bf3dc-008b-4a6a-a25f-f8f2c6c3f923/1080p/video.m3u8
+#EXTINF:-1 group-title="HEYZO JAV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTKfLzflj0iCc0OkY0BXPKXkcsFbpDkVGhTloqTCPi7g&s=10",HEYZO-3671
+https://surrit.com/354c6ac7-a920-4dbb-99ec-c55d0dc393c7/1080p/video.m3u8
+#EXTINF:-1 group-title="HEYZO JAV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnzgZCp2me9hc64B8l6pl2rgSoDDdw_nDhhk3i6bghaA&s=10",HEYZO-3670
+https://surrit.com/4bdffebf-9cae-4c53-adf2-74d76b62ed12/1080p/video.m3u8
+#EXTINF:-1 group-title="HEYZO JAV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi67LRdUdKtmLaRDgJbAQntxOLimnJpTggKA-WzSjrC5gt0KdyIPNKVm_b&s=10",HEYZO-3669
+https://surrit.com/bbf0ed26-e129-4f19-ba6e-c402fb17e98c/1080p/video.m3u8
+#EXTINF:-1 group-title="HEYZO JAV" tvg-logo="https://file.tkcdns.com/contents/videos_screenshots/342000/342928/preview_720p.mp4.jpg",HEYZO-3697
+https://surrit.com/622b4d63-455c-403f-8a51-bc46f0c0fae4/1080p/video.m3u8
+#EXTINF:-1 group-title="HEYZO JAV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc1H89wyG7vhQQC2h_6klvm0BPz8Ntq_kKQqUdxNWCuQ&s=10",HEYZO-3667
+https://surrit.com/a7fe3b8e-4671-406c-af8d-afda6d033ce9/1080p/video.m3u8
+#EXTINF:-1 group-title="HEYZO JAV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREhZycMqIFlRmSo3sRlBI5cSYDR2iPG3NFgrJTuKMSIykYsuDfq8CuGKVu&s=10",HEYZO-3663
+https://surrit.com/3fcd97ec-7723-490b-9de4-60d55cbfbe5b/1080p/video.m3u8
+#EXTINF:-1 group-title="HEYZO JAV" tvg-logo="https://en.heyzo.com/contents/3000/3662/images/player_thumbnail_en.jpg",HEYZO-3662
+https://surrit.com/dbaa005a-b860-4aa2-b7b1-21b1fa9cf190/1080p/video.m3u8
+#EXTINF:-1 group-title="HEYZO JAV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1JlnDCPkO3hj-H7xPyQ42FdgLo7TMwUojwxYBZ9JjJ5MmW3gQzTZLtkQ&s=10",HEYZO-3664
+https://surrit.com/2d4bf3dc-008b-4a6a-a25f-f8f2c6c3f923/1080p/video.m3u8
 
 
 
