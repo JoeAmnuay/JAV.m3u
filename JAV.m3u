@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyNnc0c3U0cmxsNHUwaW0weGYzaTAyazQ4Ym8xbTlpN2VkdGsyNjR3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9v74tVCVV3dMsiuP2v/giphy.gif"group-title="IPTV",TEST
-https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
-#EXTINF:-1 tvg-logo="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyeDBqYnU0aXo0Yno1a2U0eGMzOTE5Ym15N2E5cHBoZG1sNngzZWhyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qj2ZdhPhkpM7YZS137/giphy.gif"group-title="IPTV",TEST
-https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
-#EXTINF:-1 tvg-logo="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyZTJqMnFib2hueTBheGlsbjBkOHlzZ24yY3gwOG1zaHc4ZmR5YzV3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4fLchrybdz7CbWrBoo/giphy.gif"group-title="IPTV",TEST
-https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
-
-
-
-
-
-
 #EXTINF:-1 tvg-chno="36" tvg-id="iptv36.pptv" group-title="DIGITAL TV" tvg-logo="https://iptv36.vercel.app/logo/pptv.png",PPTV FHD
 https://love.watipej760.workers.dev/lx-origin/hd-pptv_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png"group-title="DIGITAL TV",3HD
@@ -25,20 +13,8 @@ https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/pla
 https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
 #EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://mono29.com/app/themes/mono29-2017/assets/images/tumb_mono29.png",Mono29
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
-#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://i.postimg.cc/sXCVdDmy/images-11-removebg-preview.png",MONO29+
-https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/truepremierfootball3.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Npsb1kD/152-1522651-true-logo-png-removebg-preview.png"group-title="DIGITAL TV", TRUE Thai Film
-https://github.com/cattviptv2605/movies/raw/refs/heads/main/truethaifilm.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png"group-title="DIGITAL TV",NBT
-https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist_w1905166033_b3128000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png"group-title="DIGITAL TV",NBT-ภาคกลาง
-https://cdn-edge.iiptvcdn.com/live_event/smil:6ee0-5126-0cee-7ba2-18b7.smil/chunklist_w1601605558_b3128000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png"group-title="DIGITAL TV",NBT-ภาคเหนือ
-https://cdn-edge.iiptvcdn.com/live_event/smil:4f6e-aa34-2034-5492-c82d.smil/chunklist_w149323924_b3128000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png"group-title="DIGITAL TV",NBT-ภาคอีสาน
-https://cdn-edge.iiptvcdn.com/live_event/smil:98ff-027d-46aa-1a6a-8480.smil/chunklist_w1374149909_b3128000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png"group-title="DIGITAL TV",NBT-ภาคใต้
-https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/chunklist_w1951329913_b3128000.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGvp2ySq/IMG-2563.png"group-title="DIGITAL TV",True4U
+https://iptv36.vercel.app/api/true.m3u8?channel=true4u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5a/Thai_PBS_logo.png"group-title="DIGITAL TV",Thai PBS
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FHskWtw1/Thairath-TV32-svg.png"group-title="DIGITAL TV",Thairath TV
@@ -65,18 +41,30 @@ https://love.xvcr48mipn.workers.dev/lx-origin/sd-tsports_720/chunks.m3u8
 https://love.watipej760.workers.dev/lx-origin/sd-tnn24_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Nationtv.png"group-title="DIGITAL TV",Nation
 https://love.rotafi5271.workers.dev/lx-origin/sd-nation_720/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGvp2ySq/IMG-2563.png"group-title="DIGITAL TV",True4U
-https://iptv36.vercel.app/api/true.m3u8?channel=true4u
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/bAQTpAuPtQA/maxresdefault.jpg"group-title="DIGITAL TV",ALTV4
-https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CdyT1DN4/IMG-2411.png"group-title="DIGITAL TV",NEWS 1
 http://news1.live14.com/stream/news1_hi.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png"group-title="DIGITAL TV",NBT
+https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist_w1905166033_b3128000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png"group-title="DIGITAL TV",NBT-ภาคกลาง
+https://cdn-edge.iiptvcdn.com/live_event/smil:6ee0-5126-0cee-7ba2-18b7.smil/chunklist_w1601605558_b3128000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png"group-title="DIGITAL TV",NBT-ภาคเหนือ
+https://cdn-edge.iiptvcdn.com/live_event/smil:4f6e-aa34-2034-5492-c82d.smil/chunklist_w149323924_b3128000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png"group-title="DIGITAL TV",NBT-ภาคอีสาน
+https://cdn-edge.iiptvcdn.com/live_event/smil:98ff-027d-46aa-1a6a-8480.smil/chunklist_w1374149909_b3128000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png"group-title="DIGITAL TV",NBT-ภาคใต้
+https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/chunklist_w1951329913_b3128000.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4vQNs2p/IMG-1852.png"group-title="DIGITAL TV",Cable 37
 http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/F8j5vaSEZFxgS0uTQl14JpNq0it64JmH9JmVq9yy8TA2hqPWIkngxc1rod8or-timxdb6g8SEzk3hyF8xbvMfUVYhncIqL3m5V_QRUAi04M-xfkiKjJUgHLcefodoRTIDrx350_WRq2pKqX8hwHcJmgkntiyNU5GZWv-cHvObw"group-title="DIGITAL TV",Channel8thailand
 https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w238145399.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fbzNzJSG/IMG-2597.png"group-title="DIGITAL TV",PoliceTV
 https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
+
+
+
+
+
+
 #EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",HBO
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/hbo.m3u8
@@ -1952,8 +1940,34 @@ https://10.dedkub.cyou/hd/720/1459-2.Men.in.Black.II.2002.mp4
 https://10.dedkub.cyou/hd/720/1460-3.Men.in.Black.III.2012.mp4
 #EXTINF:-1 group-title="หนังภาคต่อ" tvg-logo="https://de88.me/wp-content/uploads/2020/09/%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%A1%E0%B9%84%E0%B8%AD%E0%B8%9A%E0%B8%B5%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%8A%E0%B8%99%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B9%82%E0%B8%A5%E0%B8%81MeninBlackInternational-scaled.jpg",เอ็มไอบี หน่วยจารชนสากลพิทักษ์โลก Men in Black International
 https://10.dedkub.cyou/hd/720/0108-MenInBlackInternational.mp4
-
-
+#EXTINF:-1 group-title="หนังภาคต่อ" tvg-logo="https://de88.me/wp-content/uploads/2020/12/%E0%B9%81%E0%B8%9A%E0%B8%97%E0%B9%81%E0%B8%A1%E0%B8%99%E0%B8%9A%E0%B8%B5%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%AA%E0%B9%8CBatmanBegins1.jpg",แบทแมน บีกินส์ Batman Begins
+https://192.dedkub.cyou/hd/720/0261-BatmanBegins.mp4
+#EXTINF:-1 group-title="หนังภาคต่อ" tvg-logo="https://de88.me/wp-content/uploads/2020/12/%E0%B9%81%E0%B8%9A%E0%B8%97%E0%B9%81%E0%B8%A1%E0%B8%99%E0%B8%AD%E0%B8%B1%E0%B8%A8%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A52008BatmanTheDarkKnight.jpg",แบทแมน อัศวินรัตติกาล Batman The Dark Knight
+https://192.dedkub.cyou/hd/720/0262-TheDarkKnight.mp4
+#EXTINF:-1 group-title="หนังภาคต่อ" tvg-logo="https://de88.me/wp-content/uploads/2020/12/%E0%B9%81%E0%B8%9A%E0%B8%97%E0%B9%81%E0%B8%A1%E0%B8%99%E0%B8%AD%E0%B8%B1%E0%B8%A8%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A5%E0%B8%9C%E0%B8%87%E0%B8%B2%E0%B8%94BatmanTheDarkKnightRises1-scaled.jpg",แบทแมน อัศวินรัตติกาลผงาด Batman The Dark Knight Rises
+https://192.dedkub.cyou/hd/720/0263-TheDarkKnightRises.mp4
+#EXTINF:-1 group-title="หนังภาคต่อ" tvg-logo="https://de88.me/wp-content/uploads/2020/12/%E0%B9%81%E0%B8%9A%E0%B8%97%E0%B9%81%E0%B8%A1%E0%B8%99%E0%B8%9B%E0%B8%B0%E0%B8%97%E0%B8%B0%E0%B8%8B%E0%B8%B9%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%AD%E0%B8%A3%E0%B8%B8%E0%B8%93%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%A2%E0%B8%B8%E0%B8%95%E0%B8%B4%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1-692x1024.jpg",แบทแมนปะทะซูเปอร์แมน แสงอรุณแห่งยุติธรรม Batman v Superman Dawn of Justice
+https://hn.dedkub.cyou/hd/720/0253-BatmanvSupermanDawnofJustice.mp4
+#EXTINF:-1 group-title="หนังภาคต่อ" tvg-logo="https://de88.me/wp-content/uploads/2020/11/PiratesoftheCaribbeanTheCurseoftheBlackPearl-683x1024.jpg",Pirates Of The Caribbean 1 ไพเรทส์ออฟเดอะแคริบเบียน คืนชีพกองทัพโจรสลัดสยองโลก
+https://10.dedkub.cyou/hd/720/0199-PiratesOfTheCaribbean.mp4
+#EXTINF:-1 group-title="หนังภาคต่อ" tvg-logo="https://de88.me/wp-content/uploads/2020/11/PiratesoftheCaribbean2.jpg",Pirates Of The Caribbean 2 ไพเรทส์ออฟเดอะแคริบเบียน สงครามปีศาจโจรสลัดสยองโลก
+https://10.dedkub.cyou/hd/720/0200-PiratesOfTheCaribbean.mp4
+#EXTINF:-1 group-title="หนังภาคต่อ" tvg-logo="https://de88.me/wp-content/uploads/2020/11/PiratesoftheCaribbean3-683x1024.jpg",Pirates Of The Caribbean 3 ไพเรทส์ออฟเดอะแคริบเบียน ผจญภัยล่าโจรสลัดสุดขอบโลก
+https://10.dedkub.cyou/hd/720/0201-PiratesoftheCaribbean3.mp4
+#EXTINF:-1 group-title="หนังภาคต่อ" tvg-logo="https://de88.me/wp-content/uploads/2020/11/PiratesoftheCaribbean4.jpg",Pirates Of The Caribbean 4 ไพเรทส์ออฟเดอะแคริบเบียน ผจญภัยล่าสายน้ำอมฤตสุดขอบโลก
+https://10.dedkub.cyou/hd/720/0202-PiratesoftheCaribbeanOnStrangerTides.mp4
+#EXTINF:-1 group-title="หนังภาคต่อ" tvg-logo="https://de88.me/wp-content/uploads/2020/11/PiratesoftheCaribbean5.jpg",Pirates Of The Caribbean 5 ไพเรทส์ออฟเดอะแคริบเบียน สงครามแค้นโจรสลัดไร้ชีพ
+https://10.dedkub.cyou/hd/720/0203-Piratesofthecaribbeandeadmentellnotales.mp4
+#EXTINF:-1 group-title="หนังภาคต่อ" tvg-logo="https://de88.me/wp-content/uploads/2022/10/%E0%B8%84%E0%B8%99%E0%B8%AD%E0%B8%B6%E0%B8%94%E0%B8%95%E0%B8%B2%E0%B8%A2%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%A0%E0%B8%B2%E0%B8%8411988DieHard.jpg",คนอึดตายยาก ภาค 1 (1988) Die Hard
+https://1688.dedkub.cyou/hd/720/0606-DieHard1988.mp4
+#EXTINF:-1 group-title="หนังภาคต่อ" tvg-logo="https://de88.me/wp-content/uploads/2022/10/%E0%B8%84%E0%B8%99%E0%B8%AD%E0%B8%B6%E0%B8%94%E0%B8%95%E0%B8%B2%E0%B8%A2%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%A0%E0%B8%B2%E0%B8%8421990DieHard2.jpg",คนอึดตายยาก ภาค 2 (1990) Die Hard 2
+https://1688.dedkub.cyou/hd/720/0607-DieHard2.1990.mp4
+#EXTINF:-1 group-title="หนังภาคต่อ" tvg-logo="https://de88.me/wp-content/uploads/2022/10/%E0%B8%84%E0%B8%99%E0%B8%AD%E0%B8%B6%E0%B8%94%E0%B8%95%E0%B8%B2%E0%B8%A2%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%A0%E0%B8%B2%E0%B8%8431995DieHard3.jpg",คนอึดตายยาก ภาค 3 (1995) Die Hard 3
+https://1688.dedkub.cyou/hd/720/0608-DieHardWithAVengeance1995.mp4
+#EXTINF:-1 group-title="หนังภาคต่อ" tvg-logo="https://de88.me/wp-content/uploads/2022/10/%E0%B8%84%E0%B8%99%E0%B8%AD%E0%B8%B6%E0%B8%94%E0%B8%95%E0%B8%B2%E0%B8%A2%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%A0%E0%B8%B2%E0%B8%8442007DieHard4.jpg",คนอึดตายยาก ภาค 4 (2007) Die Hard 4
+https://1688.dedkub.cyou/hd/720/0609-DieHard4LiveFreeorDieHarde2007.mp4
+#EXTINF:-1 group-title="หนังภาคต่อ" tvg-logo="https://de88.me/wp-content/uploads/2022/10/%E0%B8%84%E0%B8%99%E0%B8%AD%E0%B8%B6%E0%B8%94%E0%B8%95%E0%B8%B2%E0%B8%A2%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%A0%E0%B8%B2%E0%B8%8452013DieHard5.jpg",คนอึดตายยาก ภาค 5 (2013) Die Hard 5
+https://1688.dedkub.cyou/hd/720/0610-AGoodDaytoDieHard2013.mp4
 
 
 
@@ -2056,253 +2070,287 @@ https://love.sayob28681.workers.dev/lx-origin/th-monomax09bkp_720/chunks.m3u8
 
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",True Premier Football 3
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/epl-3.png",True Premier Football 3
 https://ww.dooballfree.vip/live/tpf3/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",TrueSportHD1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/epl-3.png",True Premier Football 3
+https://love.271b1565248134.workers.dev/vx-origin/epl-3_720/chunks.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/epl-3.png",True Premier Football 3
+https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/truepremierfootball3.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/hd-tsport1.png",TrueSportsHD
+https://love.cli640a3fn.workers.dev/lx-origin/th-tsporthd1_720/chunks.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/hd-tsport1.png",TrueSportsHD
+https://love.cli640a3fn.workers.dev/vx-origin/hd-tsport1_720/chunks.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/hd-tsport2.png",TrueSportsHD2
+https://love.himekir666.workers.dev/lx-origin/th-tsporthd2_720/chunks.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/hd-tsport2.png",TrueSportsHD2
+https://love.1fmz7npue0.workers.dev/vx-origin/hd-tsport2_720/chunks.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/hd-tsport3.png",TrueSportsHD3
+https://love.a6y9g6qxmp.workers.dev/lx-origin/th-tsporthd3_720/chunks.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/hd-tsport3.png",TrueSportsHD3
+https://love.9hhdgca091.workers.dev/vx-origin/hd-tsport3_720/chunks.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/hd-tsport4.png",TrueSportsHD4
+https://love.hedeji1076.workers.dev/lx-origin/hd-tsport4_720/chunks.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/sd-tsport5.png",TrueSports5
+https://love.cli640a3fn.workers.dev/vx-origin/sd-tsport5_720/chunks.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/sd-tsport7.png",TrueSports7
+https://love.hedeji1076.workers.dev/vx-origin/sd-tsport7_720/chunks.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/sd-tsports.png",T-Sports
+https://love.19q2uxood1.workers.dev/lx-origin/sd-tsports_720/chunks.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/us-nbcgolf.png",Golf
+https://love.cinesefo.workers.dev/vx-origin/us-nbcgolf_720/chunks.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/hd-golf2.png",Golf Channel 
+https://love.gq45z7omg2.workers.dev/lx-origin/hd-golf2_720/chunks.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/hd-tsport1.png",TrueSportHD
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/truesport1.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",TrueSportHD2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/hd-tsport2.png",TrueSportHD2
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/truesport2.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",TrueSportHD3
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/hd-tsport3.png",TrueSportHD3
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/truesport3.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",TrueSport5
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/sd-tsport5.png",TrueSport5
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/truesport5.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",TrueSport7
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/sd-tsport7.png",TrueSport7
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/truesport7.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Sports1
-http://119.59.118.168/live/ch9/Ultraman008/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Sports1-A
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/hd-tsport1.png",TrueSportHD
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776200&extension=ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Sports1-B
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/hd-tsport1.png",TrueSportHD
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776197&extension=ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Sports1-C
-https://www.livedoomovies.com:4431/02_sport1_720p/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Sports1-D
-https://dookeela4.live/live-tv/tsp1
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Sports2
-http://119.59.118.168/live/ch10/Ultraman008/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Sports2-A
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/hd-tsport2.png",TrueSportHD2
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776192&extension=ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Sports2-B
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/hd-tsport2.png",TrueSportHD2
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776198&extension=ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Sports2-C
-https://www.livedoomovies.com:4431/02_sport2_720p/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Sports2-D
-https://dookeela4.live/live-tv/tsp2
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Sports3
-http://119.59.118.168/live/ch11/Ultraman008/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Sports3-A
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/hd-tsport3.png",TrueSportHD3
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776202&extension=ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Sports3-B
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/hd-tsport3.png",TrueSportHD3
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776199&extension=ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Sports3-C
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/hd-tsport3.png",TrueSportHD3
 https://www.livedoomovies.com:4431/02_sport3_720p/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Sports3-D
-https://dookeela4.live/live-tv/tsp3
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Sports4
-http://119.59.118.168/live/ch12/Ultraman008/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Sports4-A
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/hd-tsport4.png",TrueSportHD4
 https://dookeela4.live/live-tv/tsp4
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Sports4-B
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/hd-tsport4.png",TrueSportHD4
 https://www.livedoomovies.com:4431/02_sport4_720p/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Sports5
-http://119.59.118.168/live/ch13/Ultraman008/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Sports5-A
-https://dookeela4.live/live-tv/tsp5
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Sports5-B
-https://www.livedoomovies.com:4431/02_sport5_720p/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Sports5-C
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/sd-tsport5.png",TrueSport5
 http://45.139.122.199:2095/play/live.php?mac=10:27:BE:50:20:50&stream=115535&extension=ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Sports5-D
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/sd-tsport5.png",TrueSport5
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776193&extension=ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Sports7
-http://119.59.118.168/live/ch14/Ultraman008/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Sports7-A
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/sd-tsport7.png",TrueSport7
 https://www.livedoomovies.com:4431/02_sport7_720p/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Sports7-B
-https://dookeela4.live/live-tv/tsp7
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Sports7-C
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/sd-tsport7.png",TrueSport7
 http://45.139.122.199:2095/play/live.php?mac=10:27:BE:50:20:50&stream=115799&extension=ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",SPOTV
-http://119.59.118.168/live/ch18/Ultraman008/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",SPOTV-A
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/epl-bein1.png",Bein Sports 1
+https://love.fvbey1mqc0.workers.dev/vx-origin/epl-bein1_720/chunks.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/epl-bein2.png",Bein Sports 2
+https://love.hedeji1076.workers.dev/vx-origin/epl-bein2_720/chunks.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/epl-bein3.png",Bein Sports 3
+https://love.cilema.workers.dev/vx-origin/epl-bein3_720/chunks.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/hd-spotv.png",SPOTV
+https://love.cikoyic696.workers.dev/vx-origin/hd-spotv_720/chunks.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/hd-spotv.png",SPOTV
 https://www.livedoomovies.com:4431/SPOTV01_720p/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",SPOTV-B
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/hd-spotv.png",SPOTV
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776066&extension=ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",SPOTV-C
-https://dookeela4.live/live-tv/spotv
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",SPOTV2
-http://119.59.118.168/live/ch19/Ultraman008/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",SPOTV2-A
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/hd-spotv2.png",SPOTV2
+https://love.bajikag863.workers.dev/vx-origin/hd-spotv2_720/chunks.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/hd-spotv2.png",SPOTV2
 https://www.livedoomovies.com:4431/SPOTV02_720p/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",SPOTV2-B
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/hd-spotv2.png",SPOTV2
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776067&extension=ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",SPOTV2-C
-https://dookeela4.live/live-tv/spotv2
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Astro Football
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Astro_Football_%282024%29.png/960px-Astro_Football_%282024%29.png",Astro Football
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1775978&extension=ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Astro Premier1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Astro_Premier_League_1_%282024%29.png/960px-Astro_Premier_League_1_%282024%29.png",Astro Premier1
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1775975&extension=ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Astro Premier2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png",Astro Premier2
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1775976&extension=ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Astro Grandstand
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png",Astro Grandstand
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1775977&extension=ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",HUB Premier1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/FzwdMt35/Astro-Golf-(2026).webp",Astr Astro Golf
+https://love.idhqxc0nl4.workers.dev/lx-origin/my-nbcgolf_720/chunks.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png",HUB Premier1
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=264396&extension=ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",HUB Premier2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png",HUB Premier2
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=264397&extension=ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",HUB Premier3
+#EXTINF:-1 group-title="Sports" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",HUB Premier3
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=264398&extension=ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",HUB Premier4
+#EXTINF:-1 group-title="Sports" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279624656%27&EntityType=%27Item%27&EntityId=%27572423%27&Width=1920&Height=1080",HUB Premier4
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=264399&extension=ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",HUB Premier5
+#EXTINF:-1 group-title="Sports" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279624630%27&EntityType=%27Item%27&EntityId=%27572420%27&Width=1920&Height=1080",HUB Premier5
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=264400&extension=ts
-EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Sky Sports EPL 1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/uk-skysports-action.png",Sky Sports Action 
+https://love.1o1tg3rely.workers.dev/vx-origin/uk-skysports-action_720/chunks.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/uk-skysports-arena.png", Sky Sports Arena 
+https://love.1fmz7npue0.workers.dev/vx-origin/uk-skysports-arena_720/chunks.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/uk-skysports-mix.png", Sky Sports Mix
+https://love.af4d1ygjfa.workers.dev/vx-origin/uk-skysports-mix_720/chunks.m3u8
+EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/uk-skysports-epl.png",Sky Sports EPL
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=190956&extension=ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Sky Sports EPL 2
-http://chunkymunky.site:80/live/jsYSS7uA/fZ7Fgq8/019583dd-14c7-4dc9-acc2-7a045e040ed3.m3u
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Sky Sports EPL 3
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/uk-skysports-epl.png",Sky Sports EPL
+https://love.9hhdgca091.workers.dev/vx-origin/uk-skysports-epl_720/chunks.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/uk-skysports-epl.png",Sky Sports EPL
 http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/331
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Sky Sports Football 1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/uk-skysports-football.png",Sky Sports Football
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=138135&extension=ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Sky Sports Football 2
-http://chunkymunky.site/live/jsYSS7uA/fZ7Fgq8/21e8bbcb-e210-4dd4-a2fe-c0fccbf3b2ed.m3u
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Sky Sports Football 3
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/uk-skysports-football.png",Sky Sports Football
+https://love.folexe1062.workers.dev/vx-origin/uk-skysports-football_720/chunks.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/uk-skysports-football.png",Sky Sports Football
 http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/6205
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Sky Main Event 1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/uk-skysports-mainevent.png",Sky Main Event
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=138134&extension=ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Sky Main Event 2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/uk-skysports-mainevent.png",Sky Main Event
 http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/10829
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Sky Main Event 3
-http://chunkymunky.site:80/live/jsYSS7uA/fZ7Fgq8/8d32c71e-a34f-4e7a-b3e6-6a8fd6799ed5.m3u
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Sky Sports F1 1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/uk-skysports-mainevent.png",Sky Main Event
+https://love.gemoduno.workers.dev/vx-origin/uk-skysports-mainevent_720/chunks.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/uk-skysports-f1.png",Sky Sports F1
 http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/10832
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Sky Sports F1 2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/uk-skysports-f1.png",Sky Sports F1
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=138141&extension=ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Sky Sports F1 3
-https://dookeela4.live/live-tv/skysportsf1
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Sky Sports MotoGP 1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/uk-skysports-f1.png",Sky Sports F1
+https://love.cidon32795.workers.dev/vx-origin/uk-skysports-f1_720/chunks.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/693fja1595133458.png",Sky Sports MotoGP
 http://egaletv.cc:80/play/live.php?mac=00:1A:79:A2:29:95&stream=287242&extension=ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Sky Sports MotoGP 2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/693fja1595133458.png",Sky Sports MotoGP
 http://v3tv.live:80/play/live.php?mac=00:1A:79:05:8B:80&stream=287242&extension=ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Sky Sports Golf 1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/uk-skysports-golf.png",Sky Sports Golf
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=138139&extension=ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Sky Sports Golf 2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.bananacake.org/images/png/uk-skysports-golf.png",Sky Sports Golf
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/66873
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",TNT Sports 1-1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqC-hrJIFIx98-D0PrglBlbUawvv-jbx2qYg&s",TNT Sports 1
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=138145&extension=ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",TNT Sports 1-2
-http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:B6:5E:9B&stream=30567&extension=ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",TNT Sports 2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqC-hrJIFIx98-D0PrglBlbUawvv-jbx2qYg&s",TNT Sports 1
+https://love.cli640a3fn.workers.dev/lx-origin/uk-btsport1hd_720/chunks.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqC-hrJIFIx98-D0PrglBlbUawvv-jbx2qYg&s",TNT Sports 1
+https://love.d7d0twhtqm.workers.dev/vx-origin/uk-btsport1hdbkp_720/chunks.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS4R1CjAeCjmAehJn4g7dzScZj5FwS7daoSQ&s",TNT Sports 2
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=138146&extension=ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",TNT Sports 2-2
-http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:B6:5E:9B&stream=30566&extension=ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",TNT Sports 3-1
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=138147&extension=ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",TNT Sports 3-2
-http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:B6:5E:9B&stream=30565&extension=ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",TNT Sports 4-1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS4R1CjAeCjmAehJn4g7dzScZj5FwS7daoSQ&s",TNT Sports 2
+https://love.3b1rnw5zht.workers.dev/vx-origin/uk-btsport2hdbkp_720/chunks.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS4R1CjAeCjmAehJn4g7dzScZj5FwS7daoSQ&s",TNT Sports 2
+https://love.9f436634018.workers.dev/lx-origin/uk-btsport2hd_720/chunks.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.info/l/o/5/5712.1690027954.png",TNT Sports 3
+https://dzhaloexpc2i.cloudfront.net/lx-origin/03/8LxsYXp6aM0VtWpQa3WopQ/f0bc6c617a7a68cd15b56a506b75a8a5/1772207684/uk-btsport3hd_720/chunks.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.info/l/o/5/5712.1690027954.png",TNT Sports 3
+https://love.47542e65247ec5.workers.dev/vx-origin/uk-btsport3hdbkp_720/chunks.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/TNT_Sports_4_2023.svg/revision/latest/scale-to-width-down/300?cb=20230407000218",TNT Sports 4
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=138148&extension=ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",TNT Sports 4-2
-http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:B6:5E:9B&stream=1019935&extension=ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Fox Sports 1-1
-https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Fox Sports 1-2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/TNT_Sports_4_2023.svg/revision/latest/scale-to-width-down/300?cb=20230407000218",TNT Sports 4
+https://love.hizuxu.workers.dev/vx-origin/uk-espn_720/chunks.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Fox_sports_1_10s.png",Fox Sports 1
 http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/553
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Fox Sports 1-3
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Fox_sports_1_10s.png",Fox Sports 1
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=11149&extension=ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Fox Sports 2-1
-https://fl1.moveonjoy.com/FOX_SPORTS_2/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Fox Sports 2-2
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkOTIlEh3VOQIcBQduBfjHhTbVRJgLd8tMmtGM5roqYINnGRccMURjNdqY&s=10",Fox Sports 2
 http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/554
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Fox Sports 2-3
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkOTIlEh3VOQIcBQduBfjHhTbVRJgLd8tMmtGM5roqYINnGRccMURjNdqY&s=10",Fox Sports 2
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=11148&extension=ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png" group-title="Sports",ESPN 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Sports",ESPN 1
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22002.ts
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png" group-title="Sports",ESPN 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Sports",ESPN 2
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22005.ts
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png" group-title="Sports",ESPN 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Sports",ESPN 3
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22008.ts
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png" group-title="Sports",ESPN 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Sports",ESPN 4
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22011.ts
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png" group-title="Sports",ESPN 5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Sports",ESPN 5
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22014.ts
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png" group-title="Sports",ESPN 6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Sports",ESPN 6
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22016.ts
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",ESPN1-1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN1
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:B6:5E:9B&stream=174655&extension=ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",ESPN1-2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN1
 http://egaletv.cc:80/play/live.php?mac=00:1A:79:A2:29:95&stream=11203&extension=ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",ESPN1-3
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN1
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=11203&extension=ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",ESPN2-1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN2
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:B6:5E:9B&stream=174644&extension=ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",ESPN2-2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN2
 http://egaletv.cc:80/play/live.php?mac=00:1A:79:A2:29:95&stream=11204&extension=ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",ESPN2-3
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN2
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=11204&extension=ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",ESPNU
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPNU
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:B6:5E:9B&stream=174657&extension=ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Eurosport
-https://dookeela4.live/live-tv/eurosport
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Eurosport1-1
-https://dookeela4.live/live-tv/eurosport1es
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Eurosport1-2
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Eurosport_logo_%282001-2011%29.svg/960px-Eurosport_logo_%282001-2011%29.svg.png",Eurosport1
 http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/1812
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Eurosport1-3
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Eurosport_logo_%282001-2011%29.svg/960px-Eurosport_logo_%282001-2011%29.svg.png",Eurosport1
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1082110&extension=ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Eurosport2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Eurosport_logo_%282001-2011%29.svg/960px-Eurosport_logo_%282001-2011%29.svg.png",Eurosport2
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1082113&extension=ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",SPORT TV1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Vv3kHfwt/sport-tv1-logo-brandlogos-net-k6b5q-512x512.png",SPORT TV1
 http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/94850
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",SPORT TV2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/4d0fmfYT/sport-tv2-2023-logo-png-seeklogo-504105.png",SPORT TV2
 http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/94849
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",SPORT TV3
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Gmjs9Ddn/sport-tv3-2023-logo-png-seeklogo-504104.png",SPORT TV3
 http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/94848
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",SPORT TV4
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/d1ghgmmB/sport-tv4-2023-logo-png-seeklogo-504102.png",SPORT TV4
 http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/94847
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",SPORT TV5
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/ZqR0RDwj/sport-tv5-logo-png-seeklogo-503377.png",SPORT TV5
 http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/94846
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",NBA TV-1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.nba.com/manage/2021/02/NBATV-logo-horizontal.jpg",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",NBA TV-2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.nba.com/manage/2021/02/NBATV-logo-horizontal.jpg",NBA TV
 http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/533
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",NBA TV-3
-https://dookeela4.live/live-tv/nba
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",NBA TV-4
+#EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.nba.com/manage/2021/02/NBATV-logo-horizontal.jpg",NBA TV
+https://love.hamafola.workers.dev/vx-origin/us-nba_720/chunks.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.nba.com/manage/2021/02/NBATV-logo-horizontal.jpg",NBA TV
 http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/45431
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",NFL-1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/NFL-Network.png",NFL
 http://45.139.122.199:2095/play/live.php?mac=00:1A:79:46:E4:1E&stream=2131378&extension=ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",NFL-2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/NFL-Network.png",NFL
 http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/505
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",NFL-3
-https://dookeela4.live/live-tv/nfl
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",NHL
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/NFL-Network.png",NFL
+https://love.2iri9joa1j.workers.dev/vx-origin/us-nfl_720/chunks.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeFMw8X-1Nf5bfRjlGoZvO1_T3SRWvgBguprT-w1T1wXn8mykSCWaey_t_&s=10",NHL
 https://nhl-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",MLB
-https://dookeela4.live/live-tv/mlb
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",WWE-1
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/TwSh8Y9V/WWE-Network-logo.jpg",WWE
 http://49.0.64.96:8007/TOPFIGHT
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",WWE-2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/TwSh8Y9V/WWE-Network-logo.jpg",WWE
 https://amg00966-amg00966c1-freelivesports-emea-7712.playouts.now.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",MUTV
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/TwSh8Y9V/WWE-Network-logo.jpg",WWE
+https://love.1o1tg3rely.workers.dev/vx-origin/us-wwe_720/chunks.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Wbys8b8J/mutv-logo-png-transparent-(1).png",MUTV
 http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/10854
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",LFC TV
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/ZqB17bWh/lfc-tv-uk.jpg",LFC TV
 #EXTVLCOPT:http-referrer=http://localhost/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; ASUS_Z01QD Build/PQ3A.190705.12150957; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.82 Safari/537.36 Vinebre
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=54897&extension=ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Real Madrid TV
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/RMTVsecond.jpg/revision/latest/scale-to-width-down/588?cb=20160826131502",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/coolfahrenheit.png" group-title="Radio",01 COOL fahrenheit
 https://coolism-web.cdn.byteark.com/;stream/1
 #EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/efm.png" group-title="Radio",02 EFM
@@ -3511,6 +3559,36 @@ http://fortv.cc:8080/eribeau2121@gmail.com/y8Qx5U8mK4/215790
 http://fortv.cc:8080/eribeau2121@gmail.com/y8Qx5U8mK4/215791
 #EXTINF:-1 tvg-name="X4 | Youthlu#EXTVLCOPT:network-caching=1000"tvg-id=""tvg-logo=""group-title="XXX CHANNELS",X4 | Youthlu#EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/eribeau2121@gmail.com/y8Qx5U8mK4/215792
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Gattouz0" tvg-logo="https://avminox.com/wp-content/uploads/2026/02/%E0%B8%AA%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%95-2026-02-24-211343-400x224.png",Gattouz0  X Emiri Momota
+https://media.vdohls.com/1fTin_I-A1ION/video.m3u8
+#EXTINF:-1 group-title="Gattouz0" tvg-logo="https://avminox.com/wp-content/uploads/2026/01/%E0%B8%AA%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%95-2026-01-27-182211-400x220.png",Gattouz0 X Rikako Katayama
+https://media.vdohls.com/SFfu4ce-L_cWc/video.m3u8
+#EXTINF:-1 group-title="Gattouz0" tvg-logo="https://avminox.com/wp-content/uploads/2026/02/%E0%B8%AA%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%95-2026-02-12-183913-400x234.png",Gattouz0 X Lucy Mochi
+https://media.vdohls.com/d5O-wcg_0yYPV/video.m3u8
+#EXTINF:-1 group-title="Gattouz0" tvg-logo="https://avminox.com/wp-content/uploads/2026/02/%E0%B8%AA%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%95-2026-01-29-191929-400x224-1-400x224.jpg",Gattouz0 X Hunnybunny
+https://media.vdohls.com/Zzp_GJ-vsTgKs/video.m3u8
+#EXTINF:-1 group-title="Gattouz0" tvg-logo="https://avminox.com/wp-content/uploads/2025/12/%E0%B8%AA%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%95-2025-12-29-200255-400x222.png",Gattouz0 X Jethedeath
+https://media.vdohls.com/LJ_E0pO-lKVUu/video.m3u8
+#EXTINF:-1 group-title="Gattouz0" tvg-logo="https://avminox.com/wp-content/uploads/2026/02/%E0%B8%AA%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%95-2026-02-11-210617-400x198.png",Gattouz0 X Hope Heaven
+https://media.vdohls.com/yDe-Tsa9L_M0q/video.m3u8
+
+
+
+
 
 
 
@@ -8859,6 +8937,28 @@ https://surrit.com/b2cfb6d6-92d7-45ce-b368-594d8e308b8e/720p/video.m3u8
 https://surrit.com/c4de6a1c-11f5-418e-8e07-21b7daa05603/720p/video.m3u8
 #EXTINF:-1 group-title="HEYZO JAV" tvg-logo="https://fourhoi.com/heyzo-3599/cover-t.jpg",HEYZO-3599
 https://surrit.com/b7c5b2a7-84c7-4ffa-8a4c-33a7ae361191/720p/video.m3u8
+#EXTINF:-1 group-title="HEYZO JAV" tvg-logo="https://fourhoi.com/heyzo-3589/cover-t.jpg",HEYZO-3589
+https://surrit.com/91120af1-3f33-4e95-b70d-54c7ea5d67b1/720p/video.m3u8
+#EXTINF:-1 group-title="HEYZO JAV" tvg-logo="https://fourhoi.com/heyzo-3586/cover-t.jpg",HEYZO-3586
+https://surrit.com/a0670d5e-0b32-4b1e-a96d-034220118ad2/720p/video.m3u8
+#EXTINF:-1 group-title="HEYZO JAV" tvg-logo="https://fourhoi.com/heyzo-3584/cover-t.jpg",HEYZO-3584
+https://surrit.com/3c777ab1-1c0c-419b-96fb-0ecea12091e1/720p/video.m3u8
+#EXTINF:-1 group-title="HEYZO JAV" tvg-logo="https://fourhoi.com/heyzo-3576/cover-t.jpg",HEYZO-3576
+https://surrit.com/4ac69df5-1c21-4f29-a439-454f3fc50d3c/1080p/video.m3u8
+#EXTINF:-1 group-title="HEYZO JAV" tvg-logo="https://fourhoi.com/heyzo-3615/cover-t.jpg",HEYZO-3615
+https://surrit.com/98d073b3-07e6-48eb-9b57-b5c520c5bec1/720p/video.m3u8
+#EXTINF:-1 group-title="HEYZO JAV" tvg-logo="https://fourhoi.com/heyzo-3572/cover-t.jpg",HEYZO-3572
+https://surrit.com/d5693b22-384d-4e15-b9d2-7e7a76c5a5fb/720p/video.m3u8
+#EXTINF:-1 group-title="HEYZO JAV" tvg-logo="https://fourhoi.com/heyzo-3570/cover-t.jpg",HEYZO-3570
+https://surrit.com/e9090ad5-b383-479c-9969-9cfb4efe7862/1080p/video.m3u8
+#EXTINF:-1 group-title="HEYZO JAV" tvg-logo="https://fourhoi.com/heyzo-3568/cover-t.jpg",HEYZO-3568
+https://surrit.com/e7718865-949e-4306-9de0-fb28b22462b6/720p/video.m3u8
+#EXTINF:-1 group-title="HEYZO JAV" tvg-logo="https://fourhoi.com/heyzo-3592/cover-t.jpg",HEYZO-3592
+https://surrit.com/5924ded4-749a-4281-8d70-b778a29ad3c0/720p/video.m3u8
+#EXTINF:-1 group-title="HEYZO JAV" tvg-logo="https://fourhoi.com/heyzo-3564/cover-t.jpg",HEYZO-3564
+https://surrit.com/6582a84a-cb68-4fa8-b0d0-06e7c7475e37/720p/video.m3u8
+#EXTINF:-1 group-title="HEYZO JAV" tvg-logo="https://fourhoi.com/heyzo-3560/cover-t.jpg",HEYZO-3560
+https://surrit.com/77768128-0b3d-4f4a-87b0-5da0eb5c8862/720p/video.m3u8
 
 
 
@@ -8868,21 +8968,25 @@ https://surrit.com/b7c5b2a7-84c7-4ffa-8a4c-33a7ae361191/720p/video.m3u8
 
 
 
-#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00595/ssis00595pl.jpg",SSIS-595 เธชเธเธฒเธเนเธญเธเธเธฅเธฒเธข เธชเธเธฒเธขเธเนเธงเธเธฅเนเธฒเธ
+
+
+
+
+#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00595/ssis00595pl.jpg",SSIS-595
 https://ezycdn.com/playlist-d8sdh4q1-FHD.m3u8
-#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/sone00405/sone00405pl.jpg",SONE-405 เธขเธฑเนเธงเน€เธเธดเธเธ—เธเธ”เธน เธฅเนเธญเธเธฃเธนเธกเธฒเนเธ•เธ
+#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/sone00405/sone00405pl.jpg",SONE-405
 https://ezycdn.com/playlist-oevd3adg-FHD.m3u8
-#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00499/ssis00499pl.jpg",SSIS-499 เธเธญเน€เธเธตเธขเธเธซเธเธถเนเธเธงเธฑเธ เนเธเนเธเธฑเธเนเธฅเธฐเน€เธเธญ
+#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00499/ssis00499pl.jpg",SSIS-499
 https://ezycdn.com/playlist-2jrjfjse-FHD.m3u8
-#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/sone00228/sone00228pl.jpg",SONE-228 เน€เธเนเธเน€เธเธเธฒเธเธเธธเธ เน€เธเธญเธซเธกเธฑเธ”เธฎเธธเธเธ—เนเธฒเธขเธเธเธงเธ
+#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/sone00228/sone00228pl.jpg",SONE-228
 https://ezycdn.com/playlist-ts55tfg-FHD.m3u8
-#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00951/ssis00951pl.jpg",SSIS-951 เนเธเธเนเธงเธขเธงเธฒเธขเน€เธเนเธฒเธเธฒเธขเธ”เธนเน€เธญเนเธ
+#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00951/ssis00951pl.jpg",SSIS-951
 https://ezycdn.com/playlist-fddj74pn-SD.m3u8
-#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00413/ssis00413pl.jpg",SSIS-413 เธชเธงเธขเธเธฒเธ”เธดเธชเธกเน เธเธดเธ”เนเธเธฃเธ•เธเธฑเธ”
+#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00413/ssis00413pl.jpg",SSIS-413
 https://ezycdn.com/playlist-culm7h6f-SD.m3u8
-#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00280/ssis00280pl.jpg",SSIS-280 เน€เธญเธเธ—เธฃเธฒเธเธเนเธเธตเน เธเธญเธกเธตเธ•เธดเธงเน€เธ•เธญเธฃเนเน€เธเนเธเนเธเธ
+#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00280/ssis00280pl.jpg",SSIS-280
 https://ezycdn.com/playlist-6asg34p8-SD.m3u8
-#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00129/ssis00129pl.jpg",SSIS-129 เธฃเธตเธชเธ•เธฒเธฃเนเธ—เธเธฒเธ”เธงเนเธฒเธเธฐเน€เธฅเธดเธ
+#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00129/ssis00129pl.jpg",SSIS-129
 https://ezycdn.com/playlist-rlh8qon2-SD.m3u8
 #EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/oae00262/oae00262pl.jpg",oae-262
 https://surrit.com/b79772db-a1d3-49da-9b74-ca296df0c251/720p/video.m3u8
@@ -9002,131 +9106,54 @@ https://surrit.com/adb10dda-e955-4bac-a632-f39cf94afb17/1080p/video.m3u8
 https://surrit.com/2fb770fe-bd88-4eb3-b7d8-1e40271c1b45/842x480/video.m3u8
 #EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/ssni00190/ssni00190pl.jpg",ssni-190
 https://surrit.com/df1e16e6-c0ba-46ef-b7f4-cd385809604b/1280x720/video.m3u8
-#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/sone00071/sone00071pl.jpg",sone-071
-https://galav-oxwy.mushroomtrack.com/hls/b5bMbpfFRO72UkKo81N_wg/1771018818/39000/39877/39877.m3u8
-#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/oae00249/oae00249pl.jpg",oae-249
-https://gobob-yasl.mushroomtrack.com/hls/L8tRAjD0PRWlfxH0xcUoNA/1771018521/38000/38984/38984.m3u8
-#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/sone00027/sone00027pl.jpg",sone-027
-https://galav-oxwy.mushroomtrack.com/hls/lrcTyNaY551wb6CouExa5g/1771018711/39000/39210/39210.m3u8
-#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00984/ssis00984pl.jpg",ssis-984
-https://gobob-yasl.mushroomtrack.com/hls/sQ0oWylzOI0JSThfUbJu_Q/1771018613/38000/38460/38460.m3u8
-#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00951/ssis00951pl.jpg",ssis-951
-https://gobob-yasl.mushroomtrack.com/hls/o-uMmJtdipbtvm4K9-3dDw/1771018138/37000/37797/37797.m3u8
-#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00913/ssis00913pl.jpg",ssis-913
-https://gmas-clena.mushroomtrack.com/hls/1zDyMOY3yms92c6pkodYmA/1771018708/36000/36992/36992.m3u8
-#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00875/ssis00875pl.jpg",ssis-875
-https://gmas-clena.mushroomtrack.com/hls/sRYWllH80cKC-2UYspn0pw/1771018483/36000/36328/36328.m3u8
-#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00801/ssis00801pl.jpg",ssis-801
-https://gmas-clena.mushroomtrack.com/hls/X5cdcVFyvollMaTwybyGlw/1771017935/35000/35484/35484.m3u8
-#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00839/ssis00839pl.jpg",ssis-839
-https://gmas-clena.mushroomtrack.com/hls/2NVQ6Yy9H8STK72sJjHCOw/1771018489/34000/34872/34872.m3u8
-#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00762/ssis00762pl.jpg",ssis-762
-https://gmas-clena.mushroomtrack.com/hls/ld6lXhkj1qFLS1gQUqKZyA/1771017948/34000/34010/34010.m3u8
-#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00721/ssis00721pl.jpg",ssis-721
-https://gmas-clena.mushroomtrack.com/hls/R0z3MZ8QIOmMRur0u1jGmw/1771017969/33000/33129/33129.m3u8
-#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00685/ssis00685pl.jpg",ssis-685
-https://masno-terer.mushroomtrack.com/hls/xGE5N3pbgctcxMw4T0-26Q/1771017893/32000/32505/32505.m3u8
-#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00607/ssis00607pl.jpg",ssis-607
-https://masno-terer.mushroomtrack.com/hls/lHqf9ZpbGwRbM9McERs7EA/1771018306/31000/31806/31806.m3u8
-#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00595/ssis00595pl.jpg",ssis-595
-https://masno-terer.mushroomtrack.com/hls/-G97cB-I7i_6D3_4G2hHlA/1771017705/30000/30959/30959.m3u8
-#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00586/ssis00586pl.jpg",ssis-586
-https://masno-terer.mushroomtrack.com/hls/5yZFOL1EPRteijH8JOXAnA/1771017936/30000/30343/30343.m3u8
-#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00560/ssis00560pl.jpg",ssis-560
-https://masno-terer.mushroomtrack.com/hls/7Q3NH5N-XgcFiVRO4__eYw/1771018374/28000/28092/28092.m3u8
-#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00531/ssis00531pl.jpg",ssis-531
-https://masno-terer.mushroomtrack.com/hls/m7UAqJxwXOIweSO2itaqxw/1771018007/27000/27290/27290.m3u8
-#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00499/ssis00499pl.jpg",ssis-499
-https://halas-monsl.mushroomtrack.com/hls/MVaql6HHqO9dH1N6vQVqxQ/1771017901/26000/26373/26373.m3u8
-#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00468/ssis00468pl.jpg",ssis-468
-https://halas-monsl.mushroomtrack.com/hls/0aMAZ5NEWhH-_R95SWRxyg/1771018165/25000/25754/25754.m3u8
-#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00440/ssis00440pl.jpg",ssis-440
-https://halas-monsl.mushroomtrack.com/hls/Z1I40dZpWrdmr0QlIDx3_w/1771018116/25000/25053/25053.m3u8
-#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00413/ssis00413pl.jpg",ssis-413
-https://hansn-govi.mushroomtrack.com/hls/9kP6Wd8OzOBUwubUOD6Igg/1771017768/24000/24397/24397.m3u8
-#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00387/ssis00387pl.jpg",ssis-387
-https://halas-monsl.mushroomtrack.com/hls/u21NgAu9vNa9VI1twWGcsg/1771017625/23000/23685/23685.m3u8
-#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00334/ssis00334pl.jpg",ssis-334
-https://halas-monsl.mushroomtrack.com/hls/XFWmDf5MmRchf7qEnRcqaw/1771018289/23000/23684/23684.m3u8
-#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00361/ssis00361pl.jpg",ssis-361
-https://halas-monsl.mushroomtrack.com/hls/UWpTdVAZ5-XQds_Iv0bs8g/1771017817/22000/22900/22900.m3u8
-#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00308/ssis00308pl.jpg",ssis-308
-https://halas-monsl.mushroomtrack.com/hls/kzrm8M9iqfToHVLEKAoRWw/1771017823/21000/21794/21794.m3u8
-#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00280/ssis00280pl.jpg",ssis-280
-https://halas-monsl.mushroomtrack.com/hls/pYjHUCNRyvZnCojU29Esgg/1771017806/20000/20951/20951.m3u8
-#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00252/ssis00252pl.jpg",ssis-252
-https://halas-monsl.mushroomtrack.com/hls/L2klWAsL7ThEAh7GLWFI-A/1771017738/20000/20016/20016.m3u8
-#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00222/ssis00222pl.jpg",ssis-222
-https://fuaf-uying.mushroomtrack.com/hls/2SrtbJDNVlXScu1a5G6LAg/1771017558/29000/29683/29683.m3u8
-#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00129/ssis00129pl.jpg",ssis-129
-https://hansn-govi.mushroomtrack.com/hls/GtYBzX1nPLr9nSVRS-u_QA/1771017431/19000/19013/19013.m3u8
-#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00194/ssis00194pl.jpg",ssis-194
-https://halas-monsl.mushroomtrack.com/hls/ii9LwtnLyEvYXiizVi0pTA/1771017252/18000/18860/18860.m3u8
-#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00158/ssis00158pl.jpg",ssis-158
-https://halas-monsl.mushroomtrack.com/hls/X_syPIYHzLKYmuadhbKlZA/1771017389/18000/18024/18024.m3u8
-#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00165/ssis00165pl.jpg",ssis-165
-https://ap-drop-monst.mushroomtrack.com/bcdn_token=BMm9i2HufcbDZjsowP7t0Jkzjr5No7vgdGRGp2x7O5I&expires=1771013911&token_path=%2Fvod%2F/vod/17000/17490/17490.m3u8
-#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00164/ssis00164pl.jpg",ssis-164
-https://ap-drop-monst.mushroomtrack.com/bcdn_token=zaJ62PUmXkBd5KO3LV7aJQjodpeGl_5V48gr6h77ffY&expires=1771013905&token_path=%2Fvod%2F/vod/17000/17489/17489.m3u8
-#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00163/ssis00163pl.jpg",ssis-163
-https://ap-drop-monst.mushroomtrack.com/bcdn_token=YryWwbwfTtuTL55dkee6c3cQBIT-tPDMEuga7h16mRQ&expires=1771013777&token_path=%2Fvod%2F/vod/17000/17336/17336.m3u8
-#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00162/ssis00162pl.jpg",ssis-162
-https://masno-terer.mushroomtrack.com/hls/tBbX51dXBWJOcq04BHuNnw/1771017459/32000/32813/32813.m3u8
-#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00161/ssis00161pl.jpg",ssis-161
-https://masno-terer.mushroomtrack.com/hls/bXjiFHL0mGhCdcHFakwTWg/1771017562/30000/30103/30103.m3u8
-#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00160/ssis00160pl.jpg",ssis-160
-https://ap-drop-monst.mushroomtrack.com/bcdn_token=kQvcZdEBQx7blswe85W7x-ob8vmZCK67otq5TUyuSY4&expires=1771013532&token_path=%2Fvod%2F/vod/17000/17192/17192.m3u8
-#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/ssni00309/ssni00309pl.jpg",ssni-309
-https://qabo-ahha.mushroomtrack.com/hls/5MC5ygsli--a0zUzUvin0g/1771017473/0/796/796.m3u8
-#EXTINF:-1 group-title="Saika Kawakita" tvg-logo="https://pics.dmm.co.jp/digital/video/ssni00288/ssni00288pl.jpg",ssni-288
-https://qabo-ahha.mushroomtrack.com/hls/reWX8lodsvn9-beCqFIMBw/1771017105/0/533/533.m3u8
-#EXTINF:-1 group-title="Karen Kaede" tvg-logo="https://pics.dmm.co.jp/digital/video/ipzz00435/ipzz00435pl.jpg",IPZZ-435 เธเนเธณเธเธถเนเธเธเธกเธเธชเธกเธฃเธฑเธเธฃเนเธฒเธข
-https://ezycdn.com/playlist-o5tqeg8-FHD.m3u8
-#EXTINF:-1 group-title="Karen Kaede" tvg-logo="https://pics.dmm.co.jp/digital/video/ipzz00242/ipzz00242pl.jpg",IPZZ-242 เธเธฃเธนเน€เธเธฅเธตเนเธขเธเธเธฅเนเธณ เนเธ”เธเธขเนเธณเนเธเธชเธฃเธฐ
+
+
+
+#EXTINF:-1 group-title="Karen Kaede" tvg-logo="https://pics.dmm.co.jp/digital/video/ipzz00242/ipzz00242pl.jpg",IPZZ-242
 https://ezycdn.com/playlist-a28d58ab-FHD.m3u8
-#EXTINF:-1 group-title="Karen Kaede" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1fsdss610/1fsdss610pl.jpg",FSDSS-610 เธเนเธญเธเน€เธฅเธกเนเธญเธ เธเธฑเธเธฅเธตเธฅเธฒเธญเธกเนเธกเนเธเธกเธเธญ
+#EXTINF:-1 group-title="Karen Kaede" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1fsdss610/1fsdss610pl.jpg",FSDSS-610
 https://ezycdn.com/playlist-a72mqaof-FHD.m3u8
-#EXTINF:-1 group-title="Karen Kaede" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1fsdss627/1fsdss627pl.jpg",FSDSS-627 เธญเธญเธเน€เธ”เธ—เธชเธธเธ”เธเธดเธเธเธดเธเธ•เธฑเธเนเธเธเธชเธฒเธงเธชเธธเธ”เธชเธงเธข
+#EXTINF:-1 group-title="Karen Kaede" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1fsdss627/1fsdss627pl.jpg",FSDSS-627
 https://ezycdn.com/playlist-l2c9gvgb-FHD.m3u8
-#EXTINF:-1 group-title="Karen Kaede" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1fsdss615/1fsdss615pl.jpg",FSDSS-615 เธเธตเนเนเธเธเน€เธเธฃเธตเนเธขเธงเธเธตเนเธ”เนเธญเธเธเธตเนเธ”เน€เธเนเธ”เธเธฑเธ
+#EXTINF:-1 group-title="Karen Kaede" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1fsdss615/1fsdss615pl.jpg",FSDSS-615
 https://ezycdn.com/playlist-a3gdhkd-FHD.m3u8
-#EXTINF:-1 group-title="Karen Kaede" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00724/ipx00724pl.jpg",IPX-724 เธฅเธฑเธเธฅเธงเธเธชเธธเธ”เธ—เธตเธเน€เธฃเธเธเธงเธตเธเนเธฅเธเธชเธงเธข
+#EXTINF:-1 group-title="Karen Kaede" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00724/ipx00724pl.jpg",IPX-724
 https://ezycdn.com/playlist-v440qipe-SD.m3u8
-#EXTINF:-1 group-title="Karen Kaede" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00867/ipx00867pl.jpg",IPX-867 เธเธฒเธเธ”เธนเธ”เธฅเนเธฒเธเธ—เนเธญเธฅเธฑเธเธฅเนเธญเธเธฃเธนเธเธฒเน€เธฃเธ
+#EXTINF:-1 group-title="Karen Kaede" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00867/ipx00867pl.jpg",IPX-867
 https://ezycdn.com/playlist-2bvfn8kh-SD.m3u8
-#EXTINF:-1 group-title="Karen Kaede" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00627/ipx00627pl.jpg",IPX-627 เธญเธ”เธตเธ•เธ•เนเธกเน€เธเนเธกเธเธฑเธ”เน€เธ”เนเธกเธเธฒเธฃเธฒเน€เธเธฅ
+#EXTINF:-1 group-title="Karen Kaede" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00627/ipx00627pl.jpg",IPX-627
 https://ezycdn.com/playlist-kt5fis0d-SD.m3u8
-#EXTINF:-1 group-title="Karen Kaede" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00497/ipx00497pl.jpg",IPX-497 เธชเธฒเธกเน€เธ—เธเธเธดเธ”เธฒเนเธเธเธฑเธ เธชเธงเธฃเธฃเธเนเธฎเธฒเน€เธฃเนเธก
+#EXTINF:-1 group-title="Karen Kaede" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00497/ipx00497pl.jpg",IPX-497
 https://ezycdn.com/playlist-7mg3kjn1-SD.m3u8
-#EXTINF:-1 group-title="Karen Kaede" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00497/ipx00497pl.jpg",IPX-497 เน€เธ—เธเธเธดเธ”เธฒเนเธเธเธฑเธ เธชเธงเธฃเธฃเธเนเธฎเธฒเน€เธฃเนเธก
+#EXTINF:-1 group-title="Karen Kaede" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00497/ipx00497pl.jpg",IPX-497
 https://ezycdn.com/playlist-ebviinun-SD.m3u8
-#EXTINF:-1 group-title="Karen Kaede" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1fsdss609/1fsdss609pl.jpg",FSDSS-609 เธชเธธเธ”เธชเธงเธขเน€เธเธฅเธตเนเธขเธเธเธทเนเธญเธเนเธฒเธขเธ—เธทเนเธญเธเนเธขเธฑเธเธฃเธฑเธ
+#EXTINF:-1 group-title="Karen Kaede" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1fsdss609/1fsdss609pl.jpg",FSDSS-609
 https://ezycdn.com/playlist-qmvmimt4-SD.m3u8
-#EXTINF:-1 group-title="Karen Kaede" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00811/ipx00811pl.jpg",IPX-811 เธ•เธทเนเธญเธซเธกเธ”เธซเธฅเธญเธ”เธซเธขเธญเธ”เธขเธฒเธชเธงเธฒเธ—
+#EXTINF:-1 group-title="Karen Kaede" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00811/ipx00811pl.jpg",IPX-811
 https://ezycdn.com/playlist-luh39m55-SD.m3u8
-#EXTINF:-1 group-title="Karen Kaede" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00850/ipx00850pl.jpg",IPX-850 เธ—เธฃเธดเธเน€เธชเธตเธขเธงเธเธฑเธเน€เธเธทเนเธญเธเธฃเนเธงเธกเธเธฒเธ
+#EXTINF:-1 group-title="Karen Kaede" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00850/ipx00850pl.jpg",IPX-850
 https://ezycdn.com/playlist-cf4n7b9q-SD.m3u8
-#EXTINF:-1 group-title="Karen Kaede" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00612/ipx00612pl.jpg",IPX-612 เน€เธเธดเธ”เนเธเธชเธญเธเธชเนเธฅเธ”เนเธซเธเธญเธเธเธถเนเธเธเธฃเธน
+#EXTINF:-1 group-title="Karen Kaede" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00612/ipx00612pl.jpg",IPX-612
 https://ezycdn.com/playlist-86kpd2vo-SD.m3u8
-#EXTINF:-1 group-title="Karen Kaede" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00776/ipx00776pl.jpg",IPX-776 เธเธตเนเธชเธฒเธงเนเธเนเธซเธเธตเนเธเธฅเธตเธเธฒเธขเนเธ—เธเธเนเธญเธ
+#EXTINF:-1 group-title="Karen Kaede" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00776/ipx00776pl.jpg",IPX-776
 https://ezycdn.com/playlist-b1dtp4lv-SD.m3u8
-#EXTINF:-1 group-title="Karen Kaede" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00758/ipx00758pl.jpg",IPX-758 เธเนเธญเธเธฑเธงเธ•เธฑเธงเน€เธฅเธตเธข เธเธฑเธเน€เธกเธตเธขเธฅเธนเธเธเธฒเธข
+#EXTINF:-1 group-title="Karen Kaede" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00758/ipx00758pl.jpg",IPX-758
 https://ezycdn.com/playlist-gaphb6p1-SD.m3u8
-#EXTINF:-1 group-title="Karen Kaede" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00689/ipx00689pl.jpg",IPX-689 เธฃเธฑเธเธซเธเธฑเธเธซเธเนเธงเธเธเนเธงเธเธเธฒเธกเธเนเธญเน€เธฅเธตเนเธขเธ
+#EXTINF:-1 group-title="Karen Kaede" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00689/ipx00689pl.jpg",IPX-689
 https://ezycdn.com/playlist-0mjk61ge-SD.m3u8
-#EXTINF:-1 group-title="Karen Kaede" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00398/ipx00398pl.jpg",IPX-398 เน€เธ•เธตเธขเธเธฃเนเธงเธกเนเธเธฃเนเธ•เธธเนเธเนเธเธเธดเธเธ•เธฑเธ
+#EXTINF:-1 group-title="Karen Kaede" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00398/ipx00398pl.jpg",IPX-398
 https://ezycdn.com/playlist-53j99f9f-SD.m3u8
-#EXTINF:-1 group-title="Karen Kaede" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00528/ipx00528pl.jpg",IPX-528 เธเธญเธชเน€เธญเธงเธ”เธตเธขเธญเธกเธเธฅเธตเธญเธขเนเธฒเนเธเนเธง
+#EXTINF:-1 group-title="Karen Kaede" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00528/ipx00528pl.jpg",IPX-528
 https://ezycdn.com/playlist-890dr45g-SD.m3u8
-#EXTINF:-1 group-title="Karen Kaede" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00641/ipx00641pl.jpg",IPX-641 เธชเธฐเนเธ เนเธเธญเธเธเธฒเธ” เธเนเธฒเธขเธฃเธชเธชเธงเธฒเธ—เธเนเธญเธเธฑเธง
+#EXTINF:-1 group-title="Karen Kaede" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00641/ipx00641pl.jpg",IPX-641
 https://ezycdn.com/playlist-4pr9qv8n-SD.m3u8
-#EXTINF:-1 group-title="Karen Kaede" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00564/ipx00564pl.jpg",IPX-564 เธฃเธฑเธเธเธฃเธดเธเธฒเธฃ เธเธขเธฒเธเธฒเธฅเธเธ”เธเธธเนเธก
+#EXTINF:-1 group-title="Karen Kaede" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00564/ipx00564pl.jpg",IPX-564
 https://ezycdn.com/playlist-rignd6k-SD.m3u8
-#EXTINF:-1 group-title="Karen Kaede" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00534/ipx00534pl.jpg",IPX-534 เธเธดเธ•เธซเธฅเธธเธ”เนเธฅเธ เนเธเธขเธเธชเธธเธ”เธ”เนเธฒเธก
+#EXTINF:-1 group-title="Karen Kaede" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00534/ipx00534pl.jpg",IPX-534
 https://ezycdn.com/playlist-n95hnqeh-FHD.m3u8
-#EXTINF:-1 group-title="Karen Kaede" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00278/ipx00278pl.jpg",IPX-278 เนเธญเนเธเธ—เธตเน€เธ”เธตเธขเธง เน€เธชเธตเธขเธงเธ—เธฑเนเธเนเธฃเธเธเธฒเธฅ
+#EXTINF:-1 group-title="Karen Kaede" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00278/ipx00278pl.jpg",IPX-278
 https://ezycdn.com/playlist-279un654-SD.m3u8
-#EXTINF:-1 group-title="Karen Kaede" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00235/ipx00235pl.jpg",IPX-235 เธชเธฒเธงเธเธฃเธดเธจเธเธฒ เธเธธเนเธกเธเนเธฒเธเธฒเธฃเธฃเธญเน€เธข
+#EXTINF:-1 group-title="Karen Kaede" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00235/ipx00235pl.jpg",IPX-235
 https://ezycdn.com/playlist-guhrff4g-SD.m3u8
 #EXTINF:-1 group-title="Karen Kaede" tvg-logo="https://fourhoi.com/ipzz-677/cover-n.jpg",ipzz-677
 https://surrit.com/ebcfe3c8-65fe-42cf-9d00-cd6df07079a0/1080p/video.m3u8
@@ -9282,11 +9309,11 @@ https://surrit.com/706e4a31-9653-40de-900b-13ace683aaf1/1080p/video.m3u8
 https://surrit.com/b14a7b94-055d-4177-b268-eb2d48b3f067/1080p/video.m3u8
 #EXTINF:-1 group-title="Karen Kaede" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00235/ipx00235pl.jpg",ipx-235
 https://surrit.com/2948abfa-032f-490a-9b16-d550a428cff7/1080p/video.m3u8
-#EXTINF:-1 group-title="JAV" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1start148/1start148pl.jpg",START-148 เธเธงเธฒเธกเธฅเธฑเธเธเธฒเธง เธเธญเธเธเนเธญเธเนเธฒเธเธเธฑเธเธเธฃเธนเธญเธเธธเธเธฒเธฅ
+#EXTINF:-1 group-title="JAV" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1start148/1start148pl.jpg",START-148
 https://ezycdn.com/playlist-h03mv30-FHD.m3u8
-#EXTINF:-1 group-title="JAV" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1stars895/1stars895pl.jpg",STARS-895 เธเธฑเธเธฃเธ–เธเธดเธ”เธซเธเธตเนเน€เธ”เธฅเธดเน€เธงเธญเธฃเธตเนเธฃเธฒเธเธฐ
+#EXTINF:-1 group-title="JAV" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1stars895/1stars895pl.jpg",STARS-895
 https://ezycdn.com/playlist-ic5j03j-SD.m3u8
-#EXTINF:-1 group-title="JAV" tvg-logo="https://pics.dmm.co.jp/digital/video/1stars00797/1stars00797pl.jpg",STARS-797 เน€เธเธฅเธฅเนเธเธฒเธขเธ•เธฃเธเน€เธฃเธทเนเธญเธเน€เธเนเธเธชเนเธเธฑเธ”
+#EXTINF:-1 group-title="JAV" tvg-logo="https://pics.dmm.co.jp/digital/video/1stars00797/1stars00797pl.jpg",STARS-797
 https://cdn.cdndlap.com/backup/src/hls/STARS-797_156764_11-24-11am_2024-04-06_hls.m3u8/hls_main.m3u8
 #EXTINF:-1 group-title="Minamo" tvg-logo="https://fourhoi.com/start-503-uncensored-leak/cover-n.jpg",start-503-uncensored-leak
 https://surrit.com/5d2333ea-5690-400f-a5a9-9fc48ca65b0c/1080p/video.m3u8
@@ -9435,79 +9462,79 @@ https://surrit.com/a88589ed-0dc4-4f84-86b6-bd7cb313f3ff/720p/video.m3u8
 https://surrit.com/82a8b9cc-a7a4-4efe-bb5a-a5de0748cbe4/1280x720/video.m3u8
 #EXTINF:-1 group-title="Minamo" tvg-logo="https://fourhoi.com/rebdb-693/cover-n.jpg",rebdb-693
 https://surrit.com/3f148216-24ae-44d6-bfb0-5a9b6cb1544d/1280x720/video.m3u8
-#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/sone00113/sone00113pl.jpg",SONE-113 เน€เธกเธฒเนเธฅเนเธงเธฅเธทเธกเธชเธดเนเธ เนเธญเธเธเธดเธเธเธฑเธเธฃเธธเนเธเธเธตเน
+#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/sone00113/sone00113pl.jpg",SONE-113
 https://ezycdn.com/playlist-osmcm78-FHD.m3u8
-#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/sone00309/sone00309pl.jpg",SONE-309 เน€เธเธขเธ—เธธเธเธชเน€เธ•เนเธ! เธเธฒเธเธเธดเธเธชเธนเนเน€เธเธตเธขเธ
+#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/sone00309/sone00309pl.jpg",SONE-309
 https://ezycdn.com/playlist-5ji5v1o-FHD.m3u8
-#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00982/ssis00982pl.jpg",SSIS-982 เธเธนเนเธเธฑเธ”เธเธฒเธฃเธชเธฒเธงเนเธเธ”เธต เนเธ”เนเธ—เธธเธเธ—เธตเนเธ—เธตเนเนเธเธ•เนเธญเธเธเธฒเธฃ
+#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00982/ssis00982pl.jpg",SSIS-982
 https://ezycdn.com/playlist-rucrid0-FHD.m3u8
-#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/sone00264/sone00264pl.jpg",SONE-264 เธขเนเธญเธเน€เธงเธฅเธฒ NTR เธงเธเธฅเธนเธ
+#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/sone00264/sone00264pl.jpg",SONE-264
 https://ezycdn.com/playlist-5e7527o-FHD.m3u8
-#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00949/ssis00949pl.jpg",SSIS-949 เธเธฅเธ”เธเธฅเนเธญเธขเธเธงเธฒเธกเน€เธเนเธเธเธ” เนเธ”เธเน€เธขเนเธ”เธชเธ”เธเธเธเนเธณเนเธ•เธ
+#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00949/ssis00949pl.jpg",SSIS-949
 https://ezycdn.com/playlist-n6dsbk0-FHD.m3u8
-#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/oae00246/oae00246pl.jpg",OAE-246 เธงเธฑเธเธเธตเนเธเธฑเธเธเนเนเธเนเธญเธขเธฒเธเธเธฐเนเธ”เธเน€เธขเนเธ”เธญเธตเธเนเธฅเนเธง
+#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/oae00246/oae00246pl.jpg",OAE-246
 https://ezycdn.com/playlist-oufaqno-FHD.m3u8
-#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/sone00212/sone00212pl.jpg",SONE-212 เนเธซเธขเธซเธงเธเธฃเธฒเธเธฐ เธขเธนเธฃเธฐเธเธทเธเธซเธฅเธธเธ”เนเธฅเธ
+#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/sone00212/sone00212pl.jpg",SONE-212
 https://ezycdn.com/playlist-dkv5jl0-FHD.m3u8
-#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00556/ssis00556pl.jpg",SSIS-556 เธชเธฒเธฃเธเธ”เธต 1 เน€เธ”เธทเธญเธ เธขเธญเธกเธกเธตเน€เธเนเธเธชเนเธ—เธธเธเธ—เธตเนเธ—เธธเธเน€เธงเธฅเธฒ
+#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00556/ssis00556pl.jpg",SSIS-556
 https://ezycdn.com/playlist-enag9do-FHD.m3u8
-#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00616/ssis00616pl.jpg",SSIS-616 เธเนเธณเธเธทเธเน€เธฃเนเธฒเธฃเนเธญเธเธเธญเธเธเธฒเธขเธเธฃเธฒ
+#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00616/ssis00616pl.jpg",SSIS-616
 https://ezycdn.com/playlist-enp73qo-FHD.m3u8
-#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00681/ssis00681pl.jpg",SSIS-681 เธชเธขเธเธชเธญเธเธซเธเธธเนเธกเธชเธฒเธขเธซเธทเนเธ เธเนเธฒเธเธเธทเธ 6 เธขเธ
+#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00681/ssis00681pl.jpg",SSIS-681
 https://ezycdn.com/playlist-f663kuo-FHD.m3u8
-#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00797/ssis00797pl.jpg",SSIS-797 เธเธ—เน€เธฃเธตเธขเธเธฃเธฑเธเธเธเธฑเธเน€เธกเธฒ
+#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00797/ssis00797pl.jpg",SSIS-797
 https://ezycdn.com/playlist-f8geul0-FHD.m3u8
-#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/sone00025/sone00025pl.jpg",SONE-025 เธซเธฅเธฒเธเน€เธขเนเธฒเธขเธงเธเธเธงเธเนเธซเนเน€เธขเนเธ”
+#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/sone00025/sone00025pl.jpg",SONE-025
 https://ezycdn.com/playlist-fp63gr8-FHD.m3u8
-#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/fway00027/fway00027pl.jpg",FWAY-027 เธเนเธญเธเธเธญเธเธฃเธฑเธ เธญเธขเธฒเธเธเธฐเธเธฑเธเนเธซเนเธชเธธเธ”เธเธญเธข
+#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/fway00027/fway00027pl.jpg",FWAY-027
 https://ezycdn.com/playlist-gd27p7o-FHD.m3u8
-#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00872/ssis00872pl.jpg",SSIS-872 เธฃเธฑเธเนเธฃเธเธเธญเธเธเธก เธ—เธตเนเนเธ—เนเธเธทเธญเธเธฑเธเธฃเนเธฒเธเธชเธธเธ”เน€เธเธตเนเธขเธ
+#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00872/ssis00872pl.jpg",SSIS-872
 https://ezycdn.com/playlist-gd4m51o-FHD.m3u8
-#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/ofje00505/ofje00505pl.jpg",OFJE-505 เธฃเธงเธกเน€เธ”เนเธฒเธ—เนเธฒเธซเธกเธฒ เธซเธเนเธฒเธเธฃเธฐเธเธเนเธช
+#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/ofje00505/ofje00505pl.jpg",OFJE-505
 https://ezycdn.com/playlist-jigmb2o-FHD.m3u8
-#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/sone00198/sone00198pl.jpg",SONE-198 เธชเธฑเธเน€เธงเธขเธเธฒเธก เนเธเธเธฒเธกเธเธณเธชเธฑเนเธเธเธฒเธข
+#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/sone00198/sone00198pl.jpg",SONE-198
 https://ezycdn.com/playlist-jhvjt30-FHD.m3u8
-#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00527/ssis00527pl.jpg",SSIS-527 เธกเธตเนเธเธเนเธเธ•เธฃเธชเธงเธข เนเธ•เนเธฅเธตเธฅเธฒเธเธงเธขเนเธเธ•เธฃเธญเนเธญเธเธซเธฑเธ”
+#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00527/ssis00527pl.jpg",SSIS-527
 https://ezycdn.com/playlist-som7s28d-FHD.m3u8
-#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/sone00116/sone00116pl.jpg",SONE-116 เธเธญเธฅเน€เธเธกเธ”เนเธงเธขเน€เธชเธตเธขเธเธเธฃเธฒเธ เธเนเธญเธเธเธฒเธเธ•เนเธญเธเธเธณเน€เธฃเธญ
+#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/sone00116/sone00116pl.jpg",SONE-116
 https://ezycdn.com/playlist-0jfn6d9e-FHD.m3u8
-#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/sone00069/sone00069pl.jpg",SONE-069 เน€เธซเนเธเธซเธเธดเธกเน เนเธ•เนเธเธดเนเธกเนเธเธ•เธฃเน€เธ”เนเธ”
+#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/sone00069/sone00069pl.jpg",SONE-069
 https://ezycdn.com/playlist-h4q0c3fo-FHD.m3u8
-#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://fourhoi.com/mbrbn-048/cover-n.jpg",MBRBN-048 เธชเธฒเธงเธชเธงเธขเธญเธฒเธเธเนเธณ เนเธกเนเธกเธตเธญเธฒเธฃเธกเธ“เนเน€เธเธตเนเธขเธเนเธซเนเธฃเธนเนเธเธฑเธเนเธ
+#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://fourhoi.com/mbrbn-048/cover-n.jpg",MBRBN-048
 https://ezycdn.com/playlist-7s2ushke-FHD.m3u8
-#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00583/ssis00583pl.jpg",SSIS-583 เธเนเธณเธเนเธฒเธเนเธกเนเธญเธฒเธ เธฅเธฒเธ เธเธฒเธเน€เธเธทเนเธญเธเธฅเธนเธ
+#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00583/ssis00583pl.jpg",SSIS-583
 https://ezycdn.com/playlist-3tniqin2-FHD.m3u8
-#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00717/ssis00717pl.jpg",SSIS-717 เน€เธเนเธฒเธ—เธฒเธเนเธเธฃเธชเธธเธ”เนเธเธเธเธฒเธฃเธ–เนเธ
+#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00717/ssis00717pl.jpg",SSIS-717
 https://ezycdn.com/playlist-c9oe8uee-SD.m3u8
-#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/ssni00522/ssni00522pl.jpg",SSNI-522 เธเธตเนเน€เธฎเธเธเธงเธขเนเธกเนเธญเธงเธขเนเธ–เธกเธขเนเธณเธขเธต
+#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/ssni00522/ssni00522pl.jpg",SSNI-522
 https://ezycdn.com/playlist-tut27ej2-SD.m3u8
-#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00495/ssis00495pl.jpg",SSIS-495 เธ”เธฑเธเธเธตเธ•เนเธญเธเธชเธฒเธเธเธฑเธเธเธฒเธเธ—เธตเนเนเธกเนเนเธ”เนเธเนเธญ
+#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00495/ssis00495pl.jpg",SSIS-495
 https://ezycdn.com/playlist-96vjnonb-FHD.m3u8
-#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00495/ssis00495pl.jpg",SSIS-495 เธ”เธฑเธเธเธตเธ•เนเธญเธเธชเธฒเธเธเธฑเธเธเธฒเธเธ—เธตเนเนเธกเนเนเธ”เนเธเนเธญ
+#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00495/ssis00495pl.jpg",SSIS-495
 https://ezycdn.com/playlist-onsocuje-SD.m3u8
-#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/ssni00186/ssni00186pl.jpg",SSNI-186 เธเธฑเธ’เธเธฒเธเธฒเธฃเน€เธชเธตเธขเธงเน€เธฅเธตเนเธขเธงเธซเธฒเธเธญเธเนเธซเธเน
+#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/ssni00186/ssni00186pl.jpg",SSNI-186
 https://ezycdn.com/playlist-ot259gg1-SD.m3u8
-#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00184/ssis00184pl.jpg",SSIS-184 เน€เธเนเธเธเธฒเธฃเน€เธ”เนเธฒเน€เธเนเธฒเนเธเธเธฑเธเธซเธฒ
+#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00184/ssis00184pl.jpg",SSIS-184
 https://ezycdn.com/playlist-c1n6nt90-SD.m3u8
-#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/ssni00458/ssni00458pl.jpg",SSNI-458 เนเธเธเธญเนเธญเธเธซเธฑเธ”เธญเนเธงเธเธ–เธเธฑเธ”เธ•เธตเธ—เนเธฒเธขเธเธฃเธฑเธง
+#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/ssni00458/ssni00458pl.jpg",SSNI-458
 https://ezycdn.com/playlist-je7f8mgd-SD.m3u8
-#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/ssni00966/ssni00966pl.jpg",SSNI-966 เธซเธฒเนเธ”เนเธชเธเธชเธตเนเนเธเธ”เธเธฒเนเธเธ”เธชเธฅเธฑเธเน€เธเธจ
+#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/ssni00966/ssni00966pl.jpg",SSNI-966
 https://ezycdn.com/playlist-mfqt8ab1-SD.m3u8
-#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00065/ssis00065pl.jpg",SSIS-065 เธเธตเนเธเธธเธเธเธฃเธฃเธกเธ–เธเธฑเธ”เธเธณเนเธฅเนเธงเธฃเธนเธ”
+#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00065/ssis00065pl.jpg",SSIS-065
 https://ezycdn.com/playlist-aee6snco-SD.m3u8
-#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/ssni00942/ssni00942pl.jpg",SSNI-942 เน€เธเธทเนเธญเธเธชเธงเธกเธฃเธญเธข เธเธญเธขเนเธกเนเธชเธเนเธงเนเธ
+#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/ssni00942/ssni00942pl.jpg",SSNI-942
 https://ezycdn.com/playlist-1pbie6qu-SD.m3u8
-#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/ssni00868/ssni00868pl.jpg",SSNI-868 เธฅเธธเธเธเธเธเธฃเธดเธ เน€เธเธดเธ”เธเธดเธเธฅเธนเธเน€เธเธทเนเธญเธ
+#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/ssni00868/ssni00868pl.jpg",SSNI-868
 https://ezycdn.com/playlist-52v05u54-SD.m3u8
-#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/ssni00805/ssni00805pl.jpg",SSNI-805 เน€เธ”เนเธเนเธซเธกเนเนเธเนเธเธฒเธ เธฅเธทเธกเธเนเธฒเธเธฅเธทเธกเนเธเธ
+#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/ssni00805/ssni00805pl.jpg",SSNI-805
 https://ezycdn.com/playlist-t2c1a56f-SD.m3u8
-#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/ssni00734/ssni00734pl.jpg",SSNI-734 เนเธเธฐเธเธเนเธ”เน เนเธ•เนเธเธธเนเธเน€เธเนเธเน€เธซเธ•เธธ
+#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/ssni00734/ssni00734pl.jpg",SSNI-734
 https://ezycdn.com/playlist-r968r2vp-SD.m3u8
-#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/ssni00623/ssni00623pl.jpg",SSNI-623 เธเธฑเธ”เนเธเธญเธขเนเธฒเนเธซเนเน€เธชเธตเธข เน€เธเธทเนเธญเธเน€เธกเธตเธขเน€เธเนเธเน€เธญเธงเธต
+#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/ssni00623/ssni00623pl.jpg",SSNI-623
 https://ezycdn.com/playlist-7pslmnhe-SD.m3u8
-#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/ssni00112/ssni00112pl.jpg",SSNI-112 เน€เธซเธเธทเนเธญเนเธ•เธ..เนเธซเธฅเธเนเธเธเนเธฒเธ
+#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/ssni00112/ssni00112pl.jpg",SSNI-112
 https://ezycdn.com/playlist-e0a8rrmf-SD.m3u8
-#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://fourhoi.com/ssni-064/cover-n.jpg",SSNI-064 เน€เธเธดเธ”เธกเนเธฒเธเธเธธเธ“เธซเธเธนเธงเธฑเธขเนเธช
+#EXTINF:-1 group-title="Yura Kano" tvg-logo="https://fourhoi.com/ssni-064/cover-n.jpg",SSNI-064
 https://ezycdn.com/playlist-onvqrfr2-SD.m3u8
 #EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/sone00309/sone00309pl.jpg",sone-309
 https://surrit.com/3933f95a-87cc-41a4-9089-5fdbbfa4d44d/1080p/video.m3u8
@@ -9818,13 +9845,13 @@ https://surrit.com/a08d6301-f2ee-4994-9f86-94a43dd7bc4b/1280x720/video.m3u8
 #EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/oae00135/oae00135pl.jpg",oae-135
 https://surrit.com/a8d5f088-da43-45dd-81b1-2401931fb2ff/1280x720/video.m3u8
 #EXTINF:-1 group-title="Yura Kano" tvg-logo="https://pics.dmm.co.jp/digital/video/ssni00891/ssni00891pl.jpg",ssni-891
-#EXTINF:-1 group-title="Mita Masuzu" tvg-logo="https://pics.dmm.co.jp/digital/video/sone00709/sone00709pl.jpg",SONE-709 เธซเธเนเธฒเธญเนเธญเธเธ—เธณเน€เธเธฅเธตเธข เธฅเธทเธกเน€เธกเธตเธขเธเธฑเนเธงเธเธ“เธฐ
+#EXTINF:-1 group-title="Mita Masuzu" tvg-logo="https://pics.dmm.co.jp/digital/video/sone00709/sone00709pl.jpg",SONE-709
 https://ezycdn.com/playlist-s0ng36g-FHD.m3u8
-#EXTINF:-1 group-title="Mita Masuzu" tvg-logo="https://pics.dmm.co.jp/digital/video/sone00182/sone00182pl.jpg",SONE-182 เธซเนเธญเธเน€เธ”เธตเธขเธง เธเธทเธเน€เธ”เธตเธขเธง เธเธนเนเธเธฑเธ”เธเธฒเธฃเน€เธชเธตเธขเธงเธเธเธฅเธทเธกเธ—เธฒเธเธเธฅเธฑเธเธเนเธฒเธ
+#EXTINF:-1 group-title="Mita Masuzu" tvg-logo="https://pics.dmm.co.jp/digital/video/sone00182/sone00182pl.jpg",SONE-182
 https://ezycdn.com/playlist-jhvjs3o-FHD.m3u8
-#EXTINF:-1 group-title="Mita Masuzu" tvg-logo="https://pics.dmm.co.jp/digital/video/sone00347/sone00347pl.jpg",SONE-347 เน€เธชเธฃเนเธเธเธดเธเธฅเธฑเธเธฅเนเธญ เธเธธเธ“เธเนเธญเธชเธกเธเธฃเธฐเธชเธเธเน
+#EXTINF:-1 group-title="Mita Masuzu" tvg-logo="https://pics.dmm.co.jp/digital/video/sone00347/sone00347pl.jpg",SONE-347
 https://ezycdn.com/playlist-tg8kf6om-FHD.m3u8
-#EXTINF:-1 group-title="Mita Masuzu" tvg-logo="https://pics.dmm.co.jp/digital/video/sone00111/sone00111pl.jpg",SONE-111 เธชเธธเธเน€เธ•เนเธกเธเธฃเธฐเธเธงเธขเธเนเธญเธเธญเธงเธขเธเธฑเนเธเธชเธธเธ”
+#EXTINF:-1 group-title="Mita Masuzu" tvg-logo="https://pics.dmm.co.jp/digital/video/sone00111/sone00111pl.jpg",SONE-111
 https://ezycdn.com/playlist-am2g8mg3-FHD.m3u8
 #EXTINF:-1 group-title="Mita Masuzu" tvg-logo="https://fourhoi.com/sone-925/cover-n.jpg",sone-925
 https://surrit.com/510ddd7f-6a12-4dd6-b39a-db1a13141e7d/1080p/video.m3u8
@@ -9890,43 +9917,43 @@ https://surrit.com/43abc09e-0d7c-4acf-9988-9f2128267fcf/1280x720/video.m3u8
 https://surrit.com/1c7aff0e-16be-4dce-a4fe-e5955847386e/1080p/video.m3u8
 #EXTINF:-1 group-title="Mita Masuzu" tvg-logo="https://fourhoi.com/ssis-999-uncensored-leak/cover-n.jpg",ssis-999-uncensored-leak
 https://surrit.com/1b809dd9-bf07-4303-b3a2-ef5f4790cc9d/1920x1080/video.m3u8
-#EXTINF:-1 group-title="Momo Sakura" tvg-logo="https://pics.dmm.co.jp/digital/video/ipzz00575/ipzz00575pl.jpg",IPZZ-575 เธฃเธฑเธเธเธตเนเธ•เนเธญเธเน€เธญเธฒ เน€เธเธทเนเธญเธเน€เธเนเธฒเน€เธฃเธฒเน€เธญเธ
+#EXTINF:-1 group-title="Momo Sakura" tvg-logo="https://pics.dmm.co.jp/digital/video/ipzz00575/ipzz00575pl.jpg",IPZZ-575
 https://ezycdn.com/playlist-a1ig28g-FHD.m3u8
-#EXTINF:-1 group-title="Momo Sakura" tvg-logo="https://pics.dmm.co.jp/digital/video/ipzz00546/ipzz00546pl.jpg",IPZZ-546 เน€เธขเนเธ”เธชเธ”เนเธ•เธเนเธเนเธกเนเธขเธฑเนเธ 24 เธเธฑเนเธงเนเธกเธ
+#EXTINF:-1 group-title="Momo Sakura" tvg-logo="https://pics.dmm.co.jp/digital/video/ipzz00546/ipzz00546pl.jpg",IPZZ-546
 https://ezycdn.com/playlist-q83dev0-FHD.m3u8
-#EXTINF:-1 group-title="Momo Sakura" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00900/ipx00900pl.jpg",IPX-900 เธซเนเธญเธเน€เธฃเธตเธขเธเธฅเธฑเธเธเธฃเธฐเธชเธฑเธ เธฃเธฑเธเธกเธฑเธเธชเนเธเธฃเธนเธเธฑเธเน€เธฃเธตเธขเธ
+#EXTINF:-1 group-title="Momo Sakura" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00900/ipx00900pl.jpg",IPX-900
 https://ezycdn.com/playlist-kjvvsio-FHD.m3u8
-#EXTINF:-1 group-title="Momo Sakura" tvg-logo="https://pics.dmm.co.jp/digital/video/ipzz00407/ipzz00407pl.jpg",IPZZ-407 เธคเธ”เธนเธฃเนเธญเธเธฃเธฑเธ เธเธฑเธ”เธซเธเธฑเธเธเธตเนเธชเธฒเธงเธ—เธฃเธเนเธ•
+#EXTINF:-1 group-title="Momo Sakura" tvg-logo="https://pics.dmm.co.jp/digital/video/ipzz00407/ipzz00407pl.jpg",IPZZ-407
 https://ezycdn.com/playlist-pqqv1a6f-FHD.m3u8
-#EXTINF:-1 group-title="Momo Sakura" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00469/ipx00469pl.jpg",IPX-469 เนเธเนเน€เธเนเธเธเธฒเธเธงเธฒเธ–เธถเธเธเนเธญเธเธเธฅเธญเธ”
+#EXTINF:-1 group-title="Momo Sakura" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00469/ipx00469pl.jpg",IPX-469
 https://ezycdn.com/playlist-rvp192h2-SD.m3u8
-#EXTINF:-1 group-title="Momo Sakura" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00529/ipx00529pl.jpg",IPX-529 เธขเธญเธกเนเธเธเธดเธเน€เธเนเธก เน€เธ•เธดเธกเน€เธ•เนเธกเธชเธดเนเธเธ—เธตเนเธเธฒเธ”
+#EXTINF:-1 group-title="Momo Sakura" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00529/ipx00529pl.jpg",IPX-529
 https://ezycdn.com/playlist-2v8cnus4-SD.m3u8
-#EXTINF:-1 group-title="Momo Sakura" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00028/ipx00028pl.jpg",IPX-028 เธชเธฑเธเธเธฒเธ•เธเธฒเธ“เน€เธเธดเธ” เธฃเธฐเน€เธเธดเธ”เธฃเธญเธขเธเธนเธ
+#EXTINF:-1 group-title="Momo Sakura" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00028/ipx00028pl.jpg",IPX-028
 https://ezycdn.com/playlist-nb6k8jf7-SD.m3u8
-#EXTINF:-1 group-title="Momo Sakura" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00674/ipx00674pl.jpg",IPX-674 เธ—เธฒเธชเธชเธฐเธเธ”เธเธดเธ•เน€เธเนเธเธชเนเนเธเธฃเน€เธเธเธ•เนเธ•เธธเนเธเธ•เธฒเธ”เธญเธฅ
+#EXTINF:-1 group-title="Momo Sakura" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00674/ipx00674pl.jpg",IPX-674
 https://ezycdn.com/playlist-r9vv8i9p-SD.m3u8
-#EXTINF:-1 group-title="Momo Sakura" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00485/ipx00485pl.jpg",IPX-485 เธเธถเธเธเธเธเธดเธ• เนเธขเธเธเธดเธ”เธเธตเนเน€เธ—เธฃเธเน€เธเธญเธฃเน
+#EXTINF:-1 group-title="Momo Sakura" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00485/ipx00485pl.jpg",IPX-485
 https://ezycdn.com/playlist-3032f4mr-SD.m3u8
-#EXTINF:-1 group-title="Momo Sakura" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00438/ipx00438pl.jpg",IPX-438 เธฃเธ–เนเธเธซเธกเธ” เธเนเธณเธซเธขเธ”เธ—เธตเนเธซเนเธญเธเธเธญเธช
+#EXTINF:-1 group-title="Momo Sakura" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00438/ipx00438pl.jpg",IPX-438
 https://ezycdn.com/playlist-jlmqihil-SD.m3u8
-#EXTINF:-1 group-title="Momo Sakura" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00428/ipx00428pl.jpg",IPX-428 เนเธเธเธฃเธฒเธเธดเธเธฒเธ• เน€เธเธดเธเธชเธงเธฒเธ—เธเธณเธงเธดเธ–เธต
+#EXTINF:-1 group-title="Momo Sakura" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00428/ipx00428pl.jpg",IPX-428
 https://ezycdn.com/playlist-49vdiba3-SD.m3u8
-#EXTINF:-1 group-title="Momo Sakura" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00201/ipx00201pl.jpg",IPX-201 เธซเธญเธขเธซเธกเธฑเนเธเน€เธเธตเธขเธฃ เธเธญเน€เธงเธตเธขเธเธเธนเนเธเนเธญเธก
+#EXTINF:-1 group-title="Momo Sakura" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00201/ipx00201pl.jpg",IPX-201
 https://ezycdn.com/playlist-pd0fmvvh-SD.m3u8
-#EXTINF:-1 group-title="Momo Sakura" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00292/ipx00292pl.jpg",IPX-292 เธเธฑเธเน€เธเธฅเนเธฒเธฃเนเธฒเธ เนเธเนเธ–เนเธฒเธเนเธเน€เธเนเธฒ
+#EXTINF:-1 group-title="Momo Sakura" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00292/ipx00292pl.jpg",IPX-292
 https://ezycdn.com/playlist-c6c19i96-SD.m3u8
-#EXTINF:-1 group-title="Momo Sakura" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00353/ipx00353pl.jpg",IPX-353 เนเธญเธเธเธฑเธเธชเนเธเธเธดเธเธซเธญเธขเธเธฃเธฐเธ”เธดเธเธ—เธตเน€เธเธฅเธญ
+#EXTINF:-1 group-title="Momo Sakura" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00353/ipx00353pl.jpg",IPX-353
 https://ezycdn.com/playlist-gv7bffv3-SD.m3u8
-#EXTINF:-1 group-title="Momo Sakura" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00321/ipx00321pl.jpg",IPX-321 เน€เธฅเธตเนเธขเธเธฃเธธเนเธเธเธฃเธฐเธ•เธธเนเธเธฃเธฒเธเธฐ
+#EXTINF:-1 group-title="Momo Sakura" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00321/ipx00321pl.jpg",IPX-321
 https://ezycdn.com/playlist-bguulmvf-SD.m3u8
-#EXTINF:-1 group-title="Momo Sakura" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00149/ipx00149pl.jpg",IPX-149 เธเธธเธเธเธฒเธฃเธฒเธเธฐ
+#EXTINF:-1 group-title="Momo Sakura" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00149/ipx00149pl.jpg",IPX-149
 https://ezycdn.com/playlist-1f0o2l1r-SD.m3u8
-#EXTINF:-1 group-title="Momo Sakura" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00061/ipx00061pl.jpg",IPX-061 เน€เธฃเธทเนเธญเธเธเธฒเธงเน เธชเธฒเธงเธกเธญเน€เธ•เธญเธฃเนเนเธเธงเน
+#EXTINF:-1 group-title="Momo Sakura" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00061/ipx00061pl.jpg",IPX-061
 https://ezycdn.com/playlist-ca6stta9-SD.m3u8
-#EXTINF:-1 group-title="Momo Sakura" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00690/ipx00690pl.jpg",IPX-690 เธเธตเนเนเธเธเนเธญเธ”เธญเธฅ
+#EXTINF:-1 group-title="Momo Sakura" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00690/ipx00690pl.jpg",IPX-690
 https://ezycdn.com/playlist-fvq0h0o0-SD.m3u8
-#EXTINF:-1 group-title="Momo Sakura" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00028/ipx00028pl.jpg",IPX-028 เธชเนเธเธเธดเธเนเธซเนเธฃเธนเนเน€เธเนเธเธเธนเนเธเนเธฒเธกเธ•เธถเธเธชเธฑเธเธเธฒเธ•เธเธฒเธ“เน€เธเธดเธ”เธฃเธฐเน€เธเธดเธ”เธฃเธญเธขเธเธนเธ
+#EXTINF:-1 group-title="Momo Sakura" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00028/ipx00028pl.jpg",IPX-028
 https://ezycdn.com/playlist-nb6k8jf7-SD.m3u8
 #EXTINF:-1 group-title="Momo Sakura" tvg-logo="https://fourhoi.com/ipzz-673/cover-n.jpg",ipzz-673
 https://surrit.com/8d080d3f-7a6b-4eb8-8a99-91e768786133/1080p/video.m3u8
@@ -10235,69 +10262,75 @@ https://surrit.com/fbc563e9-a191-49d0-aa8f-1ddaaad7f9a1/1080p/video.m3u8
 https://surrit.com/d008aa6f-38be-496e-b74e-a0fc2e3bf2eb/1080p/video.m3u8
 #EXTINF:-1 group-title="Momo Sakura" tvg-logo="https://fourhoi.com/ipvr-277/cover-n.jpg",ipvr-277
 https://surrit.com/11224e93-8522-47ab-960b-fbbe071c1d46/1080p/video.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/adn00187/adn00187pl.jpg",ADN-187 เน€เธเธทเนเธญเธเธเนเธฒเธเน€เธเธตเนเธขเธงเน€เธเธฅเธดเธเธฃเนเธญเธเน€เธเธดเธเธเธณเธเธฒ
-https://cdn.cdndlap.com/backup/src/hls/Adn-187_155372_11-38-27am_2022-06-12_hls.m3u8/Adn-187_155372_11-38-27am_2022-06-12_hls.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/adn00140/adn00140pl.jpg",ADN-140 เธฃเธชเธชเธงเธฒเธ—เธเนเธฒเธเนเธญเธฃเนเธเธญเธเธ•เธณเธเธฒเธ
-https://cdn.cdndlap.com/backup/src/hls/ADN-140_199242_11-13-58am_2022-04-14_hls.m3u8/ADN-140_199242_11-13-58am_2022-04-14_hls.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/bf00567/bf00567pl.jpg",BF-567 เธเธตเนเน€เธซเธเธฒเนเธ•เนเน€เธฃเนเธฒเนเธ
+
+
+
+
+
+
+#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/adn00140/adn00140pl.jpg",ADN-140
+https://surrit.com/96a556a3-b90a-4d9c-ba12-16a1225c1a7b/720p/video.m3u8
+#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeu-cJbbiiKADI9YE8bOZLtqVq_oh6tW4Yfi88_6ZDKUAiSPcKlLX_EDou&s=10",ADN-187
+https://surrit.com/f4dc78ea-222e-4995-bbb9-ae60989672c2/1280x720/video.m3u8
+#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/bf00567/bf00567pl.jpg",BF-567
 https://ezycdn.com/playlist-ra979l47-SD.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/rbd00867/rbd00867pl.jpg",RBD-867 เนเธเธฅเนเธเน€เธกเธฅเน เธญเธฒเธเธฒเธฃเธขเนเธชเธฒเธง
+#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/rbd00867/rbd00867pl.jpg",RBD-867
 https://ezycdn.com/playlist-uqnqvn3s-SD.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/rbd00826/rbd00826pl.jpg",RBD-826 เธเธฃเธนเธชเธฒเธงเธเธฑเธเนเธฃเธเธเธถเธเน€เธเธเนเธ”เน
+#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/rbd00826/rbd00826pl.jpg",RBD-826
 https://ezycdn.com/playlist-e26spve4-SD.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/rbd00805/rbd00805pl.jpg",RBD-805 เธเธฃเธฃเธฉเธฑเธ—เธญเธชเธนเธฃ
+#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/rbd00805/rbd00805pl.jpg",RBD-805
 https://ezycdn.com/playlist-gt2jtglp-SD.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/rbd00776/rbd00776pl.jpg",RBD-776 เธเธถเธเธงเนเธฒเนเธเนเธ—เธตเนเนเธ—เนเธเธฒเธ”เธดเธชเธกเน
+#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/rbd00776/rbd00776pl.jpg",RBD-776
 https://ezycdn.com/playlist-m6vs565a-SD.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/rbd00772/rbd00772pl.jpg",RBD-772 เธ•เธญเธเนเธ—เธเธเธญเธชเน€เธเนเธฒเธเธญเธฃเนเธชเธเธดเธเธ•เธฑเธ
+#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/rbd00772/rbd00772pl.jpg",RBD-772
 https://ezycdn.com/playlist-tj8n0s7o-FHD.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/sspd00157/sspd00157pl.jpg",SSPD-157 เธจเธตเธฅเธเธฃเธฃเธกเธฅเธ”เธฎเธงเธ เธเธถเนเธเธเธงเธเนเธกเนเธกเธตเธเธฑเธ
+#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/sspd00157/sspd00157pl.jpg",SSPD-157
 https://ezycdn.com/playlist-bpq40bsh-SD.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/sspd00155/sspd00155pl.jpg",SSPD-155 เธงเธดเธเธดเธเธเธฑเธขเธเธฅเธฒเธ”เธเธดเธเธฒเธ•เธฃเธนเธซเธกเธญ
+#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/sspd00155/sspd00155pl.jpg",SSPD-155
 https://ezycdn.com/playlist-pvid3ppf-SD.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/sspd00152/sspd00152pl.jpg",SSPD-152 เธชเธนเธเธชเธดเนเธเธจเธตเธฅเธเธฃเธฃเธก เน€เธเธญเธซเธฃเธฃเธกเธ•เธตเธเธงเธ
+#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/sspd00152/sspd00152pl.jpg",SSPD-152
 https://ezycdn.com/playlist-tkuv3l2g-SD.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/sspd00150/sspd00150pl.jpg",SSPD-150 เนเธเนเธเธงเธฒเธกเน€เธเนเธเธเธฒเธขเธเธธเธ“
+#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/sspd00150/sspd00150pl.jpg",SSPD-150
 https://ezycdn.com/playlist-pphspiu6-SD.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/sspd00149/sspd00149pl.jpg",SSPD-149 เธเนเนเธเนเนเธญเธเธฎเธฑเธ เธชเธฑเธเธเธฑเธเน€เธฎเนเธ”
+#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/sspd00149/sspd00149pl.jpg",SSPD-149
 https://ezycdn.com/playlist-ok4jpad9-SD.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/sspd00142/sspd00142pl.jpg",SSPD-142 เธชเธขเธดเธงเน€เธเธดเธเธเธฒเธ”เธเธฒเธเธ—เธฒเธชเนเธฃเธเธซเธกเธญ
+#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/sspd00142/sspd00142pl.jpg",SSPD-142
 https://ezycdn.com/playlist-4i5gt4q0-SD.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/sspd00137/sspd00137pl.jpg",SSPD-137 เธเธนเนเธฃเธฑเธเนเธฃเธเธชเธงเธฒเธ—
+#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/sspd00137/sspd00137pl.jpg",SSPD-137
 https://ezycdn.com/playlist-gk4anpuq-SD.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/atid00327/atid00327pl.jpg",ATID-327 เน€เธฅเนเธซเนเธชเธธเธ”เนเธเธฃเนเธฅเนเธเธเธณเธกเธฐเธฅเธญ
+#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/atid00327/atid00327pl.jpg",ATID-327
 https://ezycdn.com/playlist-1ir90r7f-SD.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/shkd00737/shkd00737pl.jpg",SHKD-737 เนเธเธฃเธซเธฅเธเธซเธเธตเธกเธฒเธเธฑเธเธ—เธตเนเธซเธกเธตเน€เธเธญ
+#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/shkd00737/shkd00737pl.jpg",SHKD-737
 https://ezycdn.com/playlist-a932k8rm-SD.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/meyd00286/meyd00286pl.jpg",MEYD-286 เนเธกเนเน€เธฅเธตเนเธขเธเธ•เนเธญเธเธชเธฒเธเธซเธญเธขเธเธฒเธเน€เธเธดเธเน€เธเธ•เธฃ
+#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/meyd00286/meyd00286pl.jpg",MEYD-286
 https://ezycdn.com/playlist-gt2jtglp-SD.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/meyd00280/meyd00280pl.jpg",MEYD-280 เธญเนเธฒเธเธเธฃเธฐเธเธฒเธขเธเธธเธ“เธเธฒเธขเธขเธญเธ”เนเธชเธ
+#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/meyd00280/meyd00280pl.jpg",MEYD-280
 https://ezycdn.com/playlist-qtgpmttr-SD.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/adn00219/adn00219pl.jpg",ADN-219 เธเธนเนเธเธฑเธเธ–เนเธฒเธเธซเนเธฒเธเนเธเนเธเธณเนเธเธเธเธฑเนเธ
+#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/adn00219/adn00219pl.jpg",ADN-219
 https://ezycdn.com/playlist-dvcfsopf-SD.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/adn00216/adn00216pl.jpg",ADN-216 เธเธธเธ“เธเธฃเธนเธชเธฒเธงเธฃเธธเธเน€เธเธตเธขเธเน€เธชเธตเธขเธเธเธฃเธดเธ
+#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/adn00216/adn00216pl.jpg",ADN-216
 https://ezycdn.com/playlist-vlg1jq61-SD.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/adn00211/adn00211pl.jpg",ADN-211 เธกเธฐเน€เธฃเนเธเธซเธฒเธขเธชเธฒเธขเธซเธทเนเธ
+#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/adn00211/adn00211pl.jpg",ADN-211
 https://ezycdn.com/playlist-022shj0v-SD.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/adn00203/adn00203pl.jpg",ADN-203 เธกเธฒเธเธดเนเธกเน เนเธญเธเธเธดเนเธกเธเธนเนเธเธฑเธ”เธเธฒเธฃเธชเธฒเธง
+#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/adn00203/adn00203pl.jpg",ADN-203
 https://ezycdn.com/playlist-956g3s1e-SD.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/adn00179/adn00179pl.jpg",ADN-179 เธเธงเธฒเธกเน€เธซเธเธฒเธ—เธตเนเธเธฑเธ”เธเธดเธเนเธ
+#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/adn00179/adn00179pl.jpg",ADN-179
 https://ezycdn.com/playlist-956g3s1e-SD.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/adn00165/adn00165pl.jpg",ADN-165 เน€เธฃเธทเนเธญเธเธฅเธฑเธเธเธญเธเนเธกเนเน€เธฅเธตเนเธขเธเธชเธฒเธงเธชเธธเธ”เน€เธเนเธเธเธตเน
+#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/adn00165/adn00165pl.jpg",ADN-165
 https://ezycdn.com/playlist-sin5jkhs-SD.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/adn00162/adn00162pl.jpg",ADN-162 เธเธดเธจเธงเธฒเธชเธเนเธฒเน€เธเนเธฒเธเนเธฒเธ
+#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/adn00162/adn00162pl.jpg",ADN-162
 https://ezycdn.com/playlist-8nvh5qhg-SD.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/adn00151/adn00151pl.jpg",ADN-151 เธซเนเธญเธเน€เธเนเธฒ เน€เธซเธเธฒเธฃเธฑเธ
+#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/adn00151/adn00151pl.jpg",ADN-151
 https://ezycdn.com/playlist-8nvh5qhg-SD.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/adn00148/adn00148pl.jpg",ADN-148 เธฅเธดเธเธชเธ•เธดเธ เธเธดเนเธเธฃเธฑเธเน€เธเธดเธเธซเธเนเธฒเธ—เธตเน
+#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/adn00148/adn00148pl.jpg",ADN-148
 https://ezycdn.com/playlist-9pf8oauf-SD.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/adn00115/adn00115pl.jpg",ADN-115 เธซเธเธธเนเธกเธเนเธญเธขเธเนเธฒเธเธเนเธฒเธ เธเธฑเธเธเธธเธ“เธเธฒเธขเธ—เธตเนเธซเธฒเธขเนเธ
+#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/adn00115/adn00115pl.jpg",ADN-115
 https://ezycdn.com/playlist-4m8pur4m-SD.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/adn00110/adn00110pl.jpg",ADN-110 เน€เธเธฅเธญเนเธเนเธซเนเธซเธกเธญเธเธงเธ”
+#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/adn00110/adn00110pl.jpg",ADN-110
 https://ezycdn.com/playlist-d2ml2ed3-SD.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/adn00106/adn00106pl.jpg",ADN-106 เน€เธเธทเนเธญเธเธธเธ“ เธเธฑเธเธขเธญเธก
+#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/adn00106/adn00106pl.jpg",ADN-106
 https://ezycdn.com/playlist-ke8lov2n-SD.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/adn00100/adn00100pl.jpg",ADN-100 เธเธ”เธเธฐเธกเธดเธ”เธญเธดเธ—เธเธดเธคเธ—เธเธดเนเน€เธเธฅเธชเนเนเธกเธ
+#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/adn00100/adn00100pl.jpg",ADN-100
 https://ezycdn.com/playlist-oqc0ltd9-SD.m3u8
 #EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/atkd00378/atkd00378pl.jpg",atkd-378
 https://surrit.com/63216da3-c8f1-40c1-92e8-ff04886790d5/720p/video.m3u8
@@ -10434,68 +10467,32 @@ https://surrit.com/6da42d4c-743b-425d-9df4-a8922bc8612d/1280x720/video.m3u8
 #EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/1sdsi00004/1sdsi00004pl.jpg",sdsi-004
 https://surrit.com/3b82fdcd-b710-4b1d-a9b6-1466d528a539/1080p/video.m3u8
 #EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/h_346rebd00450/h_346rebd00450pl.jpg",rebd-450
-https://s105.18av.mov/119920/index.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/h_346rebd00450/h_346rebd00450pl.jpg",rebd-450
 https://surrit.com/7cafbc3f-5f6f-4432-8bb2-8fdbc121d67f/640x360/video.m3u8
 #EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/h_346rebd00422/h_346rebd00422pl.jpg",rebd-422
 https://surrit.com/6e18c427-cb3d-40a1-aa10-f215fa39d6e6/1280x720/video.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/bf00567/bf00567pl.jpg",bf-567
-https://qabo-ahha.mushroomtrack.com/hls/8uT4RouxAjowqopxDH1bZA/1771020711/0/250/250.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/bf00557/bf00557pl.jpg",bf-557
-https://ap-drop-monst.mushroomtrack.com/bcdn_token=o4MRJ4wCeQokwnnTa-fG4r_VwkSAAEigd9FnO4yVKCI&expires=1771017671&token_path=%2Fvod%2F/vod/15000/15941/15941.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/bf00549/bf00549pl.jpg",bf-549
-https://qabo-ahha.mushroomtrack.com/hls/ux1dJ_D34EzHS-_CscN7yw/1771020930/1000/1407/1407.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/sspd00157/sspd00157pl.jpg",sspd-157
-https://ao-block-ater.mushroomtrack.com/bcdn_token=lieNwOWqNVW5szUceITFfodoU8aQ5D-4h-uGunRlrmU&expires=1771016869&token_path=%2Fvod%2F/vod/6000/6927/6927.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/sspd00155/sspd00155pl.jpg",sspd-155
-https://ao-block-ater.mushroomtrack.com/bcdn_token=I_15aEu-2IrK0ZVu9bvTlwF7exVUDYUBspGEBynCjOo&expires=1771017597&token_path=%2Fvod%2F/vod/5000/5673/5673.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/sspd00152/sspd00152pl.jpg",sspd-152
-https://dot-lobo.mushroomtrack.com/hls/ulTeUmI1l0j2f8_97ASETg/1771020969/4000/4823/4823.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/sspd00150/sspd00150pl.jpg",sspd-150
-https://dot-lobo.mushroomtrack.com/hls/gF8ny1ryijbDUjiqVXdetA/1771020392/4000/4337/4337.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/sspd00149/sspd00149pl.jpg",sspd-149
-https://catc-less.mushroomtrack.com/hls/SGzmTny15criT-8m_toqbQ/1771021135/3000/3704/3704.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/sspd00144/sspd00144pl.jpg",sspd-144
-https://qabo-ahha.mushroomtrack.com/hls/1mmFSeuDdUkesCflkGL2Gg/1771021056/1000/1112/1112.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00493/ipx00493pl.jpg",ipx-493
-https://ao-block-ater.mushroomtrack.com/bcdn_token=8ep4M8cpPSI--RsdLXdXyCvZQlp6aag-ONpb98PYUTM&expires=1771016901&token_path=%2Fvod%2F/vod/8000/8446/8446.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00461/ipx00461pl.jpg",ipx-461
-https://ao-block-ater.mushroomtrack.com/bcdn_token=CHlY4DUH__e7qFc0ImbFvqwgsw603xfwEod0Ha93gks&expires=1771016993&token_path=%2Fvod%2F/vod/6000/6286/6286.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00287/ipx00287pl.jpg",ipx-287
-https://qabo-ahha.mushroomtrack.com/hls/Wqiga-ET1vrUsc5Tlnrq3Q/1771021049/0/543/543.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/atid00401/atid00401pl.jpg",atid-401
-https://ao-block-ater.mushroomtrack.com/bcdn_token=dAMpwd1Qx4uKF6CaX2WBtTSrdSA9J3bKz6conSYlucQ&expires=1771017349&token_path=%2Fvod%2F/vod/6000/6657/6657.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/rbd00867/rbd00867pl.jpg",rbd-867
-https://qabo-ahha.mushroomtrack.com/hls/Zi7hperNPmAPNBzgU4SaEA/1771021008/0/327/327.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/adn00216/adn00216pl.jpg",adn-216
-https://qabo-ahha.mushroomtrack.com/hls/ruu7invZvsXmyQvcDVRGOg/1771020332/1000/1334/1334.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/adn00203/adn00203pl.jpg",adn-203
-https://qabo-ahha.mushroomtrack.com/hls/-I8KWKaUZpBYPewe66T7Lg/1771020589/0/229/229.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/adn00162/adn00162pl.jpg",adn-162
-https://qabo-ahha.mushroomtrack.com/hls/S5crnuzITytnQ4foTUfZdA/1771020605/0/917/917.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/adn00157/adn00157pl.jpg",adn-157
-https://qabo-ahha.mushroomtrack.com/hls/W51we5N1PNTemNLrTT_mHg/1771020237/1000/1612/1612.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/adn00140/adn00140pl.jpg",adn-140
-https://qabo-ahha.mushroomtrack.com/hls/-J5xWiXiX_MmQzrvMoWTPA/1771020893/0/507/507.m3u8
-#EXTINF:-1 group-title="Saeko Matsushita" tvg-logo="https://pics.dmm.co.jp/digital/video/adn00106/adn00106pl.jpg",adn-106
-https://ao-block-ater.mushroomtrack.com/bcdn_token=CBfdT2tCKVIhW93PyxV69mOSmoEJnCDxJp3-0FWe6Nw&expires=1771017238&token_path=%2Fvod%2F/vod/9000/9884/9884.m3u8
-#EXTINF:-1 group-title="Melody Marks" tvg-logo="https://pics.dmm.co.jp/digital/video/fjin00093/fjin00093pl.jpg",FJIN-093 เธ เธฒเธฃเธเธดเธเธเธฅเธธเธเน€เธชเธทเธญเธเนเธฒ เธฅเนเธฒเธ•เธตเนเธเธตเนเธญเธฒเธขเนเธซเนเนเธ•เธเธขเธฑเธเนเธเนเธ•เน€เธเธตเธขเธง
+
+
+
+
+
+
+#EXTINF:-1 group-title="Melody Marks" tvg-logo="https://pics.dmm.co.jp/digital/video/fjin00093/fjin00093pl.jpg",FJIN-093
 https://ezycdn.com/playlist-jfkuh2g-FHD.m3u8
-#EXTINF:-1 group-title="Melody Marks" tvg-logo="https://www.i-pic.info/i/8Cre1143378.jpg",เน€เธซเธฅเธตเนเธขเธกเธ—เธธเธเธ”เธญเธ เนเธฅเนเธงเธเธญเธเธงเนเธฒเธเนเธงเธขเธซเธเธน
+#EXTINF:-1 group-title="Melody Marks" tvg-logo="https://www.i-pic.info/i/8Cre1143378.jpg",Melody Marks
 https://ezycdn.com/playlist-9lgp7a16-SD.m3u8
-#EXTINF:-1 group-title="Melody Marks" tvg-logo="https://www.i-pic.info/i/8Cre1143378.jpg",Watch A Predator เน€เธซเธฅเธตเนเธขเธกเธ—เธธเธเธ”เธญเธเนเธฅเนเธงเธเธญเธเธเนเธงเธขเธซเธเธน
+#EXTINF:-1 group-title="Melody Marks" tvg-logo="https://www.i-pic.info/i/8Cre1143378.jpg",Watch A Predator
 https://ezycdn.com/playlist-377s110e-SD.m3u8
-#EXTINF:-1 group-title="Melody Marks" tvg-logo="https://www.i-pic.info/i/r3KV1143379.jpg",Debut Fucked In Debut เนเธเธเธเธฑเนเธงเธเธฑเธงเน€เธเธดเธ”เธ•เธฑเธงเน€เธฅเนเธเนเธซเธเน
+#EXTINF:-1 group-title="Melody Marks" tvg-logo="https://www.i-pic.info/i/r3KV1143379.jpg",Debut Fucked In Debut
 https://ezycdn.com/playlist-86lmholv-SD.m3u8
-#EXTINF:-1 group-title="Melody Marks" tvg-logo="https://www.i-pic.info/i/r3KV1143379.jpg",เธเธฒเธฃเน€เธฅเนเธเธซเธเธฑเธเธเธนเนเนเธซเธเนเธเธฃเธฑเนเธเนเธฃเธ
+#EXTINF:-1 group-title="Melody Marks" tvg-logo="https://www.i-pic.info/i/r3KV1143379.jpg",Melody Marks
 https://ezycdn.com/playlist-ak5dh4r1-FHD.m3u8
-#EXTINF:-1 group-title="Melody Marks" tvg-logo="https://www.i-pic.info/i/bszx1143382.jpg",Bang Road Side เธขเธฒเธเธฃเธ–เนเธซเธเธเธญเนเธ•เธเธเนเธฒเธเธ—เธฒเธ
+#EXTINF:-1 group-title="Melody Marks" tvg-logo="https://www.i-pic.info/i/bszx1143382.jpg",Bang Road Side
 https://ezycdn.com/playlist-igrg6nl3-SD.m3u8
-#EXTINF:-1 group-title="Melody Marks" tvg-logo="https://www.i-pic.info/i/Xkul1143383.jpg",FAMILYSTROKES เธเธทเธเธเธตเนเธเนเธญเธเธเธตเนเธเธฐเนเธ”เนเธเธตเนเธญเธญเธเธเธฒเธ
+#EXTINF:-1 group-title="Melody Marks" tvg-logo="https://www.i-pic.info/i/Xkul1143383.jpg",FAMILYSTROKES
 https://ezycdn.com/playlist-ugn296hr-SD.m3u8
 #EXTINF:-1 group-title="Melody Marks" tvg-logo="https://www.i-pic.info/i/GbKQ1160978.jpg",Melody Marks Naughty Gets Covered In Stepdad S Cum
 https://ezycdn.com/playlist-8ket6oo3-SD.m3u8
-#EXTINF:-1 group-title="Melody Marks" tvg-logo="https://pics.dmm.co.jp/digital/video/ymdd00177/ymdd00177pl.jpg",YMDD-177 เน€เธญเธงเธ”เธตเธเธฐเน€เธญเธญ เธเธฒเธเธเธณเน€เธฃเธญเธซเธฑเธงเธ—เธญเธ
+#EXTINF:-1 group-title="Melody Marks" tvg-logo="https://pics.dmm.co.jp/digital/video/ymdd00177/ymdd00177pl.jpg",YMDD-177
 https://ezycdn.com/playlist-mr0quqpc-SD.m3u8
 #EXTINF:-1 group-title="Melody Marks" tvg-logo="https://fourhoi.com/sora-620/cover-n.jpg",sora-620
 https://surrit.com/ec7e1483-aede-4ecc-9979-6c5e1647e521/1080p/video.m3u8
@@ -10659,7 +10656,7 @@ https://ezycdn.com/playlist-o09hb7od-SD.m3u8
 https://ezycdn.com/playlist-9s3qpdpk-FHD.m3u8
 #EXTINF:-1 group-title="Melody Marks" tvg-logo="https://xn--l3cg7a8a0cwa3f.net/wp-content/uploads/2024/08/MAX-4416-2.jpg",LETSDOEIT
 https://ezycdn.com/playlist-4m05heee-SD.m3u8
-#EXTINF:-1 group-title="Melody Marks" tvg-logo="https://xn--l3cg7a8a0cwa3f.net/wp-content/uploads/2025/03/MAX-5452.jpg",เน€เธเธเธชเนเน€เธ—เธฃเธเน€เธเธญเธฃเนเธชเธฒเธงเธญเน€เธกเธฃเธดเธเธฒ เธกเธฒเธเธถเธเธเธเน€เธฃเธทเนเธญเธเน€เธชเธตเธขเธง
+#EXTINF:-1 group-title="Melody Marks" tvg-logo="https://xn--l3cg7a8a0cwa3f.net/wp-content/uploads/2025/03/MAX-5452.jpg",Melody Marks 
 https://ezycdn.com/playlist-vnpri7c5-SD.m3u8
 #EXTINF:-1 group-title="Melody Marks" tvg-logo="https://xn--l3cg7a8a0cwa3f.net/wp-content/uploads/2024/09/MAX-4522.jpg",TeenFidelity
 https://ezycdn.com/playlist-s3as4pqs-SD.m3u8
@@ -10669,23 +10666,23 @@ https://ezycdn.com/playlist-pj5hqbtc-SD.m3u8
 https://ezycdn.com/playlist-km6572e3-SD.m3u8
 #EXTINF:-1 group-title="Melody Marks" tvg-logo="https://xn--l3cg7a8a0cwa3f.net/wp-content/uploads/2024/01/MAX-3102.jpg",BrattySis
 https://ezycdn.com/playlist-9otb33pm-FHD.m3u8
-#EXTINF:-1 group-title="Rei Kamiki" tvg-logo="https://pics.dmm.co.jp/digital/video/1start00364/1start00364pl.jpg",START-364 เธเธ—เธฅเธเธ—เธฑเธ“เธ‘เน เน€เธซเธเธทเธญเธชเธเธฒเธกเธงเธญเธฅเน€เธฅเธขเน
+#EXTINF:-1 group-title="Rei Kamiki" tvg-logo="https://pics.dmm.co.jp/digital/video/1start00364/1start00364pl.jpg",START-364
 https://ezycdn.com/playlist-esrg7i0-FHD.m3u8
-#EXTINF:-1 group-title="Rei Kamiki" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1start169/1start169pl.jpg",START-169 เธฅเธดเนเธกเธฃเธชเธซเธทเนเธเธเธฒเธก เน€เธชเธตเธขเธงเธเนเธฒเธเนเธเธชเธเธฒ
+#EXTINF:-1 group-title="Rei Kamiki" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1start169/1start169pl.jpg",START-169
 https://ezycdn.com/playlist-h4pm698-FHD.m3u8
-#EXTINF:-1 group-title="Rei Kamiki" tvg-logo="https://fourhoi.com/start-326/cover-n.jpg",START-326 เน€เธเธฅเธญเนเธเธ•เธญเธเน€เธกเธฒ เน€เธฃเธฒเน€เธฅเธขเนเธ”เนเธเธฑเธ
+#EXTINF:-1 group-title="Rei Kamiki" tvg-logo="https://fourhoi.com/start-326/cover-n.jpg",START-326
 https://ezycdn.com/playlist-p6sn6ag-FHD.m3u8
-#EXTINF:-1 group-title="Rei Kamiki" tvg-logo="https://fourhoi.com/start-272/cover-n.jpg",START-272 เนเธญเธญเธธเนเธเธชเธฒเธงเนเธซเธเน เธฅเธฐเธฅเธฒเธขเนเธเนเธเนเธซเธเธธเนเธกเธเธฐเธเธญเธ
+#EXTINF:-1 group-title="Rei Kamiki" tvg-logo="https://fourhoi.com/start-272/cover-n.jpg",START-272
 https://ezycdn.com/playlist-m2ifkjg-FHD.m3u8
-#EXTINF:-1 group-title="Rei Kamiki" tvg-logo="https://fourhoi.com/start-094/cover-n.jpg",START-094 เธเธตเนเน€เธกเธตเธขเนเธเธงเนเธเธก เธฃเธฐเธ—เธกเธเธงเธขเธฅเธธเธ
+#EXTINF:-1 group-title="Rei Kamiki" tvg-logo="https://fourhoi.com/start-094/cover-n.jpg",START-094
 https://ezycdn.com/playlist-bg30lkuf-FHD.m3u8
-#EXTINF:-1 group-title="Rei Kamiki" tvg-logo="https://fourhoi.com/start-006/cover-n.jpg",START-006 เธเธญเธ”เธตเนเธฅเนเธเธกเธทเธญ เน€เธฅเธทเนเธญเธเธฅเธทเธญเธ—เธฑเนเธเนเธฃเธเน€เธฃเธตเธขเธ
+#EXTINF:-1 group-title="Rei Kamiki" tvg-logo="https://fourhoi.com/start-006/cover-n.jpg",START-006
 https://ezycdn.com/playlist-jjm4g1if-FHD.m3u8
-#EXTINF:-1 group-title="Rei Kamiki" tvg-logo="https://fourhoi.com/stars-947/cover-n.jpg",STARS-947 เธ—เธตเนเธเธฑเธเธงเธดเธงเธ”เธต เนเธขเธเธเธฃเธตเน€เธกเธตเธขเน€เธเนเธฒเธเธญเธ
+#EXTINF:-1 group-title="Rei Kamiki" tvg-logo="https://fourhoi.com/stars-947/cover-n.jpg",STARS-947
 https://ezycdn.com/playlist-k6qrsebr-FHD.m3u8
-#EXTINF:-1 group-title="Rei Kamiki" tvg-logo="https://fourhoi.com/stars-894/cover-n.jpg",STARS-894 เธเธเธฑเธเธเธฒเธเธ”เธตเน€เธ”เนเธ เธเธญเธเน€เธฅเนเธเนเธ•เธเนเธ
+#EXTINF:-1 group-title="Rei Kamiki" tvg-logo="https://fourhoi.com/stars-894/cover-n.jpg",STARS-894
 https://ezycdn.com/playlist-brqtfpv1-FHD.m3u8
-#EXTINF:-1 group-title="Rei Kamiki" tvg-logo="https://fourhoi.com/stars-852/cover-n.jpg",STARS-852 เนเธ”เนเธเธฅเธฑเธเธ—เธฑเธเธ—เธต เธ–เนเธฒเธเธตเนเธเนเธณเนเธ•เธเนเธกเนเธ—เธฑเธเน€เธงเธฅเธฒ
+#EXTINF:-1 group-title="Rei Kamiki" tvg-logo="https://fourhoi.com/stars-852/cover-n.jpg",STARS-852
 https://ezycdn.com/playlist-qf418sh9-FHD.m3u8
 #EXTINF:-1 group-title="Rei Kamiki" tvg-logo="https://fourhoi.com/start-405/cover-n.jpg",start-405
 https://surrit.com/aa2fdbbf-b1d5-4ef8-b561-d4b9499b603f/1080p/video.m3u8
@@ -10816,69 +10813,69 @@ https://surrit.com/875c8e56-9ada-4b47-a932-78999b0a9d21/1280x720/video.m3u8
 
 
 
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abf/255/pb_e_abf-255.jpg",ABF-255 เน€เธชเธเนเธซเนเธชเธฒเธงเธญเธญเธเธเธดเธจ เธเธดเธจเธงเธฒเธชเธเธฑเธงเธเธฒเธงเธเนเธฒเธ
+#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abf/255/pb_e_abf-255.jpg",ABF-255
 https://ezycdn.com/playlist-9nunhc0-FHD.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abf/159/pb_e_abf-159.jpg",ABF-159 เนเธญเธ•เธฒเธเธธเธเธตเนเธญเธฒเธข เธ–เธงเธฒเธขเธ—เธฑเนเธเธเธฒเธขเนเธ
+#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abf/159/pb_e_abf-159.jpg",ABF-159
 https://ezycdn.com/playlist-rb9gqo0-FHD.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abf/246/pb_e_abf-246.jpg",ABF-246 เธเธฒเธเธเนเธฒเธชเธญเธเธซเธเนเธฒ เธเธนเนเธซเธดเธงเธเธฃเธฐเธซเธฒเธขเน€เธเนเธเธชเน
+#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abf/246/pb_e_abf-246.jpg",ABF-246
 https://ezycdn.com/playlist-4n8lnlo-FHD.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abf/217/pb_e_abf-217.jpg",ABF-217 เธชเธญเธเธ”เธตเนเธกเนเธญเธงเธข เธเธงเธ”เธเธฃเธฐเธเธงเธขเธเธตเธเนเธ—เธฃเธเน€เธเธญเธฃเน
+#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abf/217/pb_e_abf-217.jpg",ABF-217
 https://ezycdn.com/playlist-368pelg-FHD.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abf/149/pb_e_abf-149.jpg",ABF-149 เน€เธเธฅเธงเนเธเธเธดเธจเธงเธฒเธชเธเธฑเธเธเธตเธฌเธฒ 3 เธเธ—เธฃเธฑเธเน€เธฃเนเธฒเธฃเนเธญเธ
+#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abf/149/pb_e_abf-149.jpg",ABF-149
 https://ezycdn.com/playlist-glq7jco-FHD.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abw/276/pb_e_abw-276.jpg",ABW-276 เธเธฑเธเธจเธถเธเธฉเธฒเธเธฅเธฑเนเธเน€เธเนเธเธชเน เนเธ•เธเนเธเนเธกเนเธขเธฑเนเธ 4 เธเธฃเธฑเนเธเธ•เธดเธ”
+#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abw/276/pb_e_abw-276.jpg",ABW-276
 https://ezycdn.com/playlist-ucou8a0-FHD.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://pics.dmm.co.jp/digital/video/118abw00015/118abw00015pl.jpg",ABW-015 เธเธดเธจเธงเธฒเธชเธเนเธญเธเน€เธฃเนเธ เธเธฃเธฐเธ•เธธเนเธเน€เธญเนเธเธฅเธธเธเธเธนเธเธฑเธ
+#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://pics.dmm.co.jp/digital/video/118abw00015/118abw00015pl.jpg",ABW-015
 https://ezycdn.com/playlist-ue7egao-FHD.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abw/179/pb_e_abw-179.jpg",ABW-179 เธฃเธฑเธเนเธ”เนเธ—เธธเธเธเธเธฒเธ” เธชเธงเธขเธชเธฐเธญเธฒเธ”เธเนเธญเธ
+#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abw/179/pb_e_abw-179.jpg",ABW-179
 https://ezycdn.com/playlist-6fttabo-FHD.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abw/366/pb_e_abw-366.jpg",ABW-366 เธซเธเนเธฒเนเธเธเธเธดเธเธซเธต เธเธขเธตเนเธ—เธธเธเธญเธฒเธฃเธกเธ“เน
+#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abw/366/pb_e_abw-366.jpg",ABW-366
 https://ezycdn.com/playlist-lpmr1ik0-FHD.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abf/007/pb_e_abf-007.jpg",ABF-007 เธเธฑเนเธเธ—เนเธฒเธขเน€เธเธฒเธเธฒเธก เธเธฅเธดเนเธเธกเธฒเธ”เธฒเธกเธซเธญเธกเธเธทเนเธเนเธ
+#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abf/007/pb_e_abf-007.jpg",ABF-007
 https://ezycdn.com/playlist-es734l83-FHD.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abf/208/pb_e_abf-208.jpg",ABF-208 เธเธธเธ”เนเธซเธงเธเธชเนเธเธเนเธญเธ เธชเธฐเธ—เนเธญเธเธเธงเธฒเธกเน€เธเนเธเน€เธเธญ
+#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abf/208/pb_e_abf-208.jpg",ABF-208
 https://ezycdn.com/playlist-7s7479qu-FHD.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abw/158/pb_e_abw-158.jpg",ABW-158 เธ–เธเธฑเธ”เธเธฑเธ”เน€เธ”เธทเธญเธข เธเธตเน€เธเธฅเธทเธญเธขเน€เธ”เธฅเธดเน€เธงเธญเธฃเธตเน
+#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abw/158/pb_e_abw-158.jpg",ABW-158
 https://ezycdn.com/playlist-lp4i1ku2-FHD.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abf/017/pb_e_abf-017.jpg",ABF-017 เธ•เธฑเธงเน€เธเธตเธขเธเน€เธฃเธตเธขเธเนเธเธเธเนเธณเนเธ•เธเธ—เธฑเนเธเธญเธญเธเธเธดเธจ
+#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abf/017/pb_e_abf-017.jpg",ABF-017
 https://ezycdn.com/playlist-98bgvmnr-FHD.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abf/137/pb_e_abf-137.jpg",ABF-137 เน€เธฃเธกเธธเน€เธเธดเธ”เธเธฒเธข เนเธ•เธเธชเธฅเธฒเธขเธซเนเธฒเธเธ—เธเธฒเธ—
+#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abf/137/pb_e_abf-137.jpg",ABF-137
 https://ezycdn.com/playlist-ie4oqpqc-FHD.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abf/125/pb_e_abf-125.jpg",ABF-125 เธเธตเนเธเนเธญเธเธ”เธญเธเธเธฑเธ เธเธญเธเธขเธฑเธเธเธ—เธเธฒเธขเธเนเธฒเธง
+#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abf/125/pb_e_abf-125.jpg",ABF-125
 https://ezycdn.com/playlist-7vlkvm9m-FHD.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abf/087/pb_e_abf-087.jpg",ABF-087 เน€เธเธ•เธชเธฒเธงเน€เธชเธเนเธซเธฒเธเธฃเธฃเธกเธ”เธฒเนเธกเนเน€เธฃเนเธฒเนเธ
+#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abf/087/pb_e_abf-087.jpg",ABF-087
 https://ezycdn.com/playlist-5n6n7v6a-FHD.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abf/073/pb_e_abf-073.jpg",ABF-073 เน€เธญเธงเธซเธเธนเนเธกเนเธเธฒเธเธชเธนเนเธซเธฅเธฒเธเธเธ—เธฃเธฑเธ
+#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abf/073/pb_e_abf-073.jpg",ABF-073
 https://ezycdn.com/playlist-v1q84h5s-FHD.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abf/063/pb_e_abf-063.jpg",ABF-063 เน€เธ”เนเธเธกเธฒเน€เธชเธขเน€เธญเธฒเธฅเธฐเน€เธซเธงเธขเธเธเธฃเธฑเธเน€เธกเธตเธข
+#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abf/063/pb_e_abf-063.jpg",ABF-063
 https://ezycdn.com/playlist-uqtp6lu8-FHD.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abf/029/pb_e_abf-029.jpg",ABF-029 เนเธฃเธกเธฃเธฑเธเธเธฑเธเธ•เธนเธเธดเธงเธเธนเนเธชเธตเนเธกเธดเธ•เธด
+#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abf/029/pb_e_abf-029.jpg",ABF-029
 https://ezycdn.com/playlist-ld89ukui-SD.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abw/339/pb_e_abw-339.jpg",ABW-339 เธเธฃเธนเธชเธฒเธงเน€เธเนเธฒเธเธฃเธฃเธกเธจเธตเธฅเธเธฃเธฃเธกเธกเธดเธเธณเธเธฒ
+#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abw/339/pb_e_abw-339.jpg",ABW-339
 https://ezycdn.com/playlist-ojl227tp-SD.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abw/265/pb_e_abw-265.jpg",ABW-265 เธเธญเธเธซเนเธญเธเน€เธ”เธตเธขเธงเธเธฑเธเธซเธฑเธงเธซเธเนเธฒเนเธ”เธเธงเธฒเธเธขเธฒ
+#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abw/265/pb_e_abw-265.jpg",ABW-265
 https://ezycdn.com/playlist-ie6t13vm-SD.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abw/076/pb_e_abw-076.jpg",ABW-076 เธฃเธฑเธเนเธ”เนเนเธซเธกเนเธญเนเน€เธเธทเนเธญเธเธเธตเน
+#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abw/076/pb_e_abw-076.jpg",ABW-076
 https://ezycdn.com/playlist-o9m0101b-SD.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abw/087/pb_e_abw-087.jpg",ABW-087 เธ—เธฃเธขเธจเธฃเธฑเธเน€เธเธฃเธฒเธฐเน€เธเธญเธกเธฑเธเธเธญเธเนเธซเธเน
+#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abw/087/pb_e_abw-087.jpg",ABW-087
 https://ezycdn.com/playlist-cv3lu1s0-SD.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abw/314/pb_e_abw-314.jpg",ABW-314 เธฅเธธเนเธเธซเธเนเธฒเน€เธเธตเธขเธงเนเธเธเน€เธชเธตเธขเธงเธซเธฅเธฒเธขเธเธตเธ
+#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abw/314/pb_e_abw-314.jpg",ABW-314
 https://ezycdn.com/playlist-2no7igb8-SD.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abw/296/pb_e_abw-296.jpg",ABW-296 เน€เธชเธตเธขเธเธชเธฐเน€เธ”เนเธฒเธฃเธฑเธเน€เธเนเธฒเธ—เธตเนเธเนเธฒเธเน€เธเธดเธ”
+#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abw/296/pb_e_abw-296.jpg",ABW-296
 https://ezycdn.com/playlist-e0pkopm1-SD.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://pics.dmm.co.jp/digital/video/118abw00065/118abw00065pl.jpg",ABW-065 เนเธเนเนเธซเนเน€เธซเธฅเธฒเธซเธธเธเน€เธเธฒเธญเธญเธเน€เธเนเธ
+#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://pics.dmm.co.jp/digital/video/118abw00065/118abw00065pl.jpg",ABW-065
 https://ezycdn.com/playlist-8gs3abti-SD.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00984/118abp00984pl.jpg",ABP-984 เธฃเธตเธ”เธเนเธณเนเธ—เธเธชเนเธงเธขเธซเธเนเธงเธขเธเธธเธกเธเธณเธซเธเธฑเธ”
+#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00984/118abp00984pl.jpg",ABP-984
 https://ezycdn.com/playlist-riaca51f-SD.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://fourhoi.com/bgn-054/cover-n.jpg",BGN-054 เน€เธเธดเธ”เน€เธฅเธเธชเนเนเธชเนเธเธงเนเธฒเธซเธฑเธงเนเธเธขเธฑเธขเธญเธดเธเนเธเน€เธเธเธ—เน
+#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://fourhoi.com/bgn-054/cover-n.jpg",BGN-054
 https://ezycdn.com/playlist-at5ju8el-SD.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://fourhoi.com/siro-3759-uncensored-leak/cover-n.jpg",SIRO-3759 เธ•เธฃเธเธเธเธเธฃเธฐเธ”เธเธซเธกเธ”เธซเธฅเธญเธ”
+#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://fourhoi.com/siro-3759-uncensored-leak/cover-n.jpg",SIRO-3759
 https://ezycdn.com/playlist-ue9fpnrm-SD.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00960/118abp00960pl.jpg",ABP-960 เธ—เธฃเธดเธเธซเธฑเธงเธเธงเธ” เธเธฑเธ”เธเธฃเธงเธ”เธญเธญเธเน€เธเนเธ
+#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00960/118abp00960pl.jpg",ABP-960
 https://ezycdn.com/playlist-b5ihp5ps-SD.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/118abp859/118abp859pl.jpg",ABP-859 เธฃเธฒเธ”เธซเธเนเธฒเธซเนเธฒเธเธ—เธเธฒเธ—
+#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/118abp859/118abp859pl.jpg",ABP-859
 https://ezycdn.com/playlist-udcci5bo-SD.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00870/118abp00870pl.jpg",ABP-870 เน€เธเธดเธ”เธญเธญเธเธเธฑเนเธเธเธฃเธฐเธชเธธเธเธฅเธฑเนเธเธเนเธฒเน€เธซเธฅเธทเธญเธ
+#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00870/118abp00870pl.jpg",ABP-870
 https://ezycdn.com/playlist-nat3fv8g-SD.m3u8
 #EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abf/274/pb_e_abf-274.jpg",abf-274
 https://surrit.com/92cbf7ab-6a0f-48e7-bbad-9ac14fe61c50/1080p/video.m3u8
@@ -11096,130 +11093,11 @@ https://surrit.com/cb97b9e2-eff6-4df2-a7a4-cf8f5a0288d0/720p/video.m3u8
 https://surrit.com/e732e109-c3d4-417f-8080-c3d1e01e0cb7/1080p/video.m3u8
 #EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://fourhoi.com/mgssiro-001/cover-n.jpg",mgssiro-001
 https://surrit.com/03cdfa56-73bf-4cc3-9672-db619667cf4f/1080p/video.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abf/149/pb_e_abf-149.jpg",abf-149
-https://eulao-monter.mushroomtrack.com/hls/jBPhc_pP-o-kOurO-HWdww/1771049482/44000/44808/44808.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abf/137/pb_e_abf-137.jpg",abf-137
-https://eulao-monter.mushroomtrack.com/hls/uWZeNMWxdqKc9MASqsNZWw/1771049376/44000/44354/44354.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abf/114/pb_e_abf-114.jpg",abf-114
-https://eulao-monter.mushroomtrack.com/hls/JnibxhfAB6i_QcKy_pnPng/1771048933/43000/43462/43462.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abf/125/pb_e_abf-125.jpg",abf-125
-https://galav-oxwy.mushroomtrack.com/hls/WFMT3BzmLOqYHcU4nH5KkA/1771049142/43000/43113/43113.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abf/105/pb_e_abf-105.jpg",abf-105
-https://galav-oxwy.mushroomtrack.com/hls/MNWuRjCk3N7BAO5tOH9XVg/1771048918/41000/41879/41879.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abf/094/pb_e_abf-094.jpg",abf-094
-https://galav-oxwy.mushroomtrack.com/hls/OOpkURHp8d6OKoL4EMAL5Q/1771048634/41000/41348/41348.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abf/087/pb_e_abf-087.jpg",abf-087
-https://eulao-monter.mushroomtrack.com/hls/FiwxC--ZiQEVA3Kvo2A21Q/1771048630/40000/40650/40650.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abf/073/pb_e_abf-073.jpg",abf-073
-https://galav-oxwy.mushroomtrack.com/hls/cvSWyzkmqMPU-dTEPuR8eQ/1771049050/39000/39645/39645.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abf/063/pb_e_abf-063.jpg",abf-063
-https://gobob-yasl.mushroomtrack.com/hls/KB3Tpc-ZYTOGkqRvsoNh4w/1771048874/38000/38800/38800.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abf/055/pb_e_abf-055.jpg",abf-055
-https://gmas-clena.mushroomtrack.com/hls/hCUiq5h6hFfzzqNdd5crmQ/1771048907/38000/38276/38276.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abf/043/pb_e_abf-043.jpg",abf-043
-https://gobob-yasl.mushroomtrack.com/hls/HY4onx0bEsWhyoCXVu9Yfw/1771049139/37000/37297/37297.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abf/034/pb_e_abf-034.jpg",abf-034
-https://gmas-clena.mushroomtrack.com/hls/62qjxUZ3CK0CI7hFLxRubA/1771048696/36000/36774/36774.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abf/029/pb_e_abf-029.jpg",abf-029
-https://gobob-yasl.mushroomtrack.com/hls/Kq-Jq3BCWk89REa0RHuB6Q/1771048753/36000/36173/36173.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abf/017/pb_e_abf-017.jpg",abf-017
-https://gmas-clena.mushroomtrack.com/hls/4hwA17ySi1G6M-719wMy8w/1771048562/35000/35652/35652.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abf/007/pb_e_abf-007.jpg",abf-007
-https://gobob-yasl.mushroomtrack.com/hls/UAqITSkWt6tb7UYo_OqvvA/1771048699/35000/35713/35713.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abw/366/pb_e_abw-366.jpg",abw-366
-https://gobob-yasl.mushroomtrack.com/hls/BNyQlNr_2pdfri1DJyx6Tg/1771048864/34000/34173/34173.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abw/305/pb_e_abw-305.jpg",abw-305
-https://gobob-yasl.mushroomtrack.com/hls/3nBOQ7a-HBzKdi9VJ6z8Eg/1771048569/33000/33266/33266.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://fourhoi.com/abw-358-uncensored-leak/cover-n.jpg",abw-358
-https://gmas-clena.mushroomtrack.com/hls/VUW0V3TbctZKIAQs69bqWQ/1771048941/33000/33263/33263.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abw/348/pb_e_abw-348.jpg",abw-348
-https://fuaf-uying.mushroomtrack.com/hls/SsvgVTQiIaEFJQs_LW_5oA/1771049045/32000/32816/32816.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abw/339/pb_e_abw-339.jpg",abw-339
-https://fuaf-uying.mushroomtrack.com/hls/S0PWlHumYt9Pu9oRTPjw6g/1771048374/32000/32118/32118.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abw/324/pb_e_abw-324.jpg",abw-324
-https://masno-terer.mushroomtrack.com/hls/ZJKAuvTldhmMckm1p33Deg/1771048566/30000/30266/30266.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abw/314/pb_e_abw-314.jpg",abw-314
-https://masno-terer.mushroomtrack.com/hls/Cw6J9xkgoMn8WXjfS2X9mw/1771048980/30000/30168/30168.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abw/296/pb_e_abw-296.jpg",abw-296
-https://fuaf-uying.mushroomtrack.com/hls/TWmwALum3F17Xeq7MMSMKg/1771048960/28000/28621/28621.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abw/286/pb_e_abw-286.jpg",abw-286
-https://fuaf-uying.mushroomtrack.com/hls/rIl0upFkUfzGTNpveKePSQ/1771048936/27000/27980/27980.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abw/276/pb_e_abw-276.jpg",abw-276
-https://halas-monsl.mushroomtrack.com/hls/niEnOtEqXJZ1h1dqk06sUQ/1771048625/26000/26613/26613.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abw/265/pb_e_abw-265.jpg",abw-265
-https://hansn-govi.mushroomtrack.com/hls/KYj2Ugjff68g8-lLQdW0Kw/1771048230/26000/26374/26374.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abw/254/pb_e_abw-254.jpg",abw-254
-https://masno-terer.mushroomtrack.com/hls/-mwRDESpbLGpp79TNZV8zg/1771048237/28000/28986/28986.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abw/198/pb_e_abw-198.jpg",abw-198
-https://halas-monsl.mushroomtrack.com/hls/qezXcjXxLzvp8dwqfzm-bg/1771048418/24000/24632/24632.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abw/244/pb_e_abw-244.jpg",abw-244
-https://fuaf-uying.mushroomtrack.com/hls/EhC0HvJRnfU-aBrYdJGqqg/1771048620/32000/32676/32676.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abw/232/pb_e_abw-232.jpg",abw-232
-https://hansn-govi.mushroomtrack.com/hls/ZFuQkoxENjz1QNr632tN3A/1771048575/24000/24370/24370.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abw/220/pb_e_abw-220.jpg",abw-220
-https://halas-monsl.mushroomtrack.com/hls/8j3CqOPAuInjjJ7aomchsw/1771048736/23000/23402/23402.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abw/208/pb_e_abw-208.jpg",abw-208
-https://hansn-govi.mushroomtrack.com/hls/nIM3Go_0jSJ_YC5RWFnzmA/1771048213/22000/22496/22496.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abw/179/pb_e_abw-179.jpg",abw-179
-https://halas-monsl.mushroomtrack.com/hls/iuU_rsHhX9rzMIPEdJudsQ/1771048682/20000/20750/20750.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abw/158/pb_e_abw-158.jpg",abw-158           https://halas-monsl.mushroomtrack.com/hls/DHfAJnf6p8oE7CAoM48L7A/1771048320/19000/19521/19521.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://pics.dmm.co.jp/digital/video/118abw00006/118abw00006pl.jpg",abw-006
-https://hansn-govi.mushroomtrack.com/hls/P1jjnayyUypuQNWHWL9aBA/1771048705/19000/19139/19139.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abw/153/pb_e_abw-153.jpg",abw-153
-https://halas-monsl.mushroomtrack.com/hls/50hH-4nfmxfEVzEmFQ3oGw/1771047980/19000/19052/19052.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abw/135/pb_e_abw-135.jpg",abw-135
-https://halas-monsl.mushroomtrack.com/hls/CrJPaMnrqcUB7v8MtY-kkg/1771047980/18000/18258/18258.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abw/108/pb_e_abw-108.jpg",abw-108
-https://hansn-govi.mushroomtrack.com/hls/wEP8b4LShXcPIgxLGyZL-A/1771047770/19000/19906/19906.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abw/121/pb_e_abw-121.jpg",abw-121
-https://ap-drop-monst.mushroomtrack.com/bcdn_token=UWS1SiBMEVWTge79STV8rDE7vOda25ATIeWzJHTk4XA&expires=1771044590&token_path=%2Fvod%2F/vod/17000/17614/17614.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abw/096/pb_e_abw-096.jpg",abw-096
-https://ap-drop-monst.mushroomtrack.com/bcdn_token=C6LyFQb9Hhmp6WfiiELEH8AeXyqPKkP_cxU9RQOIt8g&expires=1771044642&token_path=%2Fvod%2F/vod/16000/16291/16291.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abw/087/pb_e_abw-087.jpg",ABW-087           https://ap-drop-monst.mushroomtrack.com/bcdn_token=Yy7zovXdOcfc-xwxEco32xMdOZiTYcls42fiea0aKWM&expires=1771044856&token_path=%2Fvod%2F/vod/16000/16752/16752.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://image.mgstage.com/images/prestige/abw/076/pb_e_abw-076.jpg",ABW-076
-https://ap-drop-monst.mushroomtrack.com/bcdn_token=8Ugb69thE0aWcUK7Latb6_WdiynW-hQ3yw_OM72QkXw&expires=1771044920&token_path=%2Fvod%2F/vod/16000/16835/16835.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00939/118abp00939pl.jpg",abp-939
-https://ao-block-ater.mushroomtrack.com/bcdn_token=yaX9Yyz4VNvHyR3Ij34mv2LqLpMkDhRRiBE9hewzoY4&expires=1771044804&token_path=%2Fvod%2F/vod/7000/7668/7668.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00859/118abp00859pl.jpg",abp-859
-https://qabo-ahha.mushroomtrack.com/hls/njt8KRJD4aLxU_MBErKk1A/1771047948/1000/1186/1186.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00919/118abp00919pl.jpg",abp-919
-https://catc-less.mushroomtrack.com/hls/7Wx_IStKQHjIK3lAd59MgA/1771048196/3000/3774/3774.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://fourhoi.com/bgn-054/cover-n.jpg",bgn-054
-https://ao-block-ater.mushroomtrack.com/bcdn_token=rGIftPkCy_wBPVGUDS3d9fQtaey2bHNhnJ-zX80jlBA&expires=1771044610&token_path=%2Fvod%2F/vod/5000/5497/5497.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00950/118abp00950pl.jpg",abp-950
-https://ao-block-ater.mushroomtrack.com/bcdn_token=MB4Ioq4NKQozMHDEb-56o0PG3mnvUaS8dEkDlncu3XY&expires=1771044117&token_path=%2Fvod%2F/vod/5000/5910/5910.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00960/118abp00960pl.jpg",abp-960
-https://ao-block-ater.mushroomtrack.com/bcdn_token=lptlASMH4CBDqGYMp3k7um-yGi9z7IFwLNff-vdHQPI&expires=1771044576&token_path=%2Fvod%2F/vod/6000/6534/6534.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00870/118abp00870pl.jpg",abp-870
-https://ao-block-ater.mushroomtrack.com/bcdn_token=ZL8pk6q9WheUkpwx1H_hJQlFVLJdlEN4oVgL7CKrEUA&expires=1771044766&token_path=%2Fvod%2F/vod/6000/6655/6655.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00901/118abp00901pl.jpg",abp-901
-https://ao-block-ater.mushroomtrack.com/bcdn_token=8IYpu_X_92H0r9jIifx9cVf5j5FwEpFV-u25eAsLbOo&expires=1771043892&token_path=%2Fvod%2F/vod/6000/6800/6800.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00968/118abp00968pl.jpg",abp-968
-https://ao-block-ater.mushroomtrack.com/bcdn_token=9X9P1OJBkyYQvSN6wKstdvjBC9rxY_QbsmlWjSI-dpk&expires=1771044705&token_path=%2Fvod%2F/vod/7000/7133/7133.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00975/118abp00975pl.jpg",abp-975
-https://ao-block-ater.mushroomtrack.com/bcdn_token=Ggo0s_cBq3qb0zpiCstjWef2kbMFgiqCLcBK7Xv3LZk&expires=1771044429&token_path=%2Fvod%2F/vod/7000/7671/7671.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00912/118abp00912pl.jpg",abp-912
-https://ao-block-ater.mushroomtrack.com/bcdn_token=f81NusfPoCFHzXn-IfLxZXcAlcwKnlCDUoiaXQOL4v4&expires=1771044254&token_path=%2Fvod%2F/vod/7000/7815/7815.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://pics.dmm.co.jp/digital/video/118chn00174/118chn00174pl.jpg",chn-174
-https://ao-block-ater.mushroomtrack.com/bcdn_token=dLBgAepERyQGgna8coIp-WHrMIKjS2Gk5Q_bn8MgT5o&expires=1771044384&token_path=%2Fvod%2F/vod/7000/7888/7888.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00984/118abp00984pl.jpg",abp-984
-https://ao-block-ater.mushroomtrack.com/bcdn_token=prjzDsyrQ3sr2TGGwBqryCN2ZXjfPEf7TIBk52rtyBI&expires=1771043950&token_path=%2Fvod%2F/vod/9000/9512/9512.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://pics.dmm.co.jp/digital/video/118abw00015/118abw00015pl.jpg",abw-015
-https://ap-drop-monst.mushroomtrack.com/bcdn_token=hEJ-NJnjr3JjkRvhv07TMZJ-kwrYNbl_EKRtFHLbFyQ&expires=1771044112&token_path=%2Fvod%2F/vod/11000/11292/11292.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://pics.dmm.co.jp/digital/video/118abw00023/118abw00023pl.jpg",abw-023
-https://ap-drop-monst.mushroomtrack.com/bcdn_token=ea2DFvCkzsLtuexGexP8m7L8cbcMZT9fs5buWML6DoI&expires=1771043717&token_path=%2Fvod%2F/vod/11000/11604/11604.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://pics.dmm.co.jp/digital/video/118abw00032/118abw00032pl.jpg",abw-032
-https://ap-drop-monst.mushroomtrack.com/bcdn_token=BePx6HWbXj3IhSHrYdqaWFtgvNkZ-X2QFiABxf9fslc&expires=1771044040&token_path=%2Fvod%2F/vod/11000/11885/11885.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://pics.dmm.co.jp/digital/video/118abw00043/118abw00043pl.jpg",abw-043
-https://ap-drop-monst.mushroomtrack.com/bcdn_token=jF0Ld6b4M-NsmsmdN4jbn8r_V-ghFv4dwmT-TU_Y6r4&expires=1771043757&token_path=%2Fvod%2F/vod/12000/12726/12726.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://pics.dmm.co.jp/digital/video/118abw00054/118abw00054pl.jpg",abw-054
-https://ap-drop-monst.mushroomtrack.com/bcdn_token=CthVm9FgPdjhKCgPyc0HzhlSgZYWhTL2RwmkCDYEfcc&expires=1771043749&token_path=%2Fvod%2F/vod/16000/16834/16834.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://pics.dmm.co.jp/digital/video/118abw00065/118abw00065pl.jpg",abw-065
-https://halas-monsl.mushroomtrack.com/hls/ouHk-aKY3kWZrEtzSrtvsA/1771048085/19000/19853/19853.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00933/118abp00933pl.jpg",ABP-933
-https://dot-lobo.mushroomtrack.com/hls/snesUOdKQh3ehipQRVauUA/1771047331/4000/4626/4626.m3u8
-#EXTINF:-1 group-title="Remu Suzumori" tvg-logo="https://pics.dmm.co.jp/digital/video/118abp00889/118abp00889pl.jpg",ABP-889
-https://ao-block-ater.mushroomtrack.com/bcdn_token=kUXwQaqzv5raeVeqMqai2sE6xf4Z7zht3lW3fsYUdcQ&expires=1771044436&token_path=%2Fvod%2F/vod/7000/7745/7745.m3u8
+
+
+ 
+ 
+
 
 
 
@@ -11255,3 +11133,130 @@ https://surrit.com/aa41c047-43e5-43c4-ab10-7b212d7dcd8f/1080p/video.m3u8
 https://surrit.com/34ca45c2-ea04-4496-b90f-a40ee128a6b2/720p/video.m3u8
 #EXTINF:-1 group-title="Kanna Seto" tvg-logo="https://i.postimg.cc/fLhLXBYB/sone00614pl.jpg",SONE-614 
 https://surrit.com/a53defa5-45ba-45a3-833a-6978b53cc900/1080p/video.m3u8
+
+#EXTINF:-1 group-title="Suzunori Rin" tvg-logo="https://fourhoi.com/hmn-792/cover-t.jpg",HMN-792
+https://surrit.com/43c35936-33f8-44d9-b862-81e45b2cfb8a/1080p/video.m3u8
+#EXTINF:-1 group-title="Suzunori Rin" tvg-logo="https://fourhoi.com/hnds-082/cover-t.jpg",HNDS-082
+https://surrit.com/57ded830-0831-4dc3-9cc8-6f995597233d/1080p/video.m3u8
+#EXTINF:-1 group-title="Suzunori Rin" tvg-logo="https://fourhoi.com/waaa-616/cover-t.jpg",WAAA-616
+https://surrit.com/a26ec5a4-d128-4481-97cf-2d78551d8e30/720p/video.m3u8
+#EXTINF:-1 group-title="Suzunori Rin" tvg-logo="https://fourhoi.com/hmn-782-uncensored-leak/cover-t.jpg",HMN-782
+https://surrit.com/fa425958-f5ea-4ede-b0cc-0e8c14318580/1080p/video.m3u8
+#EXTINF:-1 group-title="Suzunori Rin" tvg-logo="https://fourhoi.com/waaa-601-uncensored-leak/cover-t.jpg",WAAA-601
+https://surrit.com/bf77be5a-6385-4a7b-8134-e47605422218/1080p/video.m3u8
+#EXTINF:-1 group-title="Suzunori Rin" tvg-logo="https://fourhoi.com/hmn-768-uncensored-leak/cover-t.jpg",HMN-768
+https://surrit.com/e462b76c-0173-4081-b8b1-c2d9788b19c7/1080p/video.m3u8
+#EXTINF:-1 group-title="Suzunori Rin" tvg-logo="https://fourhoi.com/waaa-593/cover-t.jpg",WAAA-593
+https://surrit.com/f4bc4692-b853-4ccc-b950-3e0a73eff5d4/1080p/video.m3u8
+#EXTINF:-1 group-title="Suzunori Rin" tvg-logo="https://fourhoi.com/hmn-758-chinese-subtitle/cover-t.jpg",HMN-758
+https://surrit.com/f3dbb383-256a-47f6-9e6c-e6f4d50df972/720p/video.m3u8
+#EXTINF:-1 group-title="Suzunori Rin" tvg-logo="https://fourhoi.com/waaa-583/cover-t.jpg",WAAA-583
+https://surrit.com/c1c953a7-5e93-4371-9fb0-c796637ad6cc/1080p/video.m3u8
+#EXTINF:-1 group-title="Suzunori Rin" tvg-logo="https://fourhoi.com/hmn-742-uncensored-leak/cover-t.jpg",HMN-742
+https://surrit.com/60797e58-6c6f-4452-a1a9-04f6bae79a55/1080p/video.m3u8
+#EXTINF:-1 group-title="Suzunori Rin" tvg-logo="https://fourhoi.com/waaa-575/cover-t.jpg",WAAA-575
+https://surrit.com/d8c9e863-5aee-47f8-b797-87ff4d99cf62/1080p/video.m3u8
+#EXTINF:-1 group-title="Suzunori Rin" tvg-logo="https://fourhoi.com/hmn-732/cover-t.jpg",HMN-732
+https://surrit.com/5770adbe-a37e-49ab-8764-1781ea06bbee/1080p/video.m3u8
+#EXTINF:-1 group-title="Suzunori Rin" tvg-logo="https://fourhoi.com/waaa-562-uncensored-leak/cover-t.jpg",WAAA-562
+https://surrit.com/b3f13559-75ce-4c11-b1e1-fe27b7ee0f96/1080p/video.m3u8
+#EXTINF:-1 group-title="Suzunori Rin" tvg-logo="https://fourhoi.com/hmn-726-chinese-subtitle/cover-t.jpg",HMN-726
+https://surrit.com/3bf983df-8da7-4a9d-8452-5044e0f7f6b1/720p/video.m3u8
+#EXTINF:-1 group-title="Suzunori Rin" tvg-logo="https://fourhoi.com/waaa-554-uncensored-leak/cover-t.jpg",WAAA-554
+https://surrit.com/875f69f3-a98d-438f-924f-73b0783c9f65/1080p/video.m3u8
+#EXTINF:-1 group-title="Suzunori Rin" tvg-logo="https://fourhoi.com/waaa-543-uncensored-leak/cover-t.jpg",WAAA-543
+https://surrit.com/7d4e5d06-96cf-4f95-83cf-45f92b0c6b3d/1080p/video.m3u8
+#EXTINF:-1 group-title="Suzunori Rin" tvg-logo="https://fourhoi.com/waaa-529-uncensored-leak/cover-t.jpg",WAAA-529
+https://surrit.com/a52aad09-a751-4a20-90c2-b001dbdc1d6f/1080p/video.m3u8
+#EXTINF:-1 group-title="Suzunori Rin" tvg-logo="https://fourhoi.com/waaa-519-uncensored-leak/cover-t.jpg",WAAA-519
+https://surrit.com/6e1a05b1-1ee8-42a7-af66-2d4a59ee2ea2/1080p/video.m3u8
+#EXTINF:-1 group-title="Suzunori Rin" tvg-logo="https://fourhoi.com/hmn-685-uncensored-leak/cover-t.jpg",HMN-685
+https://surrit.com/592e3f0c-18f3-4b7c-bb8b-e58d17bc55b9/1080p/video.m3u8
+#EXTINF:-1 group-title="Suzunori Rin" tvg-logo="https://fourhoi.com/waaa-498-uncensored-leak/cover-t.jpg",WAAA-498
+https://surrit.com/233fca76-5198-4b6a-90a3-b90126676d42/1080p/video.m3u8
+#EXTINF:-1 group-title="Suzunori Rin" tvg-logo="https://fourhoi.com/hmn-676-uncensored-leak/cover-t.jpg",HMN-676
+https://surrit.com/eba0d521-bbd6-4c27-9333-1495265c85db/1080p/video.m3u8
+#EXTINF:-1 group-title="Suzunori Rin" tvg-logo="https://fourhoi.com/thu-043/cover-t.jpg",THU-043
+https://surrit.com/9abf020c-ac66-4e5c-9492-978d14ca422d/720p/video.m3u8
+#EXTINF:-1 group-title="Suzunori Rin" tvg-logo="https://fourhoi.com/waaa-485-uncensored-leak/cover-t.jpg",WAAA-485
+https://surrit.com/28f56b28-77ad-4a17-93dd-932a21cd0ae2/1080p/video.m3u8
+#EXTINF:-1 group-title="Suzunori Rin" tvg-logo="https://fourhoi.com/ppx-026/cover-t.jpg",PPX-026
+https://surrit.com/f54efb66-a23c-4fb2-af90-d263524fabb8/720p/video.m3u8
+#EXTINF:-1 group-title="Suzunori Rin" tvg-logo="https://fourhoi.com/hmn-643-uncensored-leak/cover-t.jpg",HMN-643
+https://surrit.com/4a370849-3c47-46f3-950a-6d7b0c97f046/1080p/video.m3u8
+#EXTINF:-1 group-title="Suzunori Rin" tvg-logo="https://fourhoi.com/waaa-475-uncensored-leak/cover-t.jpg",WAAA-475
+https://surrit.com/26d77889-266b-4b28-aef9-e3568d3223f3/1080p/video.m3u8
+#EXTINF:-1 group-title="Suzunori Rin" tvg-logo="https://fourhoi.com/hmn-642-uncensored-leak/cover-t.jpg",HMN-642
+https://surrit.com/3ac65445-22eb-4d97-8681-da5277b42507/1080p/video.m3u8
+#EXTINF:-1 group-title="Suzunori Rin" tvg-logo="https://fourhoi.com/waaa-465-uncensored-leak/cover-t.jpg",WAAA-465
+https://surrit.com/70800168-33ca-4bf5-9530-ceb2855ea561/1080p/video.m3u8
+#EXTINF:-1 group-title="Suzunori Rin" tvg-logo="https://fourhoi.com/hmn-635/cover-t.jpg",HMN-635
+https://surrit.com/9feee8c4-d467-4342-84f4-7b6de744df54/720p/video.m3u8
+#EXTINF:-1 group-title="Suzunori Rin" tvg-logo="https://fourhoi.com/waaa-450-uncensored-leak/cover-t.jpg",WAAA-450
+https://surrit.com/0a94acf8-bf30-4f9f-b36c-e264207b03f7/1080p/video.m3u8
+#EXTINF:-1 group-title="Suzunori Rin" tvg-logo="https://fourhoi.com/hmn-620-uncensored-leak/cover-t.jpg",HMN-620
+https://surrit.com/7d7c53f9-95d7-4a3a-97e1-ede14069f3f4/1080p/video.m3u8
+#EXTINF:-1 group-title="Suzunori Rin" tvg-logo="https://fourhoi.com/waaa-433-uncensored-leak/cover-t.jpg",WAAA-433
+https://surrit.com/9da2c812-714c-4d63-a285-93246897933c/1080p/video.m3u8
+#EXTINF:-1 group-title="Suzunori Rin" tvg-logo="https://fourhoi.com/thu-040/cover-t.jpg",THU-040
+https://surrit.com/9d65e718-19bc-4525-abc2-b1cb3b6632ea/720p/video.m3u8
+#EXTINF:-1 group-title="Suzunori Rin" tvg-logo="https://fourhoi.com/abf-141-uncensored-leak/cover-t.jpg",ABF-141
+https://surrit.com/be34646f-9fa9-4801-adbd-a852e9e96b10/1080p/video.m3u8
+#EXTINF:-1 group-title="Suzunori Rin" tvg-logo="https://fourhoi.com/abf-129-uncensored-leak/cover-t.jpg",ABF-129
+https://surrit.com/255446f3-4fb6-4041-a5d4-e46d72476ac3/1080p/video.m3u8
+#EXTINF:-1 group-title="Suzunori Rin" tvg-logo="https://fourhoi.com/thu-034/cover-t.jpg",THU-034
+https://surrit.com/4ac9c22e-6af5-4fc8-b289-2064603aea01/720p/video.m3u8
+#EXTINF:-1 group-title="Suzunori Rin" tvg-logo="https://fourhoi.com/abf-118-uncensored-leak/cover-t.jpg",ABF-118
+https://surrit.com/379f4f1c-6c47-410f-a509-37bbda0d09ad/1080p/video.m3u8
+#EXTINF:-1 group-title="Suzunori Rin" tvg-logo="https://fourhoi.com/abf-108-uncensored-leak/cover-t.jpg",ABF-108
+https://surrit.com/13c9dd06-8931-4baf-90f8-cdeac1985cce/1080p/video.m3u8
+#EXTINF:-1 group-title="Suzunori Rin" tvg-logo="https://fourhoi.com/abf-098-uncensored-leak/cover-t.jpg",ABF-098
+https://surrit.com/305b82fd-4e1b-4c38-a35a-84dde8af5327/1080p/video.m3u8
+#EXTINF:-1 group-title="Suzunori Rin" tvg-logo="https://fourhoi.com/thu-028/cover-t.jpg",THU-028
+https://surrit.com/b3f644be-6f71-43c3-9544-c678e808467b/1080p/video.m3u8
+#EXTINF:-1 group-title="Suzunori Rin" tvg-logo="https://fourhoi.com/rebd-822/cover-t.jpg",REBD-822
+https://surrit.com/ee30e359-ed3f-4906-af35-ca66aedb7803/1080p/video.m3u8
+#EXTINF:-1 group-title="Suzunori Rin" tvg-logo="https://fourhoi.com/rebd-766/cover-t.jpg",REBD-766
+https://surrit.com/e86ecfc6-c4cc-48b6-86a6-1472e8261fd9/1280x720/video.m3u8
+#EXTINF:-1 group-title="Suzunori Rin" tvg-logo="https://fourhoi.com/abf-008-uncensored-leak/cover-t.jpg",ABF-008
+https://surrit.com/edb6580d-32de-471a-99c1-1b1e06ac921c/1280x720/video.m3u8
+#EXTINF:-1 group-title="Suzunori Rin" tvg-logo="https://fourhoi.com/abw-365-uncensored-leak/cover-t.jpg",ABW-365
+https://surrit.com/a92fb15d-37d0-4ae6-bdca-cdd283ce4da6/1280x720/video.m3u8
+#EXTINF:-1 group-title="Suzunori Rin" tvg-logo="https://fourhoi.com/abw-354-uncensored-leak/cover-t.jpg",ABW-354
+https://surrit.com/c8de9bca-bd65-4d8d-bead-912ccd6bffee/1280x720/video.m3u8
+
+
+#EXTINF:-1 group-title="Kanna Miki" tvg-logo="https://fourhoi.com/mida-520-uncensored-leak/cover-t.jpg",MIDA-520
+https://surrit.com/85e88be8-eb67-43e2-8961-788e081347a1/1080p/video.m3u8
+#EXTINF:-1 group-title="Kanna Miki" tvg-logo="https://fourhoi.com/mida-481-uncensored-leak/cover-t.jpg",MIDA-481
+https://surrit.com/e3946cdd-5297-4461-86d7-93c1de205ad0/1080p/video.m3u8
+#EXTINF:-1 group-title="Kanna Miki" tvg-logo="https://fourhoi.com/mida-447-uncensored-leak/cover-t.jpg",MIDA-447
+https://surrit.com/a48ae01d-1812-4fd8-92cd-d3c09df127db/1080p/video.m3u8
+#EXTINF:-1 group-title="Kanna Miki" tvg-logo="https://fourhoi.com/mida-409-chinese-subtitle/cover-t.jpg",MIDA-409
+https://surrit.com/c8f0af6f-d4c8-4091-83bb-71ed8c6e121c/720p/video.m3u8
+#EXTINF:-1 group-title="Kanna Miki" tvg-logo="https://fourhoi.com/mida-370-uncensored-leak/cover-t.jpg",MIDA-370
+https://surrit.com/bf1fd125-37e8-4396-90af-e449feaef339/1080p/video.m3u8
+#EXTINF:-1 group-title="Kanna Miki" tvg-logo="https://fourhoi.com/mida-330-chinese-subtitle/cover-t.jpg",MIDA-330
+https://surrit.com/7128f052-0fe6-4f86-8359-50d44a1e4a80/720p/video.m3u8
+#EXTINF:-1 group-title="Kanna Miki" tvg-logo="https://fourhoi.com/mida-288-uncensored-leak/cover-t.jpg",MIDA-288
+https://surrit.com/5772816d-adb9-4544-9c08-a62e78b0c81f/1080p/video.m3u8
+#EXTINF:-1 group-title="Kanna Miki" tvg-logo="https://fourhoi.com/mida-244-uncensored-leak/cover-t.jpg",MIDA-244
+https://surrit.com/ee1fd641-c9b4-4526-b45f-c8a3d3fb0d6c/1080p/video.m3u8
+#EXTINF:-1 group-title="Kanna Miki" tvg-logo="https://fourhoi.com/mida-204/cover-t.jpg",MIDA-204
+https://surrit.com/785e36b6-6dcc-4fef-b721-f9dfd324cb61/720p/video.m3u8
+#EXTINF:-1 group-title="Kanna Miki" tvg-logo="https://fourhoi.com/rebd-942/cover-t.jpg",REBD-942
+https://surrit.com/b109e4bf-0a1f-40db-93df-68ffafb981fa/720p/video.m3u8
+#EXTINF:-1 group-title="Kanna Miki" tvg-logo="https://fourhoi.com/mida-165-uncensored-leak/cover-t.jpg",MIDA-165
+https://surrit.com/34122177-d1fb-4f58-a139-9db4d899bf70/1080p/video.m3u8
+#EXTINF:-1 group-title="Kanna Miki" tvg-logo="https://fourhoi.com/mida-128-uncensored-leak/cover-t.jpg",MIDA-128
+https://surrit.com/67994b2d-bc36-48e8-afe4-7ca28ac38f8f/1080p/video.m3u8
+#EXTINF:-1 group-title="Kanna Miki" tvg-logo="https://fourhoi.com/mida-092-uncensored-leak/cover-t.jpg",MIDA-092
+https://surrit.com/3c06c37b-9f57-4584-b42a-84f23007c92e/1080p/video.m3u8
+#EXTINF:-1 group-title="Kanna Miki" tvg-logo="https://fourhoi.com/mida-054-uncensored-leak/cover-t.jpg",MIDA-054
+https://surrit.com/dbbc7e3b-13f6-45ba-b9cd-0aa6ad5cc55a/1080p/video.m3u8
+#EXTINF:-1 group-title="Kanna Miki" tvg-logo="https://fourhoi.com/mida-021-uncensored-leak/cover-t.jpg",MIDA-021
+https://surrit.com/8fb7c307-b7d6-423a-aa6d-3f217b9cb70a/1080p/video.m3u8
+#EXTINF:-1 group-title="Kanna Miki" tvg-logo="https://fourhoi.com/fway-045/cover-t.jpg",FWAY-045
+https://surrit.com/c1ffa782-8d4f-4eed-b943-32f5bb42de33/1080p/video.m3u8
+#EXTINF:-1 group-title="Kanna Miki" tvg-logo="https://fourhoi.com/midv-983-uncensored-leak/cover-t.jpg",MIDV-983
+https://surrit.com/2b3111a3-40c1-4c5a-b322-96234dc7a2c7/1080p/video.m3u8
